@@ -1,3 +1,24 @@
+# chart：图表/地图（视语境）
+# guile：狡诈
+# Pale It：苍白者
+# dark champion：黑暗冠军
+# saviour：救主/救赎者
+# long gaze：长久注视/目光（视语境）
+# marks：标记
+# collapse：崩塌/坍塌（视语境）
+# Sula：苏拉
+# child of steel：钢铁之子
+# pin-sibling：针姬姐妹
+# chart：地图/图表（视语境）
+# Masters：主人
+# vassal：仆从
+# Ore-bound：受矿石约束
+# Pinstress：针姬
+# Pharloom：法鲁姆
+# needle bug：针虫
+# pin（武器）：刺针
+# page：分页（UI标签，建议保留英文）
+# hpage：横页（UI标签，建议保留英文）
 # Hollow Knight Silk Song 专有名词翻译记录
 
 Pharloom：法鲁姆
