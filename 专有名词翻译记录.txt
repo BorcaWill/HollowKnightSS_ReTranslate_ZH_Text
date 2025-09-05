@@ -1,0 +1,56 @@
+# Hollow Knight Silk Song 专有名词翻译记录
+
+Pharloom：法鲁姆
+Citadel：圣堡
+Sentinel：哨卫
+Weaver-spawn：织者之子
+Vaultkeeper：金库守护者
+Psalm Cylinder / Sacred Cylinder / Melody Cylinder / Relic Cylinder：圣咏圆筒
+Song Knight：金色之人（或“金甲虫”，视语境）
+Gourmand / Great Gourmand：大胃王（或“伟大的美食家”）
+Courier：快递员
+Pickled Muckmaggot：腌制的污泥蛆
+Crustnut：硬壳果
+Vintage Nectar：陈年蜜露
+Mossberries：苔莓
+Brood Mother：母巢虫
+Conductor：指挥家
+Rosaries：念珠
+Husk / Thread / Silken Curse：空壳 / 丝 / 丝之诅咒
+Weaver：织者
+Slab Prisoner：石板囚犯
+Librarian：学者虫（或“管理员”，但为统一建议用“金库守护者”）
+Melody / Sacred Song / Sacred Melody：圣歌 / 旋律
+Pilgrim：朝圣者
+Hallowed Page / hpage：圣页（如为UI标签可保留hpage）
+Grand Gate：大门
+Coral：珊瑚
+Song Knight（角色名）：金色之人
+Gilded One：金色之人
+The Great Stage：伟大舞台
+The Black Threads：黑色丝线
+The Sacred Heart：圣心
+The Sacred Feast / Holy Dish：神圣盛宴
+The Sacred Treat：圣品
+The Sacred Hall：神圣大厅
+The Sacred Task：神圣任务
+The Sacred Understanding：神圣知识
+The Sacred Law / Law：律法
+The Sacred Gift：神圣礼物
+The Sacred Insight：神圣见解
+The Sacred Duty：神圣职责
+The Sacred Indulgence：神圣享受
+The Sacred Oil / Pale Oil：苍白油
+The Sacred Relic：圣物
+The Sacred Collection：神圣收藏
+The Sacred Knowledge：神圣知识
+The Sacred Chorus：神圣合唱
+The Sacred Prayer：神圣祷文
+The Sacred Record：神圣记录
+The Sacred Vault：神圣金库
+The Sacred Chamber：神圣密室
+The Sacred Meal：神圣餐点
+The Sacred Snack：神圣小吃
+The Sacred Blessing：神圣祝福
+
+# 说明：如有新专有名词请补充。
