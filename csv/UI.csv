@@ -1,0 +1,395 @@
+Key,EN,ZH
+INV_DESC_MOSSBERRY,Sweet fruit that grows in moist environments. Its seeds are toxic to most creatures.,生长在潮湿环境中的甜味浆果，种子对大多数生物有毒。
+INV_NAME_DRESS_BROLLY,Drifter&#8217;s Cloak,流浪者披风
+INV_NAME_SHELL_FLOWER,Pollip Heart,花芯
+RELIC_SEAL_CHIT_MEMORIUM_DESC,Report of the Memorium and its maintenance.&lt;br&gt;&lt;br&gt;&#8220;Containment fails. Memory lost. Excise outer. Maintain inner.&lt;br&gt;Shellwood stasis sustained - Remember.&lt;br&gt;Marrowlands stasis critical - Remember.&lt;br&gt;Verdanian environment exceeded - Destined to forget.&#8221;,忆廊维缮报告。&lt;br&gt;&lt;br&gt;&#8220;封存溃败。记忆遗失。切除外区。维持内区。&lt;br&gt;甲木林封存稳定——须铭记。&lt;br&gt;髓骨地封存危急——须铭记。&lt;br&gt;翠庭生态失控——注定遗忘。&#8221;
+INV_NAME_HEART_BLOOM,Pollen Heart,花粉之心
+INV_DESC_SHARD_POUCH_USE,Contains {0} shell shards.,内含{0}块甲壳碎片。
+CTRL_ZOOM_OUT,Zoom Out,缩小
+INV_NAME_MEMENTO_FLEA,Fleatopia Memento,蚤托邦忆痕
+INV_DESC_CRAWBELL,"Nest fashioned from an old bell. Once set up, young Craws will occasionally roost within, filling the bell with shell shards and rosaries.&lt;br&gt;&lt;br&gt;The Crawbell can be installed on the exterior of a home.",由旧钟改造的虫巢。安装后，腐囊虫幼体会偶尔栖息其中，留下甲壳碎片与念珠。&lt;br&gt;&lt;br&gt;腐囊钟巢可安装在钟居外部。
+INV_NAME_MAPANDQUILL,Map &amp; Quill,地图 &amp; 羽毛笔
+CTRL_ROLL,Roll,掷骰
+INV_DESC_ROCK_ROLLER_ITEM,"Gem-like organ taken from a Flintbeetle. Produces incendiary sparks when abraded, and may explode if cracked or dropped.",燧甲虫体内的晶状结构。摩擦生火，碰撞易爆。
+INV_NAME_R_PSALM_CYL_MELODY,Sacred Cylinder,圣歌音筒
+SHOP_SHELLFRAG_NAME,Mask Shard,面甲残片
+INV_DESC_CREST_SOCKET,Keepsake containing a precious memory. Can be used to expand a Crest.&lt;br&gt;&lt;br&gt;Expand Crests in the Crest pane of the Menu.,存储珍贵记忆的纪念盒，用于扩展纹章容量。&lt;br&gt;&lt;br&gt;可在菜单的纹章界面扩展纹章容量。
+GET_JOURNAL_1,Defeat foes to add their records to the Journal.,击败敌人后，其信息会被录入日志。
+GET_JOURNAL_2,Review defeated foes in the Journal pane of the Menu.,在菜单的日志界面查看已击败敌人的信息。
+OPT_MENU_BACK_BUTTON,Back,返回
+INV_DESC_TOOLPOUCH,"Basic pouch designed for holding tools, traps and crafting materials.",基础工具袋，可收纳工具、陷阱与制作材料。
+INV_NAME_NAIL2,Sharpened Needle,尖锐织针
+INV_DESC_SPRINT_MEMENTO,Gilded trophy awarded by Sprintmaster Swift to the fastest bug in Pharloom.,飞毛腿&#8221;斯威夫特颁发给纺络速度最快者的镀金奖品。
+INV_DESC_COG_HEART,"Reassembled cogwork heart, containing a fine array of wheels and regulators.",重组后的完整机心，内含精密的轮组阵列。
+INV_NAME_R_ANCIENT_EGG,Arcane Egg,神秘蛋
+KEY_TUBE,Ventrica,圣脉枢管
+MATERIUM_UPDATE_MSG,New Materium Entry,新物质录入
+INV_NAME_SLAB_KEY_C,Key of Apostate,叛教之钥
+INV_NAME_SLAB_KEY_B,Key of Heretic,异端之钥
+COLLECTION_HEADING_MATERIUM,Materium,物质库
+INV_DESC_HEART_HUNTER,Enlivened heart of Skarrsinger Karmelita. Its beat is steady and strong.,斯卡尔歌后&#8221;卡梅莉塔复苏的心脏，跳动稳健有力。
+SHOP_REPAIR_CONFIRM,Repair Item?,修复此物品？
+RELIC_BONE_RECORD_UNDERMAP_DESC,"Filthy rag, marked with the scrawl of an Underworker.&lt;br&gt;&lt;br&gt;&#8220;So much suffering. Are we truly chosen, or have we sinned unknowing, and now are punished for it?&#8221;",污损的破布，一名劳累的圣堡工人在上面留下了哀叹。&lt;br&gt;&lt;br&gt;&#8220;如此痛苦。我们真是被选中的么，还是因不知名的罪过而遭此惩罚？&#8221;
+INV_DESC_SKILL_SILKBOMB,Forgotten Weaver technique. Sew rending runes upon one&#8217;s enemies.,失传的织者技艺。在敌人身上缝上撕裂符文。
+INV_NAME_SKILL_SPHERE,Thread Storm,灵丝风暴
+INV_NAME_MORSEL_SHREDDED,Shredded Organ,内脏杂碎
+ITEM_GIVEN_MSG,{0} Given,已交付{0}
+INV_NAME_SKILL_PARRY,Cross Stitch,十字绣
+INV_NAME_TOOL_METAL,Craftmetal,制造金属
+INV_NAME_TOKEN_FAITH,Simple Key,简易钥匙
+CTRL_TAKE,Take,拿取
+INV_DESC_HEART_PIECE_FULL,"An ancient mask carved from cold, pale ore. The mask protects the wearer, guarding their shell against damage.",由寒苍矿石雕刻的古面甲，穿戴后可抵御外部伤害。
+RELIC_PSALM_CYLINDER_LIBRARY_DESC,"Voices of the Choir, raised in sacred song.",圣咏团虔颂之音。
+INV_DESC_BELLCLAPPER_ITEM,Finely forged bell made from a gleaming metal.,用闪亮金属锻造的精致铃铛。
+INV_NAME_BROKEN_SILKSHOT,Ruined Tool,损坏的工具
+INV_DESC_SONGPILGRIM_CLOAK_ITEM,Garment gifted to pilgrims on admittance to the Citadel. Its thick weave offers additional protection against wind and cold.,朝圣者获准进入圣堡时所赠予的衣袍，其厚实的织法能提供极佳的防风御寒效果。
+INV_DESC_GOURMAND_VINTAGE_NECTAR,"High quality nectar of a long-lived aphid, kept in storage over many lifetimes to allow a complex maturation.",一种寿命极长的蚜虫所产的高质量蜜露，经数代窖藏熟成，风味醇厚复合。
+INV_DESC_SILK_GRUB,"Grub that lives within and feeds upon Pharloom&#8217;s lingering Silk, born with the ability to sense Silk over great distances.",栖居于纺络残存丝脉中的噬丝蛆虫，生来具备千里感应灵丝的能力。
+SILK_RATION_MACHINE_JAMMED,The machine is jammed.,这台机器塞住了。
+OPT_MENU_MUSIC_VOL,Music Volume:,音乐音量：
+INV_NAME_R_WEAVER_TOTEM,Weaver Effigy,织者雕像
+INV_MSG_TOOLPOUCH_UPGRADE,Tool Pouch Expanded,扩容工具袋
+KEY_BELLWAY,Bellway,钟道
+INV_NAME_BELL_HOUSE_KEY,Bellhome Key,钟居钥匙
+INV_DESC_CORAL_CHUNK,"Chunk of dense coral-shell. Not fit for crafting tools, but claimed to have various medicinal properties if correctly prepared.",结构紧密的块状珊瑚外壳。不适用于制作工具，经处理可入药。
+INV_DESC_SLAB_KEYRING,Keys to the cells and passages of the Slab.,开启罪石牢狱牢房和通路的钥匙。
+INV_NAME_GOURMAND_VINTAGE_NECTAR,Vintage Nectar,陈年蜜露
+INV_NAME_NAIL3,Shining Needle,辉光织针
+CTRL_DONATE,Donate,捐赠
+UI_BLANK,,
+INV_DESC_COIN_MID,Beads carved from polished shell. The finer material reflects their increased value.,抛光的甲壳制成，价值更高。
+INV_DESC_DOCK_KEY,Small worker&#8217;s key. Unlocks the door to the diving bell in Deep Docks.,工人使用的小钥匙。可开启深坞潜钟的门。
+INV_NAME_SPOOL_PIECE_HALF,Spool Fragment,灵丝轴碎片
+SHOP_PURCHASE_CONFIRM,Purchase Item?,购买此物品？
+MAT_NAME_SMELTSTONE,Flintstone,燧石
+MAP_UPDATED,Map Updated,地图已更新
+INV_DESC_MORSEL_SHREDDED,Meat harvested from a defeated creature. It has been diced into fine chunks.,击败怪物获得的肉类。被切成了小碎块状。
+INV_DESC_DRESS_APP_FLY_FULL,Smells strongly of fly.,飞虫气息浓烈。
+USE_ITEM_PROMPT,Use {0}?,使用{0}？
+INV_DESC_ROACH_CORPSE_ITEM,"Fresh innards of a Muckroach, tough and slimy with a rank odour. Unpalatable to most.",腥臭黏腻的淤秽蟑螂内脏，多数生物难以下咽。
+RELIC_BONE_RECORD_WISP_DESC,"Crumpled parchment containing the prayer of a Burning Bug.&lt;br&gt;&lt;br&gt;&#8220;Hail to your heat! O glorious flame. You who builds and breaks us. Sear our shells. Char them black. That we may rise to join you, wreathed in bright and blazing joy.&#8221;",焦黑的羊皮纸，一只焚身的虫子在上面留下了祷文。&lt;br&gt;&lt;br&gt;&#8220;赞美炽焰！噢，荣耀之火！塑造我们，亦毁灭我们。灼烧甲壳，化为焦炭。我们将与您同在，沐浴在炽热光明的愉悦中&#8221;
+INV_DESC_BLUE_GOOP_FULL,Liquid lifeseed extracted from a ripe bud. Possesses regenerative qualities.,成熟花苞中提取的生命精华，具有再生功效。
+CTRL_PLAY,Play,播放
+PANE_SKILLS,Skills,技能
+INV_NAME_DOCK_KEY,Diving Bell Key,潜钟钥匙
+INV_NAME_R_WEAVER_RECORD,Rune Harp,符文竖琴
+PANE_BESTIARY,Journal,日志
+INV_NAME_FINEPIN,Fine Pin,精制刺针
+RELIC_WEAVER_RECORD_WEAVE08_DESC,"Words of a Weaver from the nest beneath Bone Bottom.&lt;br&gt;&lt;br&gt;&#8220;Hide her deep, the despised child, our shame shown in shell of iron. She is a wish cast vain, divinity mimicked in form too frail.&#8221;",一名骸底镇下方巢穴织者的遗言。&lt;br&gt;&lt;br&gt;&#8220;将那受唾弃的孩子深藏，铁壳昭示着我们的耻辱。她是由妄念所造，以脆弱之躯仿效神明。&#8221;
+CTRL_EXIT,Exit,退出
+CTRL_UNEQUIP,Unequip,卸下
+INV_DESC_SETH_MEMENTO,Aged medallion of the wanderer Seth. A gift given in respect of great skill.,漫游者赛斯的古旧勋章，授予技艺超群者。
+INV_DESC_COIN_SET_M2,String threaded with a mix of common and fine rosaries. Can be broken and the rosaries used to trade.,混编普通与精美念珠的项链，拆解后取出的念珠可用于交易。
+INV_DESC_NAIL2,"Long sewing tool, uniquely balanced for combat. The blade is honed to a fine edge.",为战斗设计的特制长针，原身为纺织工具。刃身经过精细打磨，锋利度显著提升。
+INV_NAME_GOURMAND_CORAL_INGREDIENT,Crustnut,硬壳果
+INV_NAME_HEART_PIECE_NONE,,
+INV_NAME_MEMENTO_GARMOND,Hero&#8217;s Memento,英灵忆痕
+INV_NAME_SKILL_EVAHEAL,Sylphsong,风灵谣
+INV_NAME_DRESS_REG,Hunter&#8217;s Cloak,猎人披风
+RELIC_SEAL_CHIT_CITY_MERCHANT_DESC,"Last edict of the Conductors.&lt;br&gt;&lt;br&gt;&#8220;And lo, is eternity sustained. By Architect&#8217;s claw, we welcome that final form, of dial and rotor, and soul gladly given.&lt;br&gt;&lt;br&gt;The perfect, unfaltering voice.&#8221;",指挥家的终诏。&lt;br&gt;&lt;br&gt;&#8220;看啊，永恒得以延续。&lt;br&gt;凭借建筑师之手，我们迎来终极形态——齿轮与转轴，灵魂欣然献上。&lt;br&gt;那完美恒久的声音。&#8221;
+ITEM_TAKEN_MSG,{0} Taken,已拿取{0}
+INV_NAME_SKILL_SPRINT,Swift Step,疾风步
+INV_NAME_SKILL_ASCENT,Silk Soar,灵丝升腾
+INV_NAME_POUCHANDTOOLKIT,Tool Pouch&lt;br&gt;&amp; Crafting Kit,工具袋&lt;br&gt;&amp; 制作匣
+INV_DESC_SHELL_FLOWER,Core of a flower formed around the body of a consumed Wood Wasp. Secretes a sticky sap that the wasps subsist on.,木蜂残躯周围形成的花芯，分泌蜂群赖以为生的蜜浆。
+INV_NAME_THREAD,Silk,灵丝
+INV_DESC_PLINNEY_TOOLS,Bile gland of a rare sylphean slug. Talented pinmasters can use the glistening liquid within to improve a blade&#8217;s sharpness.,风灵蛞蝓体内的胆汁腺。技艺精湛的刺针匠可取其中发光液体淬炼针刃。
+INV_DESC_R_BONE_RECORD,"Crude journal made of coarse fabric and bone, left by a fallen pilgrim.",殒命朝圣者遗留的手记，由破布和骨头做成。
+CTRL_HIDE_PINS,Hide Pins,隐藏图针
+RELIC_SEAL_CHIT_WARDCORPSE_DESC,Surgeon&#8217;s orders.&lt;br&gt;&lt;br&gt;&#8220;Devout has succumbed during Silk suture. Refuses to revive. Sin committed. Permit no rites.&lt;br&gt;&lt;br&gt;Husk marked for cremation. Retrieve dregs.&#8221;,医师的焚化令。&lt;br&gt;&lt;br&gt;&#8220;信徒在灵丝缝合过程中死亡，拒绝复苏。罪行已定，禁止任何仪式。&lt;br&gt;&lt;br&gt;躯壳火化后，回收残渣。&#8221;
+INV_DESC_BROODMOTHER_REMAINS,Gelatinous organ collected from the defeated Broodmother.,击败育母后获得的凝胶状器官。
+INV_DESC_PLASMIUM_GLAND,"Pulsating organ grown within the shell of Alchemist Zylotol. The gland replenishes over time, providing a near limitless source of Plasmium.&lt;br&gt;&lt;br&gt;Crafting new Plasmium Phials no longer requires a reserve.",生长在炼金术师奇洛托甲壳内的晶莹器官。此腺体会随时间自行补充，几乎可提供无尽的生质液。&lt;br&gt;&lt;br&gt;无需生质液储备，即可制作新的生质液瓶。
+PANE_TOOLS,Crest,纹章
+INV_NAME_ROCK_ROLLER_ITEM,Flintgem,燧晶
+RELIC_ANCIENT_EGG_DESC,"An artefact almost impossibly old, marked inside with many fine etchings. Most are indecipherable.&lt;br&gt;&lt;br&gt; &#8220;...No will... No self... Shade...&#8221;",一件古老到难以追溯源头的圣器，内部精细地雕刻着大量铭文，但绝大部分无法解读。&lt;br&gt;&lt;br&gt; &#8220;......无念......无我......暗影......&#8221;
+ITEM_DEPOSITED_MSG,{0} Deposited,已存入{0}
+INV_NAME_SHARD_POUCH,Shard Bundle,碎片包
+INV_DESC_MEMENTO_SURFACE,Worn ornament of the Nameless Town high above Pharloom.,纺络之上墟野地区无名镇生产的饰品，外表已经破损。
+INV_NAME_SHININGCOG,Shining Cog,闪亮齿轮
+INV_NAME_R_BONE_RECORD,Bone Scroll,骨卷轴
+INV_DESC_THREAD,"Versatile thread naturally produced within the shell. When enough Silk is stored, wounds can be healed and skills executed.&lt;br&gt;&lt;br&gt;Attack enemies to replenish Silk.",甲壳内自然生长的万用丝线。积蓄足够时可治愈伤口并发动技能。&lt;br&gt;&lt;br&gt;攻击敌人可补充灵丝。
+INV_DESC_SPOOL_PIECE_FULL,"Artefact left behind by the Weavers, designed to collect and hold additional Silk.",织者遗失的圣器，用于收集和储存灵丝。
+CTRL_HIDE_KEY,Hide Key,隐藏图例
+INV_NAME_SKILL_SILKDASH,Sharpdart,丝刃镖
+INV_DESC_SHARD,"Hardened fragments of shell and bone, used in the crafting of tools and traps.",坚硬的贝壳和骨头碎片，用于制作工具和陷阱。
+INV_DESC_THREAD_HEART,"Silk thread naturally produced within the shell. When enough Silk is stored, wounds can be healed and skills executed.&lt;br&gt;&lt;br&gt;Silk Hearts will automatically regenerate some Silk.&lt;br&gt;&lt;br&gt;Attack enemies to replenish Silk.",甲壳内自然生长的万用丝线。积蓄足够时可治愈伤口并发动技能。&lt;br&gt;&lt;br&gt;丝之心可自动回复部分灵丝。&lt;br&gt;&lt;br&gt;攻击敌人也可补充灵丝。
+INV_NAME_JOURNAL,Hunter&#8217;s Journal,猎人日志
+INV_DESC_SHININGCOG,"Pristine cog from within the shell of an automaton. Despite long use, its metal has not dulled.",取自机械虫外壳的崭新齿轮，历久弥新。
+INV_NAME_PRISTINE_CORE,Pristine Core,纯净核心
+INV_NAME_SETH_MEMENTO,Guardian&#8217;s Memento,守望者忆痕
+INV_DESC_PRISTINE_CORE,Intricate internal mechanism of a cogwork bug. Can be broken into individual shell shards for use in crafting.,机枢甲虫内部的精密构造。拆解后获得的甲壳碎片可用于制作。
+INV_NAME_WHITE_FLOWER,Everbloom,永绽花
+INV_DESC_SKILL_MEMORY_MELODY,Attune to the old memories of Pharloom.,共鸣纺络的古老记忆。
+INV_NAME_CREST_SOCKET_PLURAL,Memory Lockets,忆境纪念盒
+INV_DESC_HEART_CORAL,Enlivened heart of Crust King Khann. It beats deep and slow.,壳王卡汗复苏的心脏，跳动沉重缓慢。
+INV_DESC_PICKLEDEGG,Pungent delicacy preserved in roach brine. The most famous creation of the disgraced chef Lugoli.,失格大厨&#8221;卢戈利用蟑螂盐水腌制的名菜，气味刺鼻。
+INV_DESC_SPOOL_PIECE_NONE,,
+INV_DESC_BROKEN_SILKSHOT,"Remains of an ancient Weaver implement, broken and inoperable.&lt;br&gt;&lt;br&gt;A craftsbug of high skill may be able to repair it.",远古织者的工具，已无法正常使用。&lt;br&gt;&lt;br&gt;技艺精湛的工匠虫或许能修好。
+INV_TOOLKIT_UPGRADES_TITLE,Tool Damage,工具伤害
+RELIC_SEAL_CHIT_ASPID_DESC,"Decree of the Citadel, dirty and worn.&lt;br&gt;&lt;br&gt;&#8220;Full Chamber to the kingdom of the White Wyrm. Claim the Weaver, in half part. Last of their line. Sensed strong with Silk.&lt;br&gt;&lt;br&gt;Resistance anticipated. Quell with rune cage.&#8221;",破旧的圣堡诫令。&lt;br&gt;&lt;br&gt;&#8220;全员前往白王沃姆疆域，缉捕半血织者。她是沃姆最后血脉，灵丝力量强大。&lt;br&gt;&lt;br&gt;预计遭遇抵抗，用符文牢笼镇压。&#8221;
+INV_DESC_VOID,Writhing substance from the dark sea at the world&#8217;s base.,世界底部黑暗海域中涌动着的物质。
+INV_NAME_SKILL_CHARGESLASH,Needle Strike,蓄力斩
+INV_NAME_MEMENTO_GREY,Grey Memento,灰色忆痕
+INV_DESC_SK_FRAGMENT,Large spike of bone collected from a defeated Skull Tyrant.,击败骷髅暴君后，从其身上收集的大骨刺。
+INV_NAME_SILK_GRUB,Silkeater,噬丝蛆
+INV_NAME_TOOLPOUCH,Tool Pouch,工具袋
+RELIC_PSALM_CYLINDER_GRINDLE_DESC,"Guide track for the Choir, with a theme of salvation.",圣咏导引曲目・救赎篇。
+INV_DESC_SLAB_KEYRING_SINGLE_SWAMP,Key with the mark of &#8216;Apostate&#8217;. Opens the way to certain cells and passages of the Slab.,带有&#8220;叛教&#8221;标记的钥匙。可开启罪石牢狱中的部分牢房和通路。
+INV_NAME_NAIL4,Hivesteel Needle,蜂钢织针
+INV_NAME_CREST_SOCKET,Memory Locket,忆境纪念盒
+INV_NAME_PILGRIM_RAGS_ITEM,Pilgrim Shawl,朝圣者披肩
+INV_DESC_MATERIUM,"Tubes and receptacles built for the storing, recording and research of various materials.&lt;br&gt;&lt;br&gt;The Materium can be assembled in a home.",用于存储、记录和研究各种材料的试管与容器。&lt;br&gt;&lt;br&gt;物质库可在钟居内组装。
+INV_DESC_WHITE_FLOWER,"Ethereal flower plucked from a deep and distant memory. Glows with soft, pale light that wards against the void.",采自深层忆境的空灵花朵，散发出能够驱散虚空的柔光。
+INV_NAME_MEMENTO_CROWMAN,Craw Memento,腐囊忆痕
+INV_DESC_NAIL3,"Long sewing tool, uniquely balanced for combat. The blade gleams sharper than ever before.",为战斗设计的特制长针，原身为纺织工具。刃如寒星，锋芒毕露。
+CTRL_CANCEL,Cancel,取消
+MAT_NAME_VOLTSTONE,Voltridian,电核石
+CTRL_CONFIRM,Confirm,确认
+SHOP_SELECT_PAINT,Choose Colour,选择颜色
+REQUIRED_MATERIAL,Required,所需材料
+KEY_FLEA,Lost Flea,迷途跳蚤
+INV_DESC_NAIL4,"Long sewing tool, uniquely balanced for combat. The highly refined blade reveals its hivesteel banding.",为战斗设计的特制长针，原身为纺织工具。采用蜂钢锻造，刃身隐约显现独特的六边形状纹路。
+INV_DESC_QUILL,Writing implement for recording one&#8217;s travels. Can be used to update any acquired maps.,记录旅程的绘制工具。可用于完善已获取的地图。
+CTRL_MARKER_PLACE,Place,放置
+CTRL_CRAFT,Craft,制作
+INV_DESC_SILKBOSS_NEEDLE,Technique taken from the primal source of Silk. Spin talons from thread that seek out enemies.,源自灵丝本源的技艺。凝丝为爪，追踪敌人。
+CONSUMABLE_MAX_SHOP_DESC,Maximum Held,已达上限
+INV_NAME_SPINE,Spine Core,棘刺芯
+RELIC_WEAVER_TOTEM_BONETOWN_DESC,"Carving of Camora, Weaver of healing. A prayer is etched upon it.&lt;br&gt;&lt;br&gt;&#8220;Weaver, heal my sons, their fearful hearts, their limbs that shake at the climb to come. We pray, gift but a glimmer of your strength, that when we stand before your divinity, you see bugs shed free of fear.&#8221;",治愈织者卡莫拉的雕像，像上刻有祷文。&lt;br&gt;&lt;br&gt;&#8220;治愈我的孩子，平复他们的恐惧，止住他们的颤抖。愿您赐予微薄之力，待到觐见圣颜之日，您能见我们摆脱恐惧。&#8221;
+INV_TOOLPOUCH_UPGRADES_TITLE,Pouch Capacity,工具袋容量
+INV_DESC_WALLJUMP,Ancient Weaver technique. Cling to sheer surfaces and leap off to rapidly scale heights.,古老的织者技艺。吸附绝壁并向上弹跳，快速跃升至高处。
+INV_NAME_COG_HEART_PIECES,Cogheart Pieces,机心部件对
+INV_NAME_CORAL_CHUNK,Coral Shard,珊瑚碎片
+INV_DESC_GROWSTONE,"Cold, steely stone with remarkable regrowth capacity.&lt;br&gt;&lt;br&gt;If shattered into shell shards, it will reform over time.",冰冷坚硬的钢铁石，拥有极强的再生能力。&lt;br&gt;&lt;br&gt;若被击碎成甲壳碎片，它将随时间逐渐重塑自身。
+INV_NAME_SPRINT_MEMENTO,Sprintmaster Memento,飞毛腿忆痕
+INV_DESC_TOKEN_FAITH,"Rusted key of common design. Can be used to open a range of simple locks.&lt;br&gt;&lt;br&gt;Degraded by time, it will break after a single use.",生锈的普通钥匙，可用于开启部分简单锁具。&lt;br&gt;&lt;br&gt;因年代久远，使用一次后就会坏掉。
+INV_NAME_SONGPILGRIM_CLOAK_ITEM,Choir Cloak,圣咏外衣
+INV_DESC_TOOL_METAL,Rare element found naturally within the rock and bone of Pharloom.&lt;br&gt;&lt;br&gt;Used by skilled craftsbugs in the construction of tools and trinkets.,纺络地区岩石和骨头中天然形成的稀有金属。&lt;br&gt;&lt;br&gt;老练的工匠虫可用其制作工具与饰品。
+INV_NAME_PICKLEDEGG,Pickled Muckmaggot,腌淤秽蛆
+INV_DESC_COG_HEART_PIECES,"Two parts of a cogwork heart, containing an intricate array of wheels and regulators.",一对内含精密轮组阵列的机心部件。
+INV_DESC_MOMENTO_HEART_EXTRA,The heart can be displayed in a home.,心可在钟居内展示。
+TAKE_ITEM_PROMPT,Take {0}?,拿取{0}？
+INV_NAME_GREAT_SHARD,Beast Shard,兽甲碎片
+INV_DESC_MEMENTO_FLEA,"Rare symbolic medallion, given only to a true friend of fleas.",跳蚤挚友专属的稀有勋章。
+CTRL_LEAVE,Leave,离开
+INV_NAME_SKILL_MEMORY_MELODY,Elegy of the Deep,深邃挽歌
+INV_DESC_SKILL_BELLBEAST_MELODY,Summon the Beastlings and return together to their mother.,召唤钟道兽群并与其一同返回母巢。
+MAT_NAME_LIFEBLOOD,Plasmium,生质液
+INV_DESC_POUCHANDTOOLKIT,"A pouch for holding traps and tools, and fine crafting implements to increase their lethality.",工具袋与精密加工器具的组合，既可用于收纳，也可用于加工提升工具与陷阱的杀伤力。
+MAT_NAME_SILK,Silk,灵丝
+INV_NAME_SKILL_BELLBEAST_MELODY,Beastling Call,唤兽曲
+INV_NAME_HEART_PIECE_MULT,Mask Shards,面甲残片
+INV_NAME_HUNTER_MEMENTO,Hunter&#8217;s Memento,猎人忆痕
+MAT_DESC_VOLTSTONE,"Hard, charged stone that can catch, store and discharge electricity.",可捕捉、储存，并释放电流的硬石。
+CTRL_GIVE,Give,交付
+INV_DESC_R_WEAVER_TOTEM,Carved bone idol of an ancient Weaver. A prayer is etched upon its body.,远古织者的骨雕圣像，躯体刻有祷文。
+INV_DESC_SNARE_SOUL_SWAMP,Cracked shell containing soul drawn from a long deceased bug.,破裂的外壳，容纳着从长眠的虫子身上抽取的灵魂。
+INV_NAME_QUILL,Quill,羽毛笔
+INV_DESC_GOURMAND_MOSSBERRY_STEW,"Thick, syrupy soup of Mossberries and druidic herbs. Sweet and aromatic, but poisonous to most creatures.",用苔莓和德鲁伊草药炖煮的浓汤，芳香甜美，但对大多数生物有毒。
+INV_DESC_COIN_SET_USE,Contains {0} rosaries.,内含{0}枚念珠。
+OPT_MENU_APPLY_BUTTON,Apply,应用
+INV_DESC_SKILL_PARRY,Deflective technique of a creature spun from thread. Bind Silk around the needle to deflect enemy attacks and instantly strike back.,灵丝生物的防御技艺。用灵丝缠绕针身格挡敌人的攻击，并立即进行反击。
+INV_DESC_COIN_BIG,Gleaming pearl carved over with intricate markings. The rarest and most highly valued rosaries in all of Pharloom.,精雕细琢的闪耀珍珠，纺络地区最珍贵的货币。
+GIVE_ITEM_PROMPT,Give {0}?,交付{0}？
+KEY_BENCH,Bench,长椅
+INV_DESC_SPOOL_PIECE_HALF,"One half of an artefact left behind by the Weavers, designed to collect and hold Silk.&lt;br&gt;&lt;br&gt;A completed spool will allow one to hold more Silk within their shell.",织者遗失圣器的一半，用于收集和储存灵丝。&lt;br&gt;&lt;br&gt;完整的灵丝轴可提升甲壳内灵丝储量上限。
+OPT_MENU_SOUND_VOL,Sound Volume:,音效音量：
+INV_NAME_CRAW_SUMMONS,Craw Summons,腐囊召唤令
+INV_DESC_SKILL_THROW,Deadly Weaver technique. Throw the needle forward with force amplified by coiled Silk.,致命的织者技艺。用灵丝缠绕织针，向前奋力投掷，拥有令人生畏的穿透力。
+INV_DESC_HEART_PIECE_NONE,,
+RELIC_SEAL_CHIT_SILK_SIPHON,"Tattered decree of the Citadel.&lt;br&gt;&lt;br&gt;&#8220;Bug of voice grown hoarse or shell fallen frail, you have been selected for duty most sacred.&lt;br&gt;&lt;br&gt;Become our light, our guide in darkness, that others worthy may climb to join the holy song.&#8221;",圣堡的破损敕令。&lt;br&gt;&lt;br&gt;&#8220;声音嘶哑或甲壳脆弱的虫民，你已被选中承担最神圣的职责。&lt;br&gt;&lt;br&gt;成为我们的光，黑暗中的指引，让其他有资格者得以攀登加入圣歌。&#8221;
+INV_DESC_MORSEL_SPEARED,"Meat harvested from a defeated creature. It has been cleanly speared through, but is otherwise intact.",击败怪物获得的肉类。被刺穿一个窟窿，但整体还算完整。
+INV_DESC_MEMENTO_GARMOND,Heirloom of a village lost to Pharloom&#8217;s Haunting.,迷失于丝咒的村庄遗留的传家宝。
+INV_NAME_CROW_FEATHER,Ragpelt,破毛皮
+PANE_MAP,Map,地图
+INV_DESC_HEART_PIECE_1,Shard of an ancient mask worn to protect oneself from harm.&lt;br&gt;&lt;br&gt;Complete a mask to strengthen the shell and protect against damage.,古老的面甲碎片。&lt;br&gt;&lt;br&gt;集齐碎片可重塑完整的面甲，强化甲壳防护。
+INV_NAME_COIN_BIG,Pearl Rosaries,珍珠念珠
+INV_DESC_R_PSALM_CYL,"Metallic cylinder of Citadel make, etched with a recording of sound.&lt;br&gt;&lt;br&gt;The cylinder can be played in a gramophone.",圣堡铸造的金属音筒，刻录着声音的波形。&lt;br&gt;&lt;br&gt;可在留声机处播放。
+COLLECTION_HEADING_LIBRARIAN,Cylinders,音筒
+INV_NAME_CONCHFLY_REMAINS,Crust Spire,螺蝇角
+INV_NAME_BROODMOTHER_REMAINS,Broodmother&#8217;s Eye,育母之眼
+SHOP_SELL_CONFIRM,Sell Item?,出售此物品？
+INV_NAME_MORSEL_SEARED,Seared Organ,烤焦的内脏
+SILK_RATION_MACHINE_EMPTY,The machine is empty.,这台机器是空的。
+RELIC_BONE_RECORD_GREYCOR_DESC,"Faded parchment containing the last words of a lost pilgrim.&lt;br&gt;&lt;br&gt;&#8220;-ter I die here in the damp dark than join those poor sods, trapped to stumble, aimless and empty, until their limbs fall to dust.&#8221;",褪色的羊皮纸，一名惊惶的朝圣者在上面留下了遗言。&lt;br&gt;&lt;br&gt;&#8220;宁死于阴湿之地，不愿做空壳游魂。&#8221;
+INV_NAME_WARD_KEY,White Key,白愈钥匙
+INV_NAME_ANT_TRAPPER_ITEM,Grass Doll,草娃娃
+INV_NAME_SLAB_KEY_A,Key of Indolent,怠惰之钥
+INV_NAME_BLUE_GOOP_PICKUP,Plasmium Collected,已收集生质液
+CTRL_STOP,Stop,停止
+INV_DESC_MAPANDQUILL,"Map of Pharloom and a quill for recording one&#8217;s travels. When resting at a bench or elsewhere, the map will be updated with newly discovered areas.",纺络的地图及羽毛笔。当在长椅或其他地方休息时，将更新地图以显示新发现的区域。
+INV_DESC_SKILL_SPHERE,"Deadly Weaver technique. Cast the needle in a whirl of Silk around oneself, lashing foes.",致命的织者技艺。旋针卷丝形成护体风暴，鞭笞近身的敌人。
+CTRL_REPAIR,Repair,修理
+INV_NAME_ROACH_CORPSE_ITEM,Roach Guts,淤秽蟑螂内脏
+INV_NAME_WARD_BOSS_KEY,Surgeon&#8217;s Key,医师钥匙
+INV_DESC_SKILL_NEEDOLIN,Holy Weaver talent. Play ancient melodies by stringing Silk along the needle.,神圣的织者天赋。用灵丝给针身上弦，拨弹悠长的古调。
+INV_DESC_SKILL_EVAHEAL,Essence of a being merged within. Silk will be restored when resting at a bench.,灵魂与认知浑然一体。在长椅休息时恢复灵丝。
+INV_DESC_R_PSALM_CYL_MELODY,"Metallic cylinder of Citadel make, etched with the melody of the Vaultkeepers.&lt;br&gt;&lt;br&gt;The cylinder can be played in a gramophone.",圣堡制造的金属圆筒，刻有书库管理员圣歌。&lt;br&gt;&lt;br&gt;音筒可用留声机播放。
+MAT_DESC_SMELTSTONE,Long burning rock from the base of Pharloom. Mined and used by the Citadel in its forgings.,储备于纺络底部的长效燃烧石，由圣堡开采，并用于其产品锻造。
+INV_DESC_COG_HEART_PIECE,"One part of a cogwork heart, containing an intricate mechanism of wheels and regulators.",一个内含精密轮组结构的机心部件。
+INV_DESC_DRESS_BROLLY,"Simple protective garb, sewn through with flexible spines.",缝入了柔韧棘刺芯的轻便披风，提供基础防护。
+INV_DESC_HUNTER_MEMENTO,"Seal symbol given in recognition of a true Hunter, stamped in sticky goo.",用不知名粘稠物戳印的印章标识，代表了对一名猎人的认可。
+SHOP_PURCHASE_COMPLETE,Item Purchased,物品已购买
+INV_DESC_GOURMAND_CORAL_INGREDIENT,"Tough, furred seed from the centre of a corpora cluster. Stale to taste, but strong once ground as seasoning.",珊瑚砫丛中心的坚硬毛壳种实，直接食用味同嚼蜡。研磨成粉后辛香浓烈，常作为调味料。
+INV_DESC_GREAT_SHARD_USE,Breaks into {0} shell shards.,可拆解为{0}块甲壳碎片。
+INV_NAME_COIN_SET_M2,Heavy Rosary Necklace,沉甸甸的念珠项链
+INV_NAME_SPOOL_PIECE_NONE,,
+INV_NAME_GROWSTONE,Growstone,生衍石
+RELIC_PSALM_CYLINDER_HANG_DESC,"Guide track for the Choir, with a theme of ascendence.",圣咏导引曲目・升天篇。
+INV_NAME_VOID,Void,虚空
+CTRL_PLAY_GAME,Play,继续游戏
+PANE_QUESTS,Tasks,任务
+INV_DESC_R_WEAVER_RECORD,"Old Weaver recording instrument, strung with Silk runes. The faded runes hold a Weaver&#8217;s words from ages gone.",古老的织者乐器，缀满灵丝符文。斑驳的符文承载着一名织者的往世箴言。
+COMPLETED,Completed,已完成
+INV_DESC_SLAB_KEYRING_SINGLE,Key with the mark of &#8216;Indolent&#8217;. Opens the way to certain cells and passages of the Slab.,带有&#8220;怠惰&#8221;标记的钥匙。可开启罪石牢狱中的部分牢房和通路。
+INV_NAME_HEART_PIECE_1,Mask Shard,面甲残片
+INV_DESC_CROW_FEATHER,"Tattered pelt taken from the body of a Crawbug. Fragile and drab, it is considered to have few practical uses.",腐囊虫身上的破碎毛皮。细碎且邋遢，实用性极低。
+INV_DESC_SKILL_SILKDASH,Deadly Weaver technique. Pierce through enemies in a blur of blade and Silk.,致命的织者技艺。灵丝与刃锋交织，高速穿透多个敌人。
+CTRL_MARKER_REMOVE,Remove,移除
+GIVE_SHARDS_PROMPT,Give Shell Shards?,交付甲壳碎片？
+CTRL_MARKER_CHANGE,Change Marker,切换标记
+INV_DESC_CONCHFLY_REMAINS,"Hard horn piece, broken from the tip of a Conchfly&#8217;s shell.",取自螺蝇外壳尖端的硬角。
+GIVE_ITEMS_PROMPT,Give Items?,交付物品？
+INV_DESC_SHARD_POUCH,Small bundle of shell shards tied together with string. Can be broken to use the shards for crafting.,一小捆甲壳碎片，由细绳串在一起。拆解后获得的甲壳碎片可用于制作。
+INV_NAME_MOSSBERRY,Mossberry,苔莓
+INV_NAME_BEASTFLY_REMAINS,Horn Fragment,兽角碎片
+INSTALL_ITEM_PROMPT,Install {0}?,安装{0}？
+INV_DESC_SNARE_SOUL_BELLHERMIT,Heavy bell filled with the shimmering soul of the Bell Hermit.,沉重的大钟，封存着钟之隐者发光的灵魂。
+CTRL_EQUIP,Equip,装备
+INV_MSG_TOOLKIT,Crafting Kit,制作匣
+COMPLETION_RATE_UNLOCKED,Completion Percentage viewable in Inventory,完成度可以在物品栏中查看
+INV_NAME_SNARE_SOUL_SWAMP,Seeker&#8217;s Soul,追寻者之魂
+RELIC_BONE_RECORD_BONEEAST_DESC,"Singed parchment containing a pilgrim&#8217;s scrawl.&lt;br&gt;&lt;br&gt;&#8220;My dear companions, all are gone now, devoured, scorched, fallen to exhaustion, or worse, seduced by the Haunting.&#8221;",烧焦的羊皮纸，一名朝圣者在上面留下了潦草的笔迹。&lt;br&gt;&lt;br&gt;&#8220;同伴皆逝，或遭吞噬，或焚为灰烬，或力竭而亡，甚至......堕于丝咒。&#8221;
+INV_DESC_MORSEL_SEARED,Meat harvested from a defeated creature. It has been seared in a way that noticeably affects the flavour.,击败怪物获得的肉类。焦黑部分已严重影响其口味。
+MAT_DESC_LIFEBLOOD,"Liquid lifeseed, possessed of remarkable regenerative qualities. A substance foreign to Pharloom, introduced by the Alchemist Zylotol.",具再生功效的液态生命精华。源自异域，由炼金术士奇洛托引入。
+CTRL_ZOOM_IN,Zoom In,放大
+INV_DESC_DRESS_DJ,Protective garb lined with the soft down of a Fayforn and sewn through with flexible spines.,缝入了柔韧棘刺芯的保护性披风，内衬幻羽煌蛾的柔软绒毛。
+CTRL_TRAVEL,Travel,旅行
+INV_NAME_MAP,Map,地图
+INV_NAME_SKILL_SILKBOMB,Rune Rage,符文之怒
+CONSUMABLE_MAX_POPUP,Maximum Held,已达上限
+INV_DESC_BEASTFLY_REMAINS,Hardened chunk of horned shell collected from a defeated Savage Beastfly.,击败暴怒兽蝇获得的硬化角状碎片。
+KEY_CARAVAN,Flea Caravan,跳蚤旅团
+INV_DESC_SKILL_ASCENT,Ancient Weaver talent. Throw the needle upward and launch to tremendous heights.,古老的织者天赋。向空中掷针并跃升至高处。
+INV_NAME_COIN_MID,Shell Rosaries,甲壳念珠
+INV_DESC_SKILL_HARPOON,Advanced Weaver talent. Throw the Silk-strung needle like a harpoon and charge towards it.,高阶织者天赋。掷针为锚，牵引冲刺。
+PANE_JOURNAL,Journal,日志
+RELIC_SEAL_CHIT_SLABCORPSE_DESC,"Sentence issued by the Citadel Ministers.&lt;br&gt;&lt;br&gt;&#8220;Chosen of the Choir, by grace of our magnanimous Conductors you are granted mercy. When you exit that cage, an elder bug of sins absolved, you may rejoin our flock and feel our light, and never again shall your voice fall silent.&#8221;",圣堡大臣宣判的特赦令。&lt;br&gt;&lt;br&gt;&quot;圣咏团的选民，你因指挥家的宽宏获得赦免。走出牢笼，作为洗清罪孽的长者，重归我们的群体，永沐光明，歌喉永不沉寂。&quot;
+INV_DESC_COIN_SET_L,Heavy necklace laden with pearl rosaries. Can be broken and the rosaries used to trade.,缀满珍珠念珠的重链，拆解后取出的念珠可用于交易。
+KEY_SHOP,Vendor,商贩
+RELIC_WEAVER_TOTEM_WITCH_DESC,"Carving of Keelal, Weaver of the path. A prayer is etched upon it.&lt;br&gt;&lt;br&gt;&#8220;Blessed Weaver, lady of grace, you who see our sin, our frail shells, our voices weak, and still offer your protection. How great your mind to care so much for ones so lowly.&#8221;",道路织者奇拉尔的雕像，像上刻有祷文。&lt;br&gt;&lt;br&gt;&#8220;仁慈织者啊，您洞悉我们的罪过、甲壳的脆弱、歌喉的微弱，但仍施予庇护。心怀蝼蚁，何其伟大。&#8221;
+INV_NAME_SKILL_NEEDOLIN,Needolin,织忆弦针
+INV_DESC_SILK_GRUB_FUNCTION,Consume the Silkeater to retrieve a cocoon after falling in battle.,死亡后，使用噬丝蛆可立即找回自己的茧。
+INV_DESC_RELIC,"A relic of Pharloom&#8217;s past, interesting to collectors of historical items.",封存着纺络的往昔岁月，使古董收藏家趋之若鹜。
+INV_DESC_COIN_SET_F,Worn string holding a meagre amount of rosaries. Can be broken and the loose rosaries used to trade.,老旧的念珠细串，拆解后可取出少量念珠用于交易。
+INV_NAME_SLAB_KEYRING,Slab Keys,罪石钥匙
+INV_DESC_COIN_SET_S,Short string of rosaries. Can be broken and the rosaries used to trade.,念珠短串，拆解后取出的念珠可用于交易。
+INV_DESC_R_SEAL_CHIT,Order issued by the Citadel. The once gleaming seal has worn with time.,圣堡颁布的陈年诫令。随着岁月变迁，曾经光亮的印鉴逐渐变得暗淡。
+MAIN_MENU_START_GAME,Start Game,开始游戏
+INV_DESC_MEMENTO_CROWMAN,"Iron emblem of the Court of Craws, absolving the bearer of all crimes past and future.",腐囊虫庭的铁质徽记，可赦免持有者的一切罪行。
+INV_NAME_HEART_CORAL,Encrusted Heart,壳王之心
+INV_MSG_NEEDLE_UPGRADE,Needle Sharpened,织针磨砺
+SHOP_SPOOL_SEGMENT_NAME,Spool Fragment,灵丝轴碎片
+INV_NAME_BLUE_GOOP,Plasmium,生质液
+INV_DESC_MEMENTO_GREY,"Engraved cruststone, worn by sand and blanched by time.&lt;br&gt;&lt;br&gt;...Watch...Remember...Till time... Life anew...",饱经风沙的硬壳石，表面雕刻的文字已被岁月打磨至斑白。&lt;br&gt;&lt;br&gt;......守望......铭记......直至......新生......
+INV_DESC_DOCK_DEMO_KEY,Small worker&#8217;s key. Unlocks the gate in the middle of Deep Docks.,工人的小钥匙。能打开深坞中间的门。
+INV_DESC_SKILL_SPRINT,"Fabled Weaver talent. Dash forward and sprint with unnatural speed, as though gliding upon Silk.",传说中的织者天赋。向前冲刺，踏风疾行，如若御丝滑翔。
+INV_NAME_SKILL_THROW,Silkspear,丝之矛
+CTRL_BUY,Purchase,购买
+GIVE_ROSARIES_PROMPT,Give Rosaries?,交付念珠？
+ITEM_DESTROYED_MSG,{0} Destroyed,已摧毁{0}
+INV_NAME_SPOOL_PIECE_FULL,Silk Spool,灵丝轴
+INV_DESC_MOMENTO_EXTRA,The memento can be displayed in a home.,忆痕可在钟居内展示。
+INV_NAME_NAIL5,Pale Steel Needle,苍白蜂钢织针
+INV_NAME_DOCK_DEMO_KEY,Gate Key,门的钥匙
+INV_NAME_COG_HEART,Cogheart,机心
+CTRL_ACCEPT,Accept,接受
+ENCOUNTERED,Encountered,已遇到
+INV_NAME_COG_HEART_PIECE,Cogheart Piece,机心部件
+INV_MSG_TOOLKIT_ALT,Crafting Kit Expanded,扩容制作匣
+RELIC_WEAVER_RECORD_SPRINT_DESC,"Plea of a Weaver from the furthest edge of Pharloom.&lt;br&gt;&lt;br&gt;&#8220;Flee, sisters. Flee until your strength exhausts, so far you may escape at last her silken sight.&lt;br&gt;&lt;br&gt;To start anew, to sustain, free of web and service eternal.&#8221;",一名纺络边陲织者的泣告。&lt;br&gt;&lt;br&gt;&#8220;逃吧，姊妹们，直至力竭，或许可以逃离她的丝眼。&lt;br&gt;&lt;br&gt;另寻新生，永离罗网与奴役。&#8221;
+CTRL_NEXT,Next,下一个
+INV_DESC_PILGRIM_RAGS_ITEM,"Simple garment worn by several pilgrims over the ages. Torn, tattered and repaired many times over.",一件历代朝圣者曾穿过的朴素衣物，破旧褴褛，历经多次缝补。
+INV_NAME_WITCH_ITEM,Twisted Bud,畸芽
+SHOP_SELL_COMPLETE,Item Sold,物品已售出
+INV_NAME_PLASMIUM_GLAND,Plasmium Gland,生质液腺
+INV_NAME_MORSEL_SPEARED,Skewered Organ,穿透的内脏
+COMPLETION,Completion,完成度
+INV_DESC_FIXER_IDOL,"Small sculpture, inexpertly but painstakingly crafted as a symbol of enduring friendship.",粗糙却用心的小雕像，象征坚定的友谊。
+INV_DESC_NAIL5,"Long sewing tool, uniquely balanced for combat. The Hivesteel blade has been sharpened to its ultimate form.",为战斗设计的特制长针，原身为纺织工具。蜂钢刃身经过极致打磨，臻至化境，无坚不摧。
+INV_DESC_PLASMIUM_BLOOD,Blood of a creature merged full with liquid lifeseed. Possesses powerful regenerative qualities.,融合液态生命精华的血液，具有极强的再生功效。
+INV_NAME_HEART_PIECE_FULL,Ancient Mask,远古面甲
+YESNO_HINT_SILKMACHINE,A machine with a symbol of Silk.,一台印有灵丝符号的机器。
+INV_DESC_WARD_BOSS_KEY,Discarded key of the Whiteward.&lt;br&gt;Opens the sluice beneath the operating theatre.,白愈厅废弃的钥匙。&lt;br&gt;可开启手术室下方的大门。
+INV_NAME_R_SEAL_CHIT,Choral Commandment,圣咏诫律
+RELIC_WEAVER_RECORD_CONDUCTOR_DESC,"Last words of the Weavers.&lt;br&gt;&lt;br&gt;&#8220;Sisters, spiders, the burden is passed. These simple bugs shall bear it full. Never to cease. Never to silence.&lt;br&gt;&lt;br&gt;We shall die, and wait, and pray, that one may come of silken strength enough to weave us free.&#8221;",织者们的遗言。&lt;br&gt;&lt;br&gt;&#8220;姊妹们，同族们，重担已移交。凡虫将承担一切，永不停歇，永不沉寂。&lt;br&gt;&lt;br&gt;我们将死去、等待并祈祷，愿有灵丝之力足够强大者到来，编织我们的自由。&#8221;
+INV_DESC_GREAT_SHARD,Chunk of hardened material found in the shells of great beasts. Can be broken into individual shell shards for use in crafting.,部分巨兽甲壳上脱落的大块硬化碎片。拆解后获得的甲壳碎片可用于制作。
+OPT_MENU_RESOLUTION,Resolution:,分辨率：
+INV_DESC_HEART_PIECE_MULT,Shards of an ancient mask worn to protect oneself from harm.&lt;br&gt;&lt;br&gt;Complete a mask to strengthen the shell and protect against damage.,用以抵御伤害的古老面甲碎片。&lt;br&gt;&lt;br&gt;完整的面甲可以强化躯壳，抵御更多伤害。
+MAT_NAME_MAGNETITE,Magnetite,磁悬岩
+INV_NAME_SKILL_SILKBOSS_NEEDLE,Pale Nails,苍白之爪
+INV_NAME_SK_FRAGMENT,Crown Fragment,王冠碎片
+INV_DESC_SPINE,Flexible fibre from within a Hoker&#8217;s spine. Can be woven into garments and accessories by a skilled seamstress.,从棘背虫背刺中提取的纤维，老练的织女虫可以用它缝制衣物或配饰。
+INV_NAME_BELLCLAPPER_ITEM,Silver Bell,银光铃铛
+CTRL_MARKERS,Markers,标记
+INV_DESC_ARCHITECT_KEY,Rotary key of the Architects. Opens their Chapel in the Underworks.,建筑师的旋齿钥匙。可用于开启圣堡工厂的小教堂。
+INV_DESC_DRESS_REG,"Simple protective garb, expertly woven but showing signs of age.",工艺精湛的旧披风，提供基础防护。
+INV_DESC_FARSIGHT,"Retracted Weaver surveillance instrument. Once assembled, the device will allow observation over vast distances.  &lt;br&gt;&lt;br&gt;The Farsight can be assembled in a home.",收起状态的织者监视设备。组装后可用于远距离观测。&lt;br&gt;&lt;br&gt;遥观仪可在钟居内组装。
+INV_NAME_HEART_CLOVER,Conjoined Heart,双生之心
+INV_NAME_SHARD,Shell Shards,甲壳碎片
+CTRL_RETURN,Return,返回
+INV_DESC_CRAW_SUMMONS,Scrawled missive on tattered black rag.&lt;br&gt;&lt;br&gt;&#8220;Defiler... Dark... Attend... Home... Wheel...&#8221;,黑色的破布上写满潦草的字迹。&lt;br&gt;&lt;br&gt;&#8220;亵渎者...... 晦暗...... 赴约...... 轮子......&#8221;
+INV_NAME_FIXER_IDOL,Hornet Statuette,大黄蜂雕像
+CTRL_SHOW_PINS_KEY,Show Pins/Key,显示图针/图例
+COLLECTION_HEADING_MOMENTOS,Mementos,忆痕
+INV_DESC_COIN,"Beads carved from various materials, used as a measure of faith and traded as currency. Each is etched with a fine patterned design.",用不同材料雕刻的珠子，既作为信仰的象征又被用作流通货币。每颗表面都镌刻着精美的纹饰图案。
+INV_NAME_WALLJUMP,Cling Grip,蛛攀术
+INV_DESC_HEART_CLOVER,Enlivened heart of the Green Prince. Its beat is sharp and clear.,绿王子复苏的心脏，跳动急剧清晰。
+INV_NAME_SKILL_HARPOON,Clawline,飞针冲刺
+INV_DESC_SNARE_SOUL_CHURCHKEEPER,"Vial gifted by the Chapel Maid, filled full with swirling soul.",教堂侍女赠予的小瓶，里面装着漩流状的灵魂。
+MAT_DESC_MAGNETITE,"Brittle levitating rock, found throughout the fringes of Pharloom.",遍布纺络边缘地区的悬浮岩石，质地轻脆。
+INV_DESC_R_ANCIENT_EGG,Black stone egg formed before the birth of Pharloom.&lt;br&gt;&lt;br&gt;A relic from the ancient past. Highly prized by collectors of historical items.,纺络诞生前便已形成的黑色石卵。&lt;br&gt;&lt;br&gt;远古时期的遗物，是古董收藏家梦寐以求的宝贝。
+PANE_INVENTORY,Inventory,物品栏
+INV_DESC_HEART_BLOOM,Enlivened heart of Nyleth. It beats faint and fast.,尼莱斯复苏的心脏，跳动轻盈快速。
+INV_DESC_BELL_HOUSE_KEY,Key to a restored bell above Bellhart.,钟心镇上一座修葺完善的钟居的钥匙。
+INV_NAME_PLINNEY_TOOLS,Pale Oil,苍白油
+INV_NAME_FARSIGHT,Farsight,遥视仪
+SHOP_REPAIR_COMPLETE,Item Repaired,物品已修复
+INV_NAME_GOURMAND_MOSSBERRY_STEW,Mossberry Stew,苔莓浓汤
+INV_NAME_NAIL1,Needle,织针
+INV_NAME_PLASMIUM_BLOOD,Plasmified Blood,生质血
+INV_DESC_WARD_KEY,"Finely crafted metal key, shaped to resemble a surgical implement.&lt;br&gt;&lt;br&gt;Grants access to the Citadel&#8217;s Whiteward.",形似外科手术器械的精致钥匙。
+INV_NAME_R_PSALM_CYL,Psalm Cylinder,圣咏音筒
+INV_DESC_WITCH_ITEM,Contorted mass of ashen vine. Cries out incessantly.,灰藤扭曲成团，持续发出哀鸣。
+INV_NAME_CRAWBELL,Crawbell,腐囊钟巢
+RELIC_WEAVER_TOTEM_SLAB_BOT_DESC,"Carving of Atla, Weaver of time. A prayer is etched upon it.&lt;br&gt;&lt;br&gt;&#8220;By grace of your example, and our history held full in mind, our song is yours, as your name is sacred. Weaver Atla, may you be praised eternal.&#8221;",时光织者阿特拉的雕像，像上刻有祷文。&lt;br&gt;&lt;br&gt;&#8220;以您为榜样，我们铭记历史。颂歌献予您，使您圣名永存。织者阿特拉，愿您永沐荣光。&#8221;
+INV_DESC_DRESS_APP_FLY_HALF,Smells faintly of fly.,飞虫气息淡薄。
+RELIC_PSALM_CYLINDER_LIBRARY_ROOF_DESC,"Sermon of service, delivered by an ordained Vaultkeeper to acolytes in training.",侍奉布道，由受封的书库管理员向其信众宣讲。
+OPT_MENU_TITLE,Options,选项
+INV_NAME_SNARE_SOUL_CHURCHKEEPER,Maiden&#8217;s Soul,侍女之魂
+INV_NAME_HEART_HUNTER,Hunter&#8217;s Heart,猎人之心
+INV_DESC_NAIL1,"Long sewing tool, uniquely balanced for combat. The blade is marked by time and use.",为战斗设计的特制长针，原身为纺织工具。刃身留有岁月的痕迹。
+INV_NAME_MATERIUM,Materium,物质库
+MAIN_MENU_OPTIONS,Options,选项
+INV_DESC_R_PSALM_CYL_MELODY_BOARD,"Sacred melody of the Vaultkeepers, coveted and claimed by the pontiff below the Whispering Vaults.",书库管理员的圣歌，低语书库下方主教梦寐以求的旋律。
+MAIN_MENU_QUIT_GAME,Quit Game,退出游戏
+COLLECTION_HEADING_RELICDEALER,Relics,遗物
+INV_NAME_DRESS_DJ,Faydown Cloak,幻羽披风
+INV_DESC_COIN_SET_M,Adornment strung with a large quantity of rosaries. Can be broken and the rosaries used to trade.,串有大量念珠的项链，拆解后取出的念珠可用于交易。
+INV_DESC_BLUE_GOOP,Liquid lifeseed extracted from a ripe bud. Possesses regenerative qualities.,成熟花苞中提取的生命精华，具有再生功效。
+INV_NAME_ARCHITECT_KEY,Architect&#8217;s Key,建筑师钥匙
+INV_DESC_ANT_TRAPPER_ITEM,Carved child&#8217;s toy of a bug clad in leaves.,披叶虫子造型的儿童玩具。
+INV_NAME_SNARE_SOUL_BELLHERMIT,Hermit&#8217;s Soul,隐者之魂
+INV_NAME_COIN_SET_S,Rosary String,念珠串
+INV_NAME_COIN_SET_M,Rosary Necklace,念珠项链
+INV_NAME_COIN_SET_L,Pale Rosary Necklace,苍白念珠项链
+INV_NAME_MEMENTO_SURFACE,Surface Memento,墟野忆痕
+INV_DESC_FINEPIN,"Common weapon of Pharloom, still in good condition despite long use. An expertly crafted metal rod with a sharpened tip.",纺络的常见武器，精制的金属杆配上锐利的尖端，历久弥新。
+INV_NAME_COIN_SET_F,Frayed Rosary String,朽损念珠串
+LANGUAGE_CONFIRM,Are you sure?,是否确认？
+CTRL_SELL,Sell,出售
+RELIC_PSALM_CYLINDER_WARD_DESC,"Last surgery of Conductor Mizello, performed in Whiteward&#8217;s operating theatre.",指挥家米泽洛在白愈厅的手术室中进行的最后一场手术。
+INV_DESC_SPOOL_SILKHEARTS,Silk Hearts,丝之心
+MAT_DESC_SILK,"Fine thread spun from the soul of its creator. Highly coveted for its remarkable strength and mystical properties. Used to heal wounds, extend life and weave powerful runes.",由其创造者的灵魂纺成的精细丝线，因其非凡的强度和神秘特性而备受珍视。可用于治愈伤口、延续生命，以及编织强力的符文。
+INV_NAME_COIN,Rosaries,念珠
+INV_DESC_MAP,"Map of Pharloom, partially filled out by Shakra. Without a quill it cannot be updated.",沙克拉绘制的纺络局部地图。可使用羽毛笔更新地图以显示新发现的区域。
