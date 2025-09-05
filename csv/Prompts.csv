@@ -1,150 +1,150 @@
 Key,EN,ZH
-TOLL_BENCH,A machine with a symbol of a bench.,一台印有长椅符号的机器。
-GET_NEEDOLIN_1,Play ancient melodies by stringing Silk along the needle.,用灵丝给织针上弦，拨弹悠长的古调。
-PROMPT_PARRY,Parry,弹反
-SPEAK,SPEAK,交谈
-SLAB_LOCK_A,A lock with the mark of &#8216;Indolent&#8217;.,带有&#8220;怠惰&#8221;标记的锁。
-SPAR_PINSTRESS,Challenge Pinstress?,挑战针姬？
-SLAB_LOCK_E,A lock with the mark of &#8216;First Sin&#8217;.,带有&#8220;原罪&#8221;标记的锁。
-SLAB_LOCK_D,A lock with the mark of &#8216;Apostate&#8217;.,带有&#8220;叛教&#8221;标记的锁。
-CLAIM,CLAIM,领取
-GET_SPRINT_2,Chase down prey and leap great distances.,追猎目标并进行超远距离跳跃。
+TOLL_BENCH,A machine with a symbol of a bench.,具有长凳象征的机器。
+GET_NEEDOLIN_1,Play ancient melodies by stringing Silk along the needle.,通过沿针头丝带串起丝绸，播放古老的旋律。
+PROMPT_PARRY,Parry,帕里
+SPEAK,SPEAK,说话
+SLAB_LOCK_A,A lock with the mark of &#8216;Indolent&#8217;.,带有＆＃8216; indolent＆＃8217的标记的锁。
+SPAR_PINSTRESS,Challenge Pinstress?,挑战金属钉？
+SLAB_LOCK_E,A lock with the mark of &#8216;First Sin&#8217;.,带有＆＃8216;第一个罪的锁定。
+SLAB_LOCK_D,A lock with the mark of &#8216;Apostate&#8217;.,带有＆＃8216;叛教的标记的锁。
+CLAIM,CLAIM,宣称
+GET_SPRINT_2,Chase down prey and leap great distances.,追逐猎物，跳跃很大。
 CHALLENGE,CHALLENGE,挑战
-UI_MSG_DESC_EVAHEAL_2,Silk will regenerate while resting at a bench.,在长椅休息时恢复灵丝。
-TAKE,TAKE,拾取
-PROMPT_SKILL,Silk Skill,灵丝技能
-GET_ITEM_INTRO_SILKSKILL,Bound the Silk Skill,已缚丝于灵丝技能
+UI_MSG_DESC_EVAHEAL_2,Silk will regenerate while resting at a bench.,丝绸将在长凳上休息时再生。
+TAKE,TAKE,拿
+PROMPT_SKILL,Silk Skill,丝绸技能
+GET_ITEM_INTRO_SILKSKILL,Bound the Silk Skill,束缚丝绸技能
 BUTTON_DESC_NONE,,
-SPAR_GARMOND,Duel with Garmond?,与加蒙德决斗？
-THROW_TOOL_PIN,Throw Pin,掷出刺针
+SPAR_GARMOND,Duel with Garmond?,与Garmond对决？
+THROW_TOOL_PIN,Throw Pin,扔别针
 ENTER,ENTER,进入
-TRADE,TRADE,交易
+TRADE,TRADE,贸易
 UI_MSG_HCOMBO_2_NAME,Hunter,猎人
 TRAVEL,TRAVEL,旅行
-GET_ITEM_INTRO_GET_RECEIVE,Received the,已收到
-THROW_EQUIP_GENERIC,Equip Tools,装备工具
-SLAB_LOCK_A_READY,Use Key of Indolent?,使用怠惰之钥？
-GET_SILKBOMB_1,Weave runes of blazing Silk upon enemies.,在敌人身上缝上剧烈燃烧的灵丝符文。
-CONSTRUCT_FARSIGHT,Assemble Farsight?,组装遥观仪？
-GET_BELLBEAST_MELODY_2,Summon the Beastlings and return together to their mother.,召唤钟道兽群，并一同前往其母亲所在之处。
-GET_SILKDASH_1,Pierce through enemies in a blur of blade and Silk.,灵丝与刃锋交织，高速穿透多个敌人。
-CONSTRUCT_MATERIUM,Assemble Materium?,组装物质库？
-GET_SPHERE_1,Attack by whipping a storm of Silk around oneself.,挥舞灵丝形成环绕自身的灵丝风暴。
-DONATE,Donate,捐赠
+GET_ITEM_INTRO_GET_RECEIVE,Received the,收到了
+THROW_EQUIP_GENERIC,Equip Tools,设备工具
+SLAB_LOCK_A_READY,Use Key of Indolent?,使用懒惰的钥匙？
+GET_SILKBOMB_1,Weave runes of blazing Silk upon enemies.,将丝绸的编织符文编织在敌人身上。
+CONSTRUCT_FARSIGHT,Assemble Farsight?,组装有远见？
+GET_BELLBEAST_MELODY_2,Summon the Beastlings and return together to their mother.,召唤野兽，一起返回母亲。
+GET_SILKDASH_1,Pierce through enemies in a blur of blade and Silk.,用刀片和丝绸的模糊穿过敌人。
+CONSTRUCT_MATERIUM,Assemble Materium?,组装母亲？
+GET_SPHERE_1,Attack by whipping a storm of Silk around oneself.,通过鞭打自己的丝绸风暴来攻击自己。
+DONATE,Donate,捐
 THROW_TOOL_GENERIC,Use Tool,使用工具
-CONSUME,CONSUME,汲取
-GET_ITEM_INTRO_GET,Obtained the,已获得
-PROMPT_CONDITION_BENCH,At Bench,在长椅处
-UI_MSG_TITLE_FARSIGHT,Farsight,遥观仪
+CONSUME,CONSUME,消耗
+GET_ITEM_INTRO_GET,Obtained the,获得的
+PROMPT_CONDITION_BENCH,At Bench,在替补席上
+UI_MSG_TITLE_FARSIGHT,Farsight,有远见
 REST,REST,休息
-PROMPT_USE_CONSUMABLE,Break,击破
-GIVE,GIVE,交付
+PROMPT_USE_CONSUMABLE,Break,休息
+GIVE,GIVE,给
 GET_CHARGESLASH_2,,
 PROMPT_SUPER_JUMP,Super Jump,超级跳
-GET_CHARGESLASH_1,"Charge power in the needle, then release as a deadly attack.",将力量凝聚于针刃，释放出致命一击。
-CALL,CALL,呼唤
-GET_DESC_HEART_CLOVER,It beats sharp and clear.,跳动急剧清晰。
-GET_WEAVER_ART,Silk Skills can be equipped in the Crest screen of the Menu.,可在菜单的纹章界面装备灵丝技能。
-REQUEST_AID,Request aid in battle?,请求战斗支援？
-GET_ITEM_INTRO_GET_A,Obtained a,已获得
-UI_MSG_HCOMBO_PREFIX,Evolved the Crest of,已进化纹章
-GET_ITEM_INTRO1,Learned the,已学习
-GET_HARPOON_2,Silk will be expended. Strike enemies to replenish Silk.,此举会消耗灵丝。攻击敌人可补充灵丝。
-UI_MSG_HCOMBO_2_DESC,"Strike enemies repeatedly to become focused, making needle attacks deadlier.&lt;br&gt;Heighten focus with additional strikes, and further increase lethality.",连续攻击敌人进入凝聚状态，强化织针威力。&lt;br&gt;继续攻击可提升凝聚等级，进一步增强杀伤力 。
-GET_HARPOON_1,Fling the needle as a harpoon and launch forcefully towards it.,掷针为锚，牵引冲刺。
-DIVE,DIVE,潜入
-NO,No,否
-PROMPT_NEEDLETHROW,Throw Needle,掷出织针
-BUTTON_DESC_RELEASE,Release,放开
+GET_CHARGESLASH_1,"Charge power in the needle, then release as a deadly attack.",在针中充电，然后作为致命攻击释放。
+CALL,CALL,称呼
+GET_DESC_HEART_CLOVER,It beats sharp and clear.,它击败了锋利而清晰。
+GET_WEAVER_ART,Silk Skills can be equipped in the Crest screen of the Menu.,丝绸技能可以在菜单的波峰屏幕中配备。
+REQUEST_AID,Request aid in battle?,在战斗中要求援助？
+GET_ITEM_INTRO_GET_A,Obtained a,获得了
+UI_MSG_HCOMBO_PREFIX,Evolved the Crest of,进化
+GET_ITEM_INTRO1,Learned the,学会了
+GET_HARPOON_2,Silk will be expended. Strike enemies to replenish Silk.,丝绸将被消耗。罢工敌人补充丝绸。
+UI_MSG_HCOMBO_2_DESC,"Strike enemies repeatedly to become focused, making needle attacks deadlier.&lt;br&gt;Heighten focus with additional strikes, and further increase lethality.",罢工敌人反复变得聚焦，使针头攻击变得更加致命。
+GET_HARPOON_1,Fling the needle as a harpoon and launch forcefully towards it.,将针作为鱼叉挥舞，并强行向其发射。
+DIVE,DIVE,潜水
+NO,No,不
+PROMPT_NEEDLETHROW,Throw Needle,扔针头
+BUTTON_DESC_RELEASE,Release,发布
 TRACK,TRACK,追踪
-GET_WALLJUMP_1,Cling to sheer surfaces and leap to rapidly scale heights.,攀附绝壁并向上弹跳，快速跃升至高处。
-PROMPT_SUPERDASH,Harpoon,飞针索
-GET_SUPERJUMP_1,Fling the needle upwards and launch to tremendous heights.,向空中掷出织针并跃升至高处。
-GET_ITEM_INTRO_SILKHEART,Consumed a,已汲取
-GET_SUPERJUMP_2,Silk will be expended. Strike enemies to replenish Silk.,此举会消耗灵丝。攻击敌人可补充灵丝。
-BUTTON_DESC_HOLD_FOCUS,Hold,按住
-UI_MSG_TITLE_EVAHEAL,Sylphsong,风灵谣
+GET_WALLJUMP_1,Cling to sheer surfaces and leap to rapidly scale heights.,紧贴纯粹的表面并跳到迅速的高度。
+PROMPT_SUPERDASH,Harpoon,鱼叉
+GET_SUPERJUMP_1,Fling the needle upwards and launch to tremendous heights.,向上挥舞针并发射到巨大的高度。
+GET_ITEM_INTRO_SILKHEART,Consumed a,消耗a
+GET_SUPERJUMP_2,Silk will be expended. Strike enemies to replenish Silk.,丝绸将被消耗。罢工敌人补充丝绸。
+BUTTON_DESC_HOLD_FOCUS,Hold,抓住
+UI_MSG_TITLE_EVAHEAL,Sylphsong,Sylphsong
 ASCEND,ASCEND,上升
-SLAB_LOCK_B,A lock with the mark of &#8216;Heretic&#8217;.,带有&#8220;异端&#8221;标记的锁。
-UI_MSG_HCOMBO_1_DESC,"Strike enemies repeatedly to build focus.&lt;br&gt;Once focused, needle attacks will become deadlier.",通过连续攻击敌人积累凝聚力。&lt;br&gt;进入凝聚状态后，织针攻击将更加致命。
+SLAB_LOCK_B,A lock with the mark of &#8216;Heretic&#8217;.,带有＆＃8216; HERETEC＆＃8217的标记的锁。
+UI_MSG_HCOMBO_1_DESC,"Strike enemies repeatedly to build focus.&lt;br&gt;Once focused, needle attacks will become deadlier.",罢工敌人反复建立重点。
 UI_MSG_HCOMBO_1_NAME,Hunter,猎人
-PROMPT_INTERACT,Interact,互动
-GET_DESC_HEART_HUNTER,It beats steady and strong.,跳动稳健有力。
-TAKE_LIVING,TAKE,抱起
-ABANDONED_TOWN_DOWN,A small tunnel leading downward.&lt;br&gt;Descend to Pharloom?,通向纺络的狭窄通道。&lt;br&gt;是否下降至纺络？
+PROMPT_INTERACT,Interact,相互影响
+GET_DESC_HEART_HUNTER,It beats steady and strong.,它稳定而坚强。
+TAKE_LIVING,TAKE,拿
+ABANDONED_TOWN_DOWN,A small tunnel leading downward.&lt;br&gt;Descend to Pharloom?,一条通向下向下的小隧道。
 GET_SILK_BOSS_NEEDLE_2,,
-GET_DESC_WHITE_FLOWER_2,Its pale light wards against the void.,散发出能够驱散虚空的柔光。
-GET_DESC_WHITE_FLOWER_1,Fragile flower taken from a deep and distant memory.,采自深层忆境的娇嫩花朵。
+GET_DESC_WHITE_FLOWER_2,Its pale light wards against the void.,它的浅灯病房靠在空隙上。
+GET_DESC_WHITE_FLOWER_1,Fragile flower taken from a deep and distant memory.,脆弱的花从深处而遥远的记忆中取出。
 TASKLIST_INTRO_PREFIX,New Objective,新目标
-GET_ITEM_INTRO1_SIMPLE,Learned,已学习
-GET_DOUBLEJUMP_1,"Fabled feather down, layered within the cloak. Leap again while airborne.",披风内缝入传说中的羽绒。可在空中进行二段跳。
-PROMPT_BROLLY,Float,浮空
-BUTTON_DESC_WALLJUMP,Press,按下
-MEMORY_MSG_DESC_SILKHEART_1,Regained the power to regenerate Silk within one&#8217;s shell.,恢复甲壳内灵丝再生的能力。
-GET_PARRY_1,Bind Silk around the needle to deflect enemy attacks and instantly strike back.,用灵丝缠绕织针格挡敌人的攻击，并立即进行反击。
-BUTTON_DESC_HOLD,Hold,按住
-PROMPT_DJ,Air Jump,空中跳跃
-WISH_PROMISED,Wish Promised,心愿已允诺
-SLAB_LOCK_C,A lock with the mark of &#8216;Apostate&#8217;.,带有&#8220;叛教&#8221;标记的锁。
-PROMPT_DASH,Sprint,冲刺
-GET_BROLLY_1,Flare the cloak to ride strong winds or glide gracefully.,展开斗篷以乘风而行，或以悠然滑翔。
-YESNO_ITEM_MAXED,Max Held,已达到持有上限
+GET_ITEM_INTRO1_SIMPLE,Learned,学会了
+GET_DOUBLEJUMP_1,"Fabled feather down, layered within the cloak. Leap again while airborne.",寓言羽毛向下，分层在斗篷中。在空降时再次跳跃。
+PROMPT_BROLLY,Float,漂浮
+BUTTON_DESC_WALLJUMP,Press,按
+MEMORY_MSG_DESC_SILKHEART_1,Regained the power to regenerate Silk within one&#8217;s shell.,恢复了在一个＆＃8217; s壳中再生丝绸的力量。
+GET_PARRY_1,Bind Silk around the needle to deflect enemy attacks and instantly strike back.,将丝绸绑在针头周围，以偏转敌人的攻击并立即反击。
+BUTTON_DESC_HOLD,Hold,抓住
+PROMPT_DJ,Air Jump,空中跳
+WISH_PROMISED,Wish Promised,希望得到承诺
+SLAB_LOCK_C,A lock with the mark of &#8216;Apostate&#8217;.,带有＆＃8216;叛教的标记的锁。
+PROMPT_DASH,Sprint,短跑
+GET_BROLLY_1,Flare the cloak to ride strong winds or glide gracefully.,斗篷挥舞着强风或优雅地滑动。
+YESNO_ITEM_MAXED,Max Held,麦克斯举行
 GET_MEMORY_MELODY_2,,
-SHOP,SHOP,购物
-GET_ITEM_INTRO_SILKSKILL_PHANTOM,Learned the Silk Skill,已学习灵丝技能
-GET_BELLBEAST_MELODY_1,Mimic the song of the Bell Beast.,模仿钟道兽的歌声。
+SHOP,SHOP,店铺
+GET_ITEM_INTRO_SILKSKILL_PHANTOM,Learned the Silk Skill,学会了丝绸技能
+GET_BELLBEAST_MELODY_1,Mimic the song of the Bell Beast.,模仿贝尔野兽的歌。
 INSPECT,INSPECT,检查
-GET_ITEM_INTRO_POWERUP,Bound the Ancestral Art,已缚丝于先祖技艺
-UI_MSG_DESC_FARSIGHT_2,Completion quantities will be displayed in Menus.,菜单中将显示完成数量。
-SLAB_LOCK_B_READY,Use Key of Heretic?,使用异端之钥？
-PROMPT_HARPOON,Harpoon,飞针索
+GET_ITEM_INTRO_POWERUP,Bound the Ancestral Art,束缚祖先艺术
+UI_MSG_DESC_FARSIGHT_2,Completion quantities will be displayed in Menus.,完成数量将显示在菜单中。
+SLAB_LOCK_B_READY,Use Key of Heretic?,使用异端的关键？
+PROMPT_HARPOON,Harpoon,鱼叉
 ATTACK,ATTACK,攻击
-ABANDONED_TOWN_UP,A small tunnel leading upward.&lt;br&gt;Ascend to the surface?,通往地面的狭小通道。&lt;br&gt;是否上升至位于地面的墟野？
-UI_MSG_DESC_EVAHEAL_1,Eva&#8217;s soul and strength reside within.,封存着伊娃的灵魂与力量。
-BUTTON_DESC_TAP,Tap,轻按
-WATCH,WATCH,观看
-BUTTON_DESC_PRESS,Press,按下
-SLAB_LOCK_E_READY,Use Key of First Sin?,使用原罪之钥？
-GET_MAP_2,View a detailed map of the world in the Map pane of the Menu.,在&#8220;菜单&#8221;的&#8220;地图&#8221;界面查看纺络的详细地图。
+ABANDONED_TOWN_UP,A small tunnel leading upward.&lt;br&gt;Ascend to the surface?,一条小隧道向上导致。
+UI_MSG_DESC_EVAHEAL_1,Eva&#8217;s soul and strength reside within.,Eva的灵魂和力量居住在其中。
+BUTTON_DESC_TAP,Tap,轻敲
+WATCH,WATCH,手表
+BUTTON_DESC_PRESS,Press,按
+SLAB_LOCK_E_READY,Use Key of First Sin?,使用第一个罪的关键？
+GET_MAP_2,View a detailed map of the world in the Map pane of the Menu.,在菜单的地图窗格中查看世界地图。
 DESCEND,DESCEND,下降
-SLAB_LOCK_D_READY,Use Key of Apostate?,使用叛教之钥？
-PLAY,PLAY,播放
-WEAVER_ART_EQUIP,Equip Silk Skills in the Crest screen of the Menu.,在菜单的纹章界面装备灵丝技能。
-OPEN,OPEN,开启
-GET_SILK_BOSS_NEEDLE,Spin lethal talons from thread that seek out enemies.,利用灵丝编织出追踪敌人的致命利爪。
-WISH_GRANTED,Wish Granted,心愿已达成
-TASKLIST_INTRO_1,Ascend through the lands of Pharloom to reach the Citadel at the kingdom&#8217;s peak.,穿越纺络之境，上升至王国顶点的圣堡。
-GET_NEEDOLIN_2,Silk will be expended. Strike enemies to replenish Silk.,此举会消耗灵丝。攻击敌人可补充灵丝。
-BELLWAY_UNLOCK_NAME,Bell Beast,钟道兽
-SLAB_LOCK_C_READY,Use Key of Apostate?,使用叛教之钥？
-LISTEN,LISTEN,聆听
+SLAB_LOCK_D_READY,Use Key of Apostate?,使用背道钥匙？
+PLAY,PLAY,玩
+WEAVER_ART_EQUIP,Equip Silk Skills in the Crest screen of the Menu.,在菜单的顶屏幕上装备丝绸技能。
+OPEN,OPEN,打开
+GET_SILK_BOSS_NEEDLE,Spin lethal talons from thread that seek out enemies.,从螺纹寻求敌人的线的旋转杀伤力。
+WISH_GRANTED,Wish Granted,愿意给予
+TASKLIST_INTRO_1,Ascend through the lands of Pharloom to reach the Citadel at the kingdom&#8217;s peak.,越过伪装土地，到达王国的山峰到达城堡。
+GET_NEEDOLIN_2,Silk will be expended. Strike enemies to replenish Silk.,丝绸将被消耗。罢工敌人补充丝绸。
+BELLWAY_UNLOCK_NAME,Bell Beast,贝尔野兽
+SLAB_LOCK_C_READY,Use Key of Apostate?,使用背道钥匙？
+LISTEN,LISTEN,听
 GET_BROLLY_2,,
-GET_ITEM_INTRO_EVAHEAL,Bound Eva&#8217;s Art,已缚丝于伊娃的技艺
-PROMPT_USE_CONSUMABLE_GRUB,Consume,汲取
-GET_ITEM_INTRO_BEFRIEND,Befriended the,已帮助
-MEMORY_MSG_TITLE_SILKHEART,Silk Heart,丝之心
-TASKLIST_INTRO_2,View Objectives in the Tasks screen of the Menu.,在&#8220;菜单&#8221;的&#8220;任务&#8221;界面查看目标。
-UI_MSG_DESC_FARSIGHT_1,The state of the world can be sensed.,纺络的瞬息变化皆可感知。
-NOT_ENOUGH_CURRENCY,Not enough,念珠不足
-PROMPT_JUMP,Jump,跳跃
-TURNIN,TURN IN,交付
-GET_ITEM_INTRO_FARSIGHT,Constructed the,已组装
+GET_ITEM_INTRO_EVAHEAL,Bound Eva&#8217;s Art,BOUND EVA的艺术
+PROMPT_USE_CONSUMABLE_GRUB,Consume,消耗
+GET_ITEM_INTRO_BEFRIEND,Befriended the,成为朋友
+MEMORY_MSG_TITLE_SILKHEART,Silk Heart,真丝心
+TASKLIST_INTRO_2,View Objectives in the Tasks screen of the Menu.,在菜单的任务屏幕中查看目标。
+UI_MSG_DESC_FARSIGHT_1,The state of the world can be sensed.,可以感觉到世界的状态。
+NOT_ENOUGH_CURRENCY,Not enough,不够
+PROMPT_JUMP,Jump,跳
+TURNIN,TURN IN,上交
+GET_ITEM_INTRO_FARSIGHT,Constructed the,构建
 GET_WALLJUMP_2,,
-GET_NEEDLE_THROW_1,Attack by throwing the needle forward. Silk will be expended.,消耗灵丝，向前掷针突刺。
-YES,Yes,是
-GET_DOUBLEJUMP_2,Soar above foes. Reach new heights. Strike from above.,腾空而起，突破高度限制，并从俯冲袭击敌人。
-SPAR_SHAKRA,Duel with Shakra?,与沙克拉决斗？
-SIT,SIT,坐下
-PROMPT_QUICKMAP,View Map,快速查看地图
+GET_NEEDLE_THROW_1,Attack by throwing the needle forward. Silk will be expended.,通过向前扔针者来攻击。丝绸将被消耗。
+YES,Yes,是的
+GET_DOUBLEJUMP_2,Soar above foes. Reach new heights. Strike from above.,在敌人上方飙升。达到新的高度。从上方罢工。
+SPAR_SHAKRA,Duel with Shakra?,与沙克拉对决？
+SIT,SIT,坐
+PROMPT_QUICKMAP,View Map,查看地图
 ACCEPT,ACCEPT,接受
-PROMPT_BIND,Bind,缚丝
-EXIT,EXIT,退出
-GET_DESC_HEART_CORAL,It beats deep and slow.,跳动沉重缓慢。
+PROMPT_BIND,Bind,绑定
+EXIT,EXIT,出口
+GET_DESC_HEART_CORAL,It beats deep and slow.,它跳动了很慢。
 PROMPT_ATTACK,Attack,攻击
-GET_SPRINT_1,"Sprint at blinding speed, beyond one&#8217;s natural limits.",以突破生理极限的速度，向前疾速冲刺。
+GET_SPRINT_1,"Sprint at blinding speed, beyond one&#8217;s natural limits.",以盲目的速度冲刺，超出了一个＆＃8217的自然限制。
 BUTTON_DESC_AIR,in air,在空中
-PROMPT_NEEDOLIN,Needolin,织忆弦针
-PROMPT_LOOK_DOWN,Look Down,向下看
-GET_MEMORY_MELODY_1,Draw out memories of Pharloom&#8217;s forgotten past.,提取纺络之地被遗忘的往昔记忆。
-GET_MAP_1,to view a map of the current area.,以查看当前区域的地图
-GET_DESC_HEART_FLOWER,It beats faint and fast.,跳动轻盈快速。
+PROMPT_NEEDOLIN,Needolin,丁多林
+PROMPT_LOOK_DOWN,Look Down,瞧不起
+GET_MEMORY_MELODY_1,Draw out memories of Pharloom&#8217;s forgotten past.,画出涉及过去的过去的回忆。
+GET_MAP_1,to view a map of the current area.,查看当前区域的地图。
+GET_DESC_HEART_FLOWER,It beats faint and fast.,它击败了微弱而快速。

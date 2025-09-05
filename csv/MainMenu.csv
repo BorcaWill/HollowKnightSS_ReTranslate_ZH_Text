@@ -1,171 +1,171 @@
 Key,EN,ZH
 PROFILE_INCOMPATIBLE,Version Incompatible,版本不兼容
-UI_MENU_STYLE_HORNET,Silksong,丝之歌
-LANG_CURRENT,English,简体中文
-UI_MENU_STYLE_ABYSS,Abyss,幽暗深渊
-SCREEN_AUDIO,Audio,音量
+UI_MENU_STYLE_HORNET,Silksong,丝绸
+LANG_CURRENT,English,英语
+UI_MENU_STYLE_ABYSS,Abyss,深渊
+SCREEN_AUDIO,Audio,声音的
 PAUSE_CONTINUE,Continue,继续
-GAME_CAMERA_SHAKE,Camera Shake,镜头抖动
-TROPHIES_BASE_SET_TEXT,Trophies for Hollow Knight: Silksong,《空洞骑士：丝之歌》的奖杯列表。
+GAME_CAMERA_SHAKE,Camera Shake,相机摇
+TROPHIES_BASE_SET_TEXT,Trophies for Hollow Knight: Silksong,空心骑士的奖杯：丝绸
 BUTTON_ATTACK,Attack,攻击
-VIDEO_DISPLAY,Monitor:,屏幕：
+VIDEO_DISPLAY,Monitor:,监视器：
 OPTIONS_KEYBOARD,Keyboard,键盘
-CTRL_REMAP,Remap Controls,重新映射按键
-SCREEN_GAMEPAD_REMAP,Remap Controller,重新映射手柄按键
-PS4_SAVE_IMPORT_RESULT_FAILED,{0} out of {1} PS4™ save files were successfully imported.&lt;br&gt;Clear save slots to import PS4™ save files.,成功导入{0}/{1}个PS4™存档。&lt;br&gt;请释放存档槽位以继续导入PS4™存档。
-BUTTON_LOOK,Look Up / Down,向上/向下看
-SCREEN_GAMEPAD,Controller,游戏手柄
-CTRL_DETACHED,No controller connected,未连接游戏手柄
-OS_SLIDER,Scale,比例
-KEYBOARD_NONE,None,无
-UI_MENU_STYLE_SURFACE,Surface,墟野
-MODAL_ENGAGE_CONTROLLER,Press any button to start.,按下任意按钮开始。
+CTRL_REMAP,Remap Controls,重新映射控件
+SCREEN_GAMEPAD_REMAP,Remap Controller,重新映射控制器
+PS4_SAVE_IMPORT_RESULT_FAILED,{0} out of {1} PS4™ save files were successfully imported.&lt;br&gt;Clear save slots to import PS4™ save files.,{0}从{1} ps4™保存文件中成功导入。
+BUTTON_LOOK,Look Up / Down,查找 /向下
+SCREEN_GAMEPAD,Controller,控制器
+CTRL_DETACHED,No controller connected,没有连接控制器
+OS_SLIDER,Scale,规模
+KEYBOARD_NONE,None,没有任何
+UI_MENU_STYLE_SURFACE,Surface,表面
+MODAL_ENGAGE_CONTROLLER,Press any button to start.,按任何按钮开始。
 UI_MENU_ACHIEVEMENTS_XB1,Achievements,成就
 UI_MENU_ACHIEVEMENTS_PS4,Trophies,奖杯
-DESC_LANG,Change language in the Main Menu,在主菜单中切换语言
-OPTIONS_CREDITS,Credits,制作人员
-CTRL_UNMAPPED,Unmapped,未映射
-PROFILE_CLEAR_CONFIRM,Are you sure?,确认清除？
-BUTTON_RIGHT,Right,右
-DESC_PARTICLES,Reduce to improve performance on lower end systems.,降低此项可提升低配设备性能。
-KEYBOARD_PRESSKEY,...,设定新键位
+DESC_LANG,Change language in the Main Menu,在主菜单中更改语言
+OPTIONS_CREDITS,Credits,学分
+CTRL_UNMAPPED,Unmapped,未铺装
+PROFILE_CLEAR_CONFIRM,Are you sure?,你确定吗？
+BUTTON_RIGHT,Right,正确的
+DESC_PARTICLES,Reduce to improve performance on lower end systems.,减少以提高下端系统的性能。
+KEYBOARD_PRESSKEY,...,...
 VIDEO_FULLSCREEN,Full Screen,全屏
-LOADING,Loading...,正在加载……
-NAV_BACK,Back,返回
-PLAYER_VOICE_OPTION_LABEL,Hero Voice,主角声音
-MOH_OFF,Off,关闭
-GAME_NATIVE_ACHIEVEMENTS_SWITCH,Show Feats,显示任务
-PS4_SAVE_IMPORT_PROGRESS,Importing Save Data,存档数据导入中
-MOH_NORMAL,Normal,正常
-MODAL_ENGAGE_PENDING,Loading user profile.,用户配置文件载入中。
-SWITCH_FRAMERATE_DESC,Higher frame rate mode for displays that support 120Hz. Resolution will be reduced.,为支持120Hz的显示设备提供更高帧数模式，但会降低分辨率。
-MODE_STEEL,Steel Soul,钢铁之魂
+LOADING,Loading...,加载中...
+NAV_BACK,Back,后退
+PLAYER_VOICE_OPTION_LABEL,Hero Voice,英雄声音
+MOH_OFF,Off,离开
+GAME_NATIVE_ACHIEVEMENTS_SWITCH,Show Feats,表演壮举
+PS4_SAVE_IMPORT_PROGRESS,Importing Save Data,导入保存数据
+MOH_NORMAL,Normal,普通的
+MODAL_ENGAGE_PENDING,Loading user profile.,加载用户配置文件。
+SWITCH_FRAMERATE_DESC,Higher frame rate mode for displays that support 120Hz. Resolution will be reduced.,较高的帧速率模式支持120Hz的显示。分辨率将减少。
+MODE_STEEL,Steel Soul,钢铁灵魂
 BUTTON_MAP,Quick Map,快速地图
-CTRL_PRESSBUTTON,...,设定新按钮
-RESTORE_AUTOSAVE_PROMPT_SUB,(Primary save will be deleted),（主存档将被删除）
-TROPHIES_BASE_SET_TITLE,Hollow Knight: Silksong Trophies,丝之歌奖杯
-OS_INSTRUCT,Adjust slider until the frames touch the edges of the screen,调整滑块，直到方框触及屏幕边缘
-PS5_ACTIVITY_CARD_NAME,Play Hollow Knight: Silksong,游玩空洞骑士：丝之歌
-AUDIO_SOUND_VOL,Sound Volume,音效音量：
-AUDIO_MASTER_VOL,Master Volume,全局音量：
-PROFILE_DEFEATED,Defeated,已死亡
-OPTIONS_AUDIO,Audio,音量
-STEEL_MODE_TEXT,No reviving. Death is permanent.,无法复活。永久死亡。
-AUDIO_MUSIC_VOL,Music Volume,音乐音量：
+CTRL_PRESSBUTTON,...,...
+RESTORE_AUTOSAVE_PROMPT_SUB,(Primary save will be deleted),（将删除主要保存）
+TROPHIES_BASE_SET_TITLE,Hollow Knight: Silksong Trophies,空心骑士：丝绸奖杯
+OS_INSTRUCT,Adjust slider until the frames touch the edges of the screen,调整滑块，直到框架触摸屏幕的边缘
+PS5_ACTIVITY_CARD_NAME,Play Hollow Knight: Silksong,玩空心骑士：丝绸
+AUDIO_SOUND_VOL,Sound Volume,声音音量
+AUDIO_MASTER_VOL,Master Volume,主卷
+PROFILE_DEFEATED,Defeated,被击败
+OPTIONS_AUDIO,Audio,声音的
+STEEL_MODE_TEXT,No reviving. Death is permanent.,没有复兴。死亡是永久的。
+AUDIO_MUSIC_VOL,Music Volume,音乐卷
 MAIN_SWITCH_USER,Switch User,切换用户
-DESC_VSYNC,Prevents screen tearing. Leave on for a smoother experience.,消除屏幕撕裂，提供更平滑的体验。
-BUTTON_DREAM_NAIL,Needolin,织忆弦针
-RESTORE_SAVE_SELECTION_TITLE,Auto Saves,自动存档
-BUTTON_DASH,Sprint,冲刺
-BUTTON_JUMP,Jump,跳跃
+DESC_VSYNC,Prevents screen tearing. Leave on for a smoother experience.,防止屏幕撕裂。留下来进行更流畅的体验。
+BUTTON_DREAM_NAIL,Needolin,丁多林
+RESTORE_SAVE_SELECTION_TITLE,Auto Saves,自动保存
+BUTTON_DASH,Sprint,短跑
+BUTTON_JUMP,Jump,跳
 UI_MENU_STYLE,Menu Style:,菜单样式：
 VIDEO_BRIGHTNESS,Brightness,亮度
-UI_MENU_RUMBLE,Rumble,震动
-MODAL_QUIT_TO_MENU,Save and Quit?,退出至菜单？
-UI_MENU_STYLE_CURSED,Greyroot,灰蕨之地
-DESC_FRAME_CAP,Limit maximum frame rate for a consistent experience.,限制最高帧率以保证稳定体验。
-DESC_BACKER_NAMES,Show names of Kickstarter backers alongside their contributions.,展示Kickstarter支持者的名字。
-BUTTON_INVENTORY,Inventory,物品栏
+UI_MENU_RUMBLE,Rumble,隆隆
+MODAL_QUIT_TO_MENU,Save and Quit?,保存和退出？
+UI_MENU_STYLE_CURSED,Greyroot,灰根
+DESC_FRAME_CAP,Limit maximum frame rate for a consistent experience.,限制一致体验的最大帧速率。
+DESC_BACKER_NAMES,Show names of Kickstarter backers alongside their contributions.,展示Kickstarter支持者的名字以及他们的贡献。
+BUTTON_INVENTORY,Inventory,存货
 BUTTON_TAUNT,Challenge,挑战
-DESC_HUD_VISIBILITY,Adjust the scale of the HUD. Will reset on game exit if set to &#8216;Off&#8217;.,调整HUD缩放比例。设为&#8220;关闭&#8221;时，退出游戏自动还原默认比例。
+DESC_HUD_VISIBILITY,Adjust the scale of the HUD. Will reset on game exit if set to &#8216;Off&#8217;.,调整HUD的尺度。如果设置为＆＃8216; off＆＃8217;。
 BUTTON_INVENTORY_MAP,Map,地图
-VIDEO_SHADERS,Blur Quality,柔化程度
-VID_OPT_BORDERLESS,Borderless,无边框窗口
-SCREEN_EXTRAS,Extras,额外内容
-SAVE_WARNING,This game saves data automatically at certain points.&lt;br&gt; Please do not turn off the software while this symbol is displayed.,本游戏在某些情况下会自动存档。&lt;br&gt;如果屏幕上出现此标志，请不要强行关闭游戏。
-MOH_LOW,Low,低
+VIDEO_SHADERS,Blur Quality,模糊质量
+VID_OPT_BORDERLESS,Borderless,无边界
+SCREEN_EXTRAS,Extras,额外
+SAVE_WARNING,This game saves data automatically at certain points.&lt;br&gt; Please do not turn off the software while this symbol is displayed.,该游戏会在某些方面自动保存数据。＆lt; br＆gt;显示此符号时，请不要关闭软件。
+MOH_LOW,Low,低的
 BUTTON_MOVE,Move,移动
-GAME_CONTROLLER_RUMBLE,Rumble,震动
-MOH_SMALL,Small,较小比例
-GAME_NATIVE_ACHIEVEMENTS,Show Achievements,显示成就
-MAIN_EXTRAS,Extras,额外内容
+GAME_CONTROLLER_RUMBLE,Rumble,隆隆
+MOH_SMALL,Small,小的
+GAME_NATIVE_ACHIEVEMENTS,Show Achievements,展示成就
+MAIN_EXTRAS,Extras,额外
 OPTIONS_VIDEO,Video,视频
 MAIN_ACHIEVEMENTS,Achievements,成就
-UI_MENU_STYLE_CRADLE,Cradle,摇篮圣所
-OPEN_CONTROLLER,Controller Recommended,推荐使用游戏手柄
-OPTIONS_CONTROLLER,Controller,游戏手柄
+UI_MENU_STYLE_CRADLE,Cradle,摇篮
+OPEN_CONTROLLER,Controller Recommended,建议使用控制器
+OPTIONS_CONTROLLER,Controller,控制器
 BUTTON_EMPTY,-,-
-GAME_BACKER_NAMES,Backer Credits,支持者名单
-PLAYER_VOICE_OPTION_DESC,Hear the hero&#8217;s voice during exploration and combat.,探索与战斗时播放主角声音。
-ACHIEVEMENTS_BASE_SET_TITLE,Hollow Knight: Silksong Achievements,丝之歌成就
+GAME_BACKER_NAMES,Backer Credits,支持者学分
+PLAYER_VOICE_OPTION_DESC,Hear the hero&#8217;s voice during exploration and combat.,在探索和战斗中，听英雄的声音。
+ACHIEVEMENTS_BASE_SET_TITLE,Hollow Knight: Silksong Achievements,空心骑士：丝绸成就
 MAIN_START,Start Game,开始游戏
-DESC_SHADERS,Reduce to improve performance on lower end systems.,降低此项可提升低配设备性能。
+DESC_SHADERS,Reduce to improve performance on lower end systems.,减少以提高下端系统的性能。
 PAUSE_OPTIONS,Options,选项
-MOH_LARGE,Large,较大比例
+MOH_LARGE,Large,大的
 BUTTON_PAUSE,Pause Menu,暂停菜单
-PS4_SAVE_IMPORT_SEARCH_FAIL,Failed to find compatible save data.,未找到兼容存档。
-PS4_SAVE_IMPORT_RESULT_SUCCESS,{0} out of {1} PS4™ save files were successfully imported.,成功导入{0}/{1}个PS4™存档。
-MODAL_PROGRESS_EXHIBITION,Progress will not be saved,当前进度不作保留。
-ACHIEVEMENTS_BASE_SET_TEXT,Achievements for Hollow Knight: Silksong.,《空洞骑士：丝之歌》的成就列表。
-CTRL_NONE,No controller connected,未连接游戏手柄
-TEXT_SKIP_PROMPT,Press any button to skip,按下任意按钮跳过
-VIDEO_PARTICLES,Particle Effects,粒子特效
-PAUSE_MAIN,Quit to Menu,退出至菜单
-PROFILE_LOADING,Loading...,正在读取……
+PS4_SAVE_IMPORT_SEARCH_FAIL,Failed to find compatible save data.,无法找到兼容的保存数据。
+PS4_SAVE_IMPORT_RESULT_SUCCESS,{0} out of {1} PS4™ save files were successfully imported.,{0}从{1}} ps4™保存文件中成功导入。
+MODAL_PROGRESS_EXHIBITION,Progress will not be saved,进度不会保存
+ACHIEVEMENTS_BASE_SET_TEXT,Achievements for Hollow Knight: Silksong.,空心骑士的成就：丝绸。
+CTRL_NONE,No controller connected,没有连接控制器
+TEXT_SKIP_PROMPT,Press any button to skip,按任何按钮跳过
+VIDEO_PARTICLES,Particle Effects,粒子效应
+PAUSE_MAIN,Quit to Menu,退出菜单
+PROFILE_LOADING,Loading...,加载中...
 PROFILE_NEW_GAME,New Game,新游戏
-MOH_HIGH,High,高
-MODAL_CONNECT_CONTROLLER_PROMPT,Connect a controller to continue,连接手柄以继续
+MOH_HIGH,High,高的
+MODAL_CONNECT_CONTROLLER_PROMPT,Connect a controller to continue,连接控制器以继续
 MODE_SELECT,Mode Select,模式选择
-UI_MENU_STYLE_STEEL,Steel,钢铁之魂
-MODAL_PROGRESS,Progress will be saved,进度将自动保存
-VIDEO_RESOLUTION,Resolution,分辨率
-CTRL_NO_ACTIVE_DESC,Press a button on the controller or connect a new controller to activate,按下手柄上的按钮或连接新手柄以激活
-MODAL_KEEP_RES,Keep New Resolution?,保持新分辨率？
-BRIGHT_INSTRUCT,Adjust brightness to your desired level.,将亮度调整到所需的程度。
-VIDEO_RESOLUTION_ULTRAWIDE,(beta),（测试）
-NAV_YES,Yes,是
-MODAL_NO_SAVE,Continue playing without a user?&lt;br&gt;Your progress will not be saved,不选择用户继续游戏？&lt;br&gt;你的进度不会被保存。
-NORMAL_MODE_TEXT,Normal play mode.,普通游戏模式。
-BUTTON_LEFT,Left,左
-BUTTON_SUPER_DASH,Harpoon,飞针索
-PS5_ACTIVITY_CARD_LABEL,Story,剧情
-MODE_NORMAL,Classic,经典
-BUTTON_DOWN,Down,下
+UI_MENU_STYLE_STEEL,Steel,钢
+MODAL_PROGRESS,Progress will be saved,进度将被保存
+VIDEO_RESOLUTION,Resolution,解决
+CTRL_NO_ACTIVE_DESC,Press a button on the controller or connect a new controller to activate,按下控制器上的按钮或连接新控制器以激活
+MODAL_KEEP_RES,Keep New Resolution?,保持新的分辨率？
+BRIGHT_INSTRUCT,Adjust brightness to your desired level.,将亮度调整为您所需的水平。
+VIDEO_RESOLUTION_ULTRAWIDE,(beta),（beta）
+NAV_YES,Yes,是的
+MODAL_NO_SAVE,Continue playing without a user?&lt;br&gt;Your progress will not be saved,继续没有用户？＆lt; br＆gt;您的进度不会保存
+NORMAL_MODE_TEXT,Normal play mode.,正常播放模式。
+BUTTON_LEFT,Left,左边
+BUTTON_SUPER_DASH,Harpoon,鱼叉
+PS5_ACTIVITY_CARD_LABEL,Story,故事
+MODE_NORMAL,Classic,经典的
+BUTTON_DOWN,Down,向下
 SCREEN_OPTIONS,Options,选项
-MOH_MED,Medium,中
-NAV_RESET,Reset Defaults,重置为默认值
-RESTORE_AUTOSAVE_PROMPT,Revert to auto save?,恢复自动存档？
-UI_MENU_STYLE_SONG,Citadel of Song,圣歌城堡
+MOH_MED,Medium,中等的
+NAV_RESET,Reset Defaults,重置默认值
+RESTORE_AUTOSAVE_PROMPT,Revert to auto save?,还原为自动保存？
+UI_MENU_STYLE_SONG,Citadel of Song,歌曲城堡
 MAIN_OPTIONS,Options,选项
-VIDEO_FRAME_CAP,Frame Rate Cap,限制帧率
-NAV_DONE,Done,完成
-SAVE_IMPORT_CONFIRM,Are you sure?,确认导入？
-PS4_SAVE_IMPORT_LABEL,Import PS4™ Save Data,PS4™存档导入
-BUTTON_UP,Up,上
-VIDEO_OVERSCAN,Screen Scale,屏幕缩放
-BUTTON_INVENTORY_TOOLS,Crest,纹章
-KEYBOARD_UNMAPPED,Unmapped,未设定
-BUTTON_CAST,Bind,缚丝
+VIDEO_FRAME_CAP,Frame Rate Cap,帧速率上限
+NAV_DONE,Done,完毕
+SAVE_IMPORT_CONFIRM,Are you sure?,你确定吗？
+PS4_SAVE_IMPORT_LABEL,Import PS4™ Save Data,导入PS4™保存数据
+BUTTON_UP,Up,向上
+VIDEO_OVERSCAN,Screen Scale,屏幕比例
+BUTTON_INVENTORY_TOOLS,Crest,波峰
+KEYBOARD_UNMAPPED,Unmapped,未铺装
+BUTTON_CAST,Bind,绑定
 SCREEN_ACHIEVEMENTS,Achievements,成就
-PROFILE_INCOMPATIBLE_SMALL,Game Update Required,游戏需要更新
-BUTTON_INVENTORY_JOURNAL,Journal,日志
-PROFILE_CLEAR_PROMPT,Clear Profile?,清除存档？
-MOH_ON,On,开启
-EXTRAS_CREDITS,Credits,制作人员
-CTRL_NO_ACTIVE,No active controller,未检测到有效手柄
+PROFILE_INCOMPATIBLE_SMALL,Game Update Required,需要游戏更新
+BUTTON_INVENTORY_JOURNAL,Journal,杂志
+PROFILE_CLEAR_PROMPT,Clear Profile?,清晰的个人资料？
+MOH_ON,On,在
+EXTRAS_CREDITS,Credits,学分
+CTRL_NO_ACTIVE,No active controller,没有主动控制器
 SCREEN_KEYBOARD,Keyboard,键盘
 GAME_LANGUAGE,Language,语言
-DESC_NATIVE_ACHIEVEMENTS_SWITCH,Show in-game messages when completing a feat.,完成任务时显示游戏内提示。
+DESC_NATIVE_ACHIEVEMENTS_SWITCH,Show in-game messages when completing a feat.,完成壮举时显示游戏中消息。
 SREEN_SAVE_PROFILES_DEMO,Select Area,选择区域
-VIDEO_VSYNC,V-Sync,垂直同步
+VIDEO_VSYNC,V-Sync,v-sync
 BRIGHT_SLIDER,Brightness,亮度
-NAV_APPLY_TRUE,Apply,应用
+NAV_APPLY_TRUE,Apply,申请
 SCREEN_VIDEO,Video,视频
-GAME_CONTROLLER_VIBRATION,Vibration,手柄振动
-SWITCH_FRAMERATE,TV Mode Frame Rate,底座模式帧率
-MODAL_RESTART,Restart?,重新开始？
+GAME_CONTROLLER_VIBRATION,Vibration,振动
+SWITCH_FRAMERATE,TV Mode Frame Rate,电视模式框架速率
+MODAL_RESTART,Restart?,重新启动？
 SCREEN_GAME,Game Options,游戏选项
 MODAL_QUIT_GAME,Quit Game?,退出游戏？
-SCREEN_SAVE_PROFILES,Select Profile,选择存档
+SCREEN_SAVE_PROFILES,Select Profile,选择个人资料
 BUTTON_INVENTORY_QUESTS,Tasks,任务
-DESC_NATIVE_ACHIEVEMENTS,Show in-game messages when earning an achievement.,获得成就时显示游戏内提示。
-PROFILE_CORRUPTED,Save cannot be read,存档损坏
-BUTTON_QCAST,Skill / Tool,技能/工具
-MOH_REDUCED,Reduced,降低
-NAV_NO,No,否
-PAUSE_MAIN_EXHIBITION,Restart,重新开始
-UI_MENU_ACHIEVEMENTS_ALT,Feats,任务
+DESC_NATIVE_ACHIEVEMENTS,Show in-game messages when earning an achievement.,在获得成就时显示游戏中消息。
+PROFILE_CORRUPTED,Save cannot be read,节省无法阅读
+BUTTON_QCAST,Skill / Tool,技能 /工具
+MOH_REDUCED,Reduced,减少
+NAV_NO,No,不
+PAUSE_MAIN_EXHIBITION,Restart,重新启动
+UI_MENU_ACHIEVEMENTS_ALT,Feats,壮举
 MAIN_QUIT,Quit Game,退出游戏
 GAME_HUD_VISIBILITY,HUD Appearance,HUD外观
 OPTIONS_GAME,Game,游戏
-NAV_APPLY,Back,返回
+NAV_APPLY,Back,后退

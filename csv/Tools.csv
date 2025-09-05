@@ -1,176 +1,176 @@
 Key,EN,ZH
-EQUIP_BENCH_MSG_CURSED_TOOL,Cannot equip Tools,无法装备工具
-SYRINGE_LIFEBLOOD_DESC,Spear-phial containing Plasmium.&lt;br&gt;&lt;br&gt;Injecting the liquid allows one to gain health beyond their natural limits.,装载生质液的注射瓶。&lt;br&gt;&lt;br&gt;注入液体可突破自然极限恢复生命。
-QUICKBIND_DESC,Brace of surgical pins from the Whiteward. Used to forcefully insert Silk deep inside a bug&#8217;s shell. &lt;br&gt;&lt;br&gt;Increases the speed of binding.,白愈厅的外科针组，用于将灵丝强制注入甲壳深层。&lt;br&gt;&lt;br&gt;加快缚丝速度。
-EQUIP_BENCH_MSG_TRANSFORM,Transform Tools while resting at a bench.,在长椅休息时转换工具。
-THIEF_CLAW_DESC,"Hooked tool for the forceful retrieval of loot from bugs and husks.&lt;br&gt;&lt;br&gt;Harpoon into foes to steal rosaries and shell shards, while causing additional damage.",从虫尸强行夺取战利品的钩具。&lt;br&gt;&lt;br&gt;刺入敌人窃取念珠与甲壳碎片并造成额外伤害。
-BARBED_WIRE_DESC,"Vicious bracelet worn by those who believe they have not been duly punished.&lt;br&gt;&lt;br&gt;Increases damage taken, but also increases damage dealt by the needle.",自认刑罚不足者佩戴的刑器。&lt;br&gt;&lt;br&gt;增加承受伤害，同时提升织针伤害。
-UI_BUTTON_EQUIP,Equip Tool,装备工具
-DAZZLE_BIND_UPG_NAME,Claw Mirrors,双生爪镜
-UI_PROMPT_UNLOCK_SLOT,Expand,扩展
-ROSARYCANNON_NAME,Rosary Cannon,念珠炮
-CREST_HUNTER_DESC,Stalk prey and attack with lethal strikes.,潜行猎杀，致命打击。
-SILKSHOT_NAME,Silkshot,丝弹
-EQUIP_BENCH_MSG_TOOL,Equip Tools while resting at a bench.,在长椅休息时装备工具。
-CREST_PILGRIM_NAME,Wanderer,漫游者
-PINSTRESS_NAME,Pin Badge,针徽
+EQUIP_BENCH_MSG_CURSED_TOOL,Cannot equip Tools,无法设备工具
+SYRINGE_LIFEBLOOD_DESC,Spear-phial containing Plasmium.&lt;br&gt;&lt;br&gt;Injecting the liquid allows one to gain health beyond their natural limits.,含有质子的长矛 -  lt; br＆gt;＆lt; br＆gt;注射液体可以使人们获得自然限制的健康。
+QUICKBIND_DESC,Brace of surgical pins from the Whiteward. Used to forcefully insert Silk deep inside a bug&#8217;s shell. &lt;br&gt;&lt;br&gt;Increases the speed of binding.,来自Whiteward的手术别针的支撑。用来将丝绸在虫子内深处插入。＆lt; br＆gt;＆lt; br＆gt;提高了绑定速度。
+EQUIP_BENCH_MSG_TRANSFORM,Transform Tools while resting at a bench.,在长凳上休息时改变工具。
+THIEF_CLAW_DESC,"Hooked tool for the forceful retrieval of loot from bugs and husks.&lt;br&gt;&lt;br&gt;Harpoon into foes to steal rosaries and shell shards, while causing additional damage.",挂钩的工具，可以从虫子和果壳中取回战利品。
+BARBED_WIRE_DESC,"Vicious bracelet worn by those who believe they have not been duly punished.&lt;br&gt;&lt;br&gt;Increases damage taken, but also increases damage dealt by the needle.",那些认为自己没有受到适当惩罚的人戴的恶性手镯。
+UI_BUTTON_EQUIP,Equip Tool,设备工具
+DAZZLE_BIND_UPG_NAME,Claw Mirrors,爪镜
+UI_PROMPT_UNLOCK_SLOT,Expand,扩张
+ROSARYCANNON_NAME,Rosary Cannon,念珠大炮
+CREST_HUNTER_DESC,Stalk prey and attack with lethal strikes.,缠扰猎物和致命的袭击。
+SILKSHOT_NAME,Silkshot,丝绸
+EQUIP_BENCH_MSG_TOOL,Equip Tools while resting at a bench.,在长凳上休息时设备工具。
+CREST_PILGRIM_NAME,Wanderer,流浪者
+PINSTRESS_NAME,Pin Badge,别针徽章
 UI_BUTTON_TOGGLE_STATE,Transform,转换
-BROLLYSPIKE_DESC,"Flexible belt of serrated metal teeth, able to affixed to the hem of a cloak.&lt;br&gt;&lt;br&gt;Flaring the cloak will spin the blades, damaging surrounding enemies.",可固定于披风边缘的锯齿金属带。&lt;br&gt;&lt;br&gt;挥动披风会旋转利刃伤害周围敌人。
-TACK_DESC,Short pins designed to be scattered along the ground.&lt;br&gt;&lt;br&gt;The sharp points will pierce any enemy who steps upon them.,设计用于撒布地面的短钉。&lt;br&gt;&lt;br&gt;尖锐钉头会刺伤踩踏的敌人。
-MULTIBIND_NAME,Multibinder,多重缚丝器
-DAZZLE_BIND_UPG_DESC,"Twin theatrical tools of a vainglorious bug.&lt;br&gt;&lt;br&gt;When binding, emits a searing blast that damages surrounding enemies.",虚荣虫的双生戏剧道具。&lt;br&gt;&lt;br&gt;当缚丝时释放灼热冲击伤害周围敌人
-UI_BUTTON_VIEW_CRESTS,View Crests,查看纹章
-UI_BUTTON_SELECT_CREST,Select Crest,选择纹章
-CREST_HUNTER_UPGRADED_DESC,Stalk prey and attack with lethal strikes. Build focus with successive strikes.,潜行猎杀，致命打击。连续攻击可积蓄专注。
-CONCH_DRILL_NAME,Conchcutter,螺切刃
-FLEA_CHARM_NAME,Egg of Flealia,蚤母卵
-LIGHTNING_ROD_NAME,Voltvessels,电枢球
-WALLCLING_NAME,Ascendant&#8217;s Grip,登极握爪
+BROLLYSPIKE_DESC,"Flexible belt of serrated metal teeth, able to affixed to the hem of a cloak.&lt;br&gt;&lt;br&gt;Flaring the cloak will spin the blades, damaging surrounding enemies.",锯齿状金属牙齿的柔性带，能够固定在斗篷的下摆。
+TACK_DESC,Short pins designed to be scattered along the ground.&lt;br&gt;&lt;br&gt;The sharp points will pierce any enemy who steps upon them.,旨在散布在地面上的短销。
+MULTIBIND_NAME,Multibinder,多泡
+DAZZLE_BIND_UPG_DESC,"Twin theatrical tools of a vainglorious bug.&lt;br&gt;&lt;br&gt;When binding, emits a searing blast that damages surrounding enemies.",vaingloious的虫子的双戏剧工具。
+UI_BUTTON_VIEW_CRESTS,View Crests,查看波峰
+UI_BUTTON_SELECT_CREST,Select Crest,选择波峰
+CREST_HUNTER_UPGRADED_DESC,Stalk prey and attack with lethal strikes. Build focus with successive strikes.,缠扰猎物和致命的袭击。连续罢工建立重点。
+CONCH_DRILL_NAME,Conchcutter,交叉
+FLEA_CHARM_NAME,Egg of Flealia,弗莱利亚鸡蛋
+LIGHTNING_ROD_NAME,Voltvessels,VoltVessels
+WALLCLING_NAME,Ascendant&#8217;s Grip,上升的抓地力
 LONGNEEDLE_NAME,Longclaw,长爪
-CONCH_DRILL_DESC,"Spiral weapon fashioned from a hardened conchspire.&lt;br&gt;&lt;br&gt;Thrown at an angle, it can ricochet and catch prey off-guard.",硬化螺角打造的螺旋武器。&lt;br&gt;&lt;br&gt;倾斜投掷可回弹突袭目标。
-ZAP_IMBUEMENT_NAME,Volt Filament,伏特丝
-MAGNETITE_DICE_DESC,Playthings carved from magnetic material.&lt;br&gt;&lt;br&gt;Used in simple games and believed to bring luck to the bearer.,磁性材料雕刻的赌具。&lt;br&gt;&lt;br&gt;用于简单游戏，据说能为持有者带来好运。
-UI_BUTTON_RELOAD,Reload,装填
-HARPOON_DESC,"Weighted pin and haft, formed to pierce tough shells.",加重的穿刺长针，用于穿透坚硬甲壳。
+CONCH_DRILL_DESC,"Spiral weapon fashioned from a hardened conchspire.&lt;br&gt;&lt;br&gt;Thrown at an angle, it can ricochet and catch prey off-guard.",螺旋武器是用硬化的螺旋架制成的。
+ZAP_IMBUEMENT_NAME,Volt Filament,伏丝
+MAGNETITE_DICE_DESC,Playthings carved from magnetic material.&lt;br&gt;&lt;br&gt;Used in simple games and believed to bring luck to the bearer.,用磁性材料雕刻的游戏。
+UI_BUTTON_RELOAD,Reload,重新加载
+HARPOON_DESC,"Weighted pin and haft, formed to pierce tough shells.",加权销和haft，形成为刺穿硬壳。
 UI_USE_INFO,Use,使用
-STRAIGHT_PIN_DESC,"Light throwing tool, designed for rapid attacks.",轻型投掷武器，适合快速连击。
-SYRINGE_LIFEBLOOD_DESC_EMPTY,Empty spear-phial for injecting Plasmium.&lt;br&gt;&lt;br&gt;Acquire more Plasmium to restore the tool.,空的生质液注射瓶。&lt;br&gt;&lt;br&gt;需获取更多生质液补充。
-SHELL_SATCHEL_DESC,Quick access container formed from an old shell.&lt;br&gt;&lt;br&gt;Increases the quantity of crafted tools.,旧甲壳改造的速取容器。&lt;br&gt;&lt;br&gt;增加可携带制作工具数量。
-UI_MSG_EXTRA_SLOT,"Equip additional Tools, independent of one&#8217;s Crest.",可独立于当前纹章装备额外工具
-ROSARY_MAGNET_NAME,Magnetite Brooch,磁石胸针
-SNARE_DESC,Trap-setting tool of the Weavers. Lays a Silk rune that ignites when foes come into contact.&lt;br&gt;&lt;br&gt;Uses shell canisters and the wielder&#8217;s own Silk.,织者布置陷阱的工具，铺设接触触发的灵丝符文。&lt;br&gt;&lt;br&gt;需消耗甲壳罐与使用者的灵丝。
-MOSSCREEP_TOOL_1_DESC,"Amulet of protection formed from Mossberries.&lt;br&gt;&lt;br&gt;As the bearer takes damage, the amulet weeps a green elixir that will form into Silk.",苔莓制成的护身符。&lt;br&gt;&lt;br&gt;持有者受伤时，护符会渗出可转化为灵丝的绿液。
-FLEA_BREW_DESC,Invigorating beverage prepared by the Flea Caravan.&lt;br&gt;&lt;br&gt;Temporarily increases the speed of movement and attacks.,跳蚤旅团调制的活力饮品。&lt;br&gt;&lt;br&gt;暂时提升移动与攻击速度。
-STING_SHARD_DESC,"Lethal trap formed of tightly bound blades.&lt;br&gt;&lt;br&gt;Once placed, the trap will pierce enemies that come into contact.",由密集刀片构成的致命陷阱。&lt;br&gt;&lt;br&gt;触发后会刺伤接触的敌人。
-FRACTURED_MASK_NAME,Fractured Mask,碎面甲
-SYRINGE_LIFEBLOOD_REFILLED,Plasmium Phial Refilled,生质液瓶补充完毕
-TRI_PIN_NAME,Threefold Pin,三重镖
-CREST_PILGRIM_DESC,"Cut swiftly and nimbly with short, precise strikes.",以精准、短距攻击进行灵巧切割。
-ROSARYCANNON_DESC,Repurposed mechanism from the base of a rosary stringing machine.&lt;br&gt;&lt;br&gt;Rosaries must be inserted to reload the cannon.,念珠串装机底部改造的装置。&lt;br&gt;&lt;br&gt;需装入念珠进行装填。
-SILKSHOT_DESC_ARCHITECT,"Ancient weapon of the Weavers, repaired and modified by Twelfth Architect.&lt;br&gt;&lt;br&gt;Uses shell canisters and the wielder&#8217;s own Silk to fire.",建筑师修复改造的织者古兵器。&lt;br&gt;&lt;br&gt;需消耗甲壳罐与使用者的灵丝发射。
-WEIGHTED_ANKLET_NAME,Weighted Belt,负重环带
-CREST_WITCH_DESC,Whip the needle in sweeping swings. Leech the life of foes through twisted roots.,扫动织针，通过扭曲根须窃取敌人生命。
-SYRINGE_LIFEBLOOD_NAME,Plasmium Phial,生质液瓶
-SHAKRA_RING_DESC,Hardened throwing weapon of the warrior Shakra.&lt;br&gt;&lt;br&gt;Blunt force weapon that rebounds between enemies and hard surfaces.,战士沙克拉的硬化投掷武器。&lt;br&gt;&lt;br&gt;在敌人与硬质表面间反弹的钝击武器。
-CREST_WARRIOR_DESC,Tear foes with savage slashes. Bind to enter a wild fury and steal life from prey.,野蛮撕裂敌人。缚丝进入狂暴状态并窃取生命。
-DUSTPILO_NAME,Dustpillo,尘爆囊
-REVENGE_CRYSTAL_DESC,"Reflective stone with mnemonic properties.&lt;br&gt;&lt;br&gt;When taking damage, a memory of the bearer is formed of crystal. The memory will shatter into sharp spines if an enemy comes into contact.",具记忆特性的反光石。&lt;br&gt;&lt;br&gt;受击时生成持有者的水晶记忆，接触敌人会爆裂成尖刺。
-MOSSCREEP_TOOL_1_NAME,Druid&#8217;s Eye,德鲁伊之眼
-FLEA_BREW_REFILLED,Flea Brew Refilled,跳蚤秘酿补充
-ROSARY_MAGNET_DESC,Holy stone inscribed with a prayer for rosaries.&lt;br&gt;&lt;br&gt;Any loose beads will be pulled toward the wearer.,刻有念珠祷文的圣石。&lt;br&gt;&lt;br&gt;使散落念珠向佩戴者聚集。
-UI_MSG_TITLE_CREST,Bound the Crest of,已绑定
-MUSICIAN_CHARM_DESC,Sophisticated Weaver device. Resonates with music played to amplify and enhance a performance.&lt;br&gt;&lt;br&gt;Expands and strengthens the effects of the Needolin.,精密的织者装置，通过音乐共振增强演奏效果。&lt;br&gt;&lt;br&gt;增强并扩大织忆弦针的效果范围。
-PIMPILO_DESC,Fabric pouch filled with volatile material.&lt;br&gt;&lt;br&gt;Explodes on impact with enemies or when ignited by its fuse.,填充易爆材料的织物囊。&lt;br&gt;&lt;br&gt;撞击敌人或引燃导火索时会爆炸。
-RESERVE_BIND_DESC,"Ornate artefact of the Citadel, able to hold a Bind&#8217;s worth of Silk. Used when healing is needed and one&#8217;s natural resources run low.&lt;br&gt;&lt;br&gt;The Reserve Bind will be restored when resting at a bench.",圣堡华美遗器，可储存完整收缚的灵丝。可在自然灵丝枯竭时用于治疗。&lt;br&gt;&lt;br&gt;在长椅休息时自动恢复。
+STRAIGHT_PIN_DESC,"Light throwing tool, designed for rapid attacks.",轻投入工具，专为快速攻击而设计。
+SYRINGE_LIFEBLOOD_DESC_EMPTY,Empty spear-phial for injecting Plasmium.&lt;br&gt;&lt;br&gt;Acquire more Plasmium to restore the tool.,空的长矛 - 用于注射质子的质子。
+SHELL_SATCHEL_DESC,Quick access container formed from an old shell.&lt;br&gt;&lt;br&gt;Increases the quantity of crafted tools.,快速访问由旧外壳形成的容器。
+UI_MSG_EXTRA_SLOT,"Equip additional Tools, independent of one&#8217;s Crest.",配备独立于One＆＃8217的顶峰的其他工具。
+ROSARY_MAGNET_NAME,Magnetite Brooch,磁铁矿胸针
+SNARE_DESC,Trap-setting tool of the Weavers. Lays a Silk rune that ignites when foes come into contact.&lt;br&gt;&lt;br&gt;Uses shell canisters and the wielder&#8217;s own Silk.,织布工的陷阱设定工具。放置一个丝绸符文，当敌人接触时会点燃。
+MOSSCREEP_TOOL_1_DESC,"Amulet of protection formed from Mossberries.&lt;br&gt;&lt;br&gt;As the bearer takes damage, the amulet weeps a green elixir that will form into Silk.",由苔藓形成的保护护身符。
+FLEA_BREW_DESC,Invigorating beverage prepared by the Flea Caravan.&lt;br&gt;&lt;br&gt;Temporarily increases the speed of movement and attacks.,由跳蚤大篷车制备的饮料。
+STING_SHARD_DESC,"Lethal trap formed of tightly bound blades.&lt;br&gt;&lt;br&gt;Once placed, the trap will pierce enemies that come into contact.",由紧密结合的叶片形成致命的陷阱。
+FRACTURED_MASK_NAME,Fractured Mask,面膜破裂
+SYRINGE_LIFEBLOOD_REFILLED,Plasmium Phial Refilled,质子质体重新填充
+TRI_PIN_NAME,Threefold Pin,三倍针
+CREST_PILGRIM_DESC,"Cut swiftly and nimbly with short, precise strikes.",短暂而精确的罢工迅速切割。
+ROSARYCANNON_DESC,Repurposed mechanism from the base of a rosary stringing machine.&lt;br&gt;&lt;br&gt;Rosaries must be inserted to reload the cannon.,必须插入念珠串机器底部的重新利用机制。
+SILKSHOT_DESC_ARCHITECT,"Ancient weapon of the Weavers, repaired and modified by Twelfth Architect.&lt;br&gt;&lt;br&gt;Uses shell canisters and the wielder&#8217;s own Silk to fire.",织布工的古老武器，由第十二架建筑师修理和修改。
+WEIGHTED_ANKLET_NAME,Weighted Belt,加权皮带
+CREST_WITCH_DESC,Whip the needle in sweeping swings. Leech the life of foes through twisted roots.,将针头鞭打。通过扭曲的根部为敌人的生活。
+SYRINGE_LIFEBLOOD_NAME,Plasmium Phial,质子性疟原虫
+SHAKRA_RING_DESC,Hardened throwing weapon of the warrior Shakra.&lt;br&gt;&lt;br&gt;Blunt force weapon that rebounds between enemies and hard surfaces.,勇士shakra的顽固投掷武器。
+CREST_WARRIOR_DESC,Tear foes with savage slashes. Bind to enter a wild fury and steal life from prey.,用野蛮的斜线撕裂敌人。约束以进入狂暴的愤怒，并从猎物中偷走生命。
+DUSTPILO_NAME,Dustpillo,Dustpillo
+REVENGE_CRYSTAL_DESC,"Reflective stone with mnemonic properties.&lt;br&gt;&lt;br&gt;When taking damage, a memory of the bearer is formed of crystal. The memory will shatter into sharp spines if an enemy comes into contact.",具有助记符特性的反射石。如果敌人接触，记忆将碎成尖锐的刺。
+MOSSCREEP_TOOL_1_NAME,Druid&#8217;s Eye,德鲁伊的眼睛
+FLEA_BREW_REFILLED,Flea Brew Refilled,跳蚤酿造
+ROSARY_MAGNET_DESC,Holy stone inscribed with a prayer for rosaries.&lt;br&gt;&lt;br&gt;Any loose beads will be pulled toward the wearer.,圣石上刻有念珠祈祷。
+UI_MSG_TITLE_CREST,Bound the Crest of,bound
+MUSICIAN_CHARM_DESC,Sophisticated Weaver device. Resonates with music played to amplify and enhance a performance.&lt;br&gt;&lt;br&gt;Expands and strengthens the effects of the Needolin.,精致的编织设备。与音乐的共鸣是为了扩大和增强性能。
+PIMPILO_DESC,Fabric pouch filled with volatile material.&lt;br&gt;&lt;br&gt;Explodes on impact with enemies or when ignited by its fuse.,织物袋充满了挥发性材料。
+RESERVE_BIND_DESC,"Ornate artefact of the Citadel, able to hold a Bind&#8217;s worth of Silk. Used when healing is needed and one&#8217;s natural resources run low.&lt;br&gt;&lt;br&gt;The Reserve Bind will be restored when resting at a bench.",城堡的华丽人工制品，能够拥有绑定的丝绸价值。当需要愈合时使用，一个＆＃8217的自然资源运行低。
 CREST_SPELL_NAME,Shaman,萨满
-LAVA_CHARM_DESC,"Forged iron bell, crafted to ward against the intense heat of the Deep Docks.&lt;br&gt;&lt;br&gt;Reduces the damage taken from flame and magma.",锻造铁钟，用于抵御深坞酷热。&lt;br&gt;&lt;br&gt;减少火焰与熔岩伤害。
-CURVE_CLAWS_NAME,Curveclaw,弧爪
-SCREWATTACK_DESC,"Rotary tool used for boring into bone and rock.&lt;br&gt;&lt;br&gt;Drives the wielder downwards, while spinning the drill with destructive force.",用于穿透骨岩的旋转工具。&lt;br&gt;&lt;br&gt;驱动使用者向下突进并释放破坏性钻击。
-ZAP_IMBUEMENT_DESC,"Charged organ from a defeated Voltvyrm.&lt;br&gt;&lt;br&gt;Can be coiled around thread, imbuing Silk Skills with electric charge.",击败伏特维姆获取的带电器官。&lt;br&gt;&lt;br&gt;可缠绕丝线为灵丝技能附加电荷。
-COGWORK_FLIER_NAME,Cogfly,齿轮蜂
-EQUIP_BENCH_MSG_CREST,Change Crests while resting at a bench.,在长椅休息时更换纹章。
+LAVA_CHARM_DESC,"Forged iron bell, crafted to ward against the intense heat of the Deep Docks.&lt;br&gt;&lt;br&gt;Reduces the damage taken from flame and magma.",锻造的铁铃是为了抵御深码头的强烈热量。
+CURVE_CLAWS_NAME,Curveclaw,库尔维克劳
+SCREWATTACK_DESC,"Rotary tool used for boring into bone and rock.&lt;br&gt;&lt;br&gt;Drives the wielder downwards, while spinning the drill with destructive force.",旋转工具用于钻入骨骼和岩石。
+ZAP_IMBUEMENT_DESC,"Charged organ from a defeated Voltvyrm.&lt;br&gt;&lt;br&gt;Can be coiled around thread, imbuing Silk Skills with electric charge.",可以围绕螺纹盘绕伏特的伏特伏尔姆（Voltvyrm）。
+COGWORK_FLIER_NAME,Cogfly,cogfly
+EQUIP_BENCH_MSG_CREST,Change Crests while resting at a bench.,在长凳上休息时改变波峰。
 COMPASS_NAME,Compass,罗盘
-STING_SHARD_NAME,Sting Shard,蛰刺碎片
-FLINTSTONE_DESC,"Sharpening slate made from cut and polished Flintgem.&lt;br&gt;&lt;br&gt;Temporarily super-heats the needle&#8217;s blade, imbuing each slash with flame and increasing lethality.",燧晶切割打磨的磨刀石。&lt;br&gt;&lt;br&gt;暂时使针刃过热，赋予斩击火焰特效。
-SILKSHOT_DESC_FORGE,"Ancient weapon of the Weavers, repaired and modified by Forge Daughter.&lt;br&gt;&lt;br&gt;Uses shell canisters and the wielder&#8217;s own Silk to fire.",熔炉之女修复改造的织者古兵器。&lt;br&gt;&lt;br&gt;需消耗甲壳罐与使用者的灵丝发射。
-FRACTURED_MASK_DESC,"Old bug&#8217;s skull carved for protection. Shields against critical damage but shatters on impact.&lt;br&gt;&lt;br&gt;If shattered, the mask will be repaired while resting at a bench.",老虫头骨雕刻的护具，可抵挡致命伤害但受击即碎。&lt;br&gt;&lt;br&gt;破损后需在长椅休息时修复。
-MOSSCREEP_TOOL_2_NAME,Druid&#8217;s Eyes,德鲁伊双瞳
-POISON_POUCH_DESC,Pouch containing a fast-acting venom drawn from a flower&#8217;s heart.&lt;br&gt;&lt;br&gt;Applies venom to equipped tools.,装有花心速效毒液的囊袋。&lt;br&gt;&lt;br&gt;为装备工具淬毒。
-BONE_NECKLACE_NAME,Shard Pendant,碎壳坠
-EQUIP_BENCH_MSG_SKILL,Equip Silk Skills while resting at a bench.,在长椅休息时装备灵丝技能。
-CREST_HUNTER_NAME,Hunter,猎手
-RESERVE_BIND_NAME,Reserve Bind,储备缚丝
-COGWORK_SAW_NAME,Cogwork Wheel,机轮刃
-SCREWATTACK_NAME,Delver&#8217;s Drill,掘洞钻
-UI_BUTTON_AUTORELOAD,Auto Reload,自动装填
-COGWORK_SAW_DESC,"Expanding circular blade powered by a cogwork motor.&lt;br&gt;&lt;br&gt;Propels forward, slicing through foes.",齿轮驱动的环形利刃。&lt;br&gt;&lt;br&gt;向前突进切割路径上的敌人。
-TACK_NAME,Tacks,钉刺
-CURVE_CLAWS_UPG_NAME,Curvesickle,曲镰
-BROLLYSPIKE_NAME,Sawtooth Circlet,锯齿环
-DAZZLE_BIND_DESC,"Theatrical tool of a vainglorious bug.&lt;br&gt;&lt;br&gt;When binding, emits a dazzling flash that damages surrounding enemies.",虚荣虫的戏剧道具。&lt;br&gt;&lt;br&gt;当缚丝时释放炫光伤害周围敌人。
-WISP_LANTERN_DESC,"Broken iron lantern containing smouldering wispfire.&lt;br&gt;&lt;br&gt;Wisps will spawn from the lantern and burn foes, at the cost of Silk.",装有阴燃灵火的破损铁灯。&lt;br&gt;&lt;br&gt;消耗灵丝生成灼烧敌人的灵火。
+STING_SHARD_NAME,Sting Shard,刺碎
+FLINTSTONE_DESC,"Sharpening slate made from cut and polished Flintgem.&lt;br&gt;&lt;br&gt;Temporarily super-heats the needle&#8217;s blade, imbuing each slash with flame and increasing lethality.",用切割和抛光的flintgem制成的锐利石板。
+SILKSHOT_DESC_FORGE,"Ancient weapon of the Weavers, repaired and modified by Forge Daughter.&lt;br&gt;&lt;br&gt;Uses shell canisters and the wielder&#8217;s own Silk to fire.",织布工的古老武器，由Forge女儿修复和修改。
+FRACTURED_MASK_DESC,"Old bug&#8217;s skull carved for protection. Shields against critical damage but shatters on impact.&lt;br&gt;&lt;br&gt;If shattered, the mask will be repaired while resting at a bench.",雕刻的旧虫子的头骨是为了保护的。屏蔽了严重的损害，但会破碎撞击。
+MOSSCREEP_TOOL_2_NAME,Druid&#8217;s Eyes,德鲁伊的眼睛
+POISON_POUCH_DESC,Pouch containing a fast-acting venom drawn from a flower&#8217;s heart.&lt;br&gt;&lt;br&gt;Applies venom to equipped tools.,袋子中包含从一朵花的心脏中抽出的快速作用的毒液。
+BONE_NECKLACE_NAME,Shard Pendant,碎片吊坠
+EQUIP_BENCH_MSG_SKILL,Equip Silk Skills while resting at a bench.,在长凳上休息时配备丝绸技能。
+CREST_HUNTER_NAME,Hunter,猎人
+RESERVE_BIND_NAME,Reserve Bind,储备绑定
+COGWORK_SAW_NAME,Cogwork Wheel,齿轮
+SCREWATTACK_NAME,Delver&#8217;s Drill,Delver钻头
+UI_BUTTON_AUTORELOAD,Auto Reload,自动刷新
+COGWORK_SAW_DESC,"Expanding circular blade powered by a cogwork motor.&lt;br&gt;&lt;br&gt;Propels forward, slicing through foes.",扩展由Cogwork Motor供电的圆形刀片。
+TACK_NAME,Tacks,大头钉
+CURVE_CLAWS_UPG_NAME,Curvesickle,曲线
+BROLLYSPIKE_NAME,Sawtooth Circlet,锯齿状圆圈
+DAZZLE_BIND_DESC,"Theatrical tool of a vainglorious bug.&lt;br&gt;&lt;br&gt;When binding, emits a dazzling flash that damages surrounding enemies.",vaingloious虫子的戏剧工具。
+WISP_LANTERN_DESC,"Broken iron lantern containing smouldering wispfire.&lt;br&gt;&lt;br&gt;Wisps will spawn from the lantern and burn foes, at the cost of Silk.",破碎的铁灯笼包含闷烧的烟草。
 CREST_REAPER_NAME,Reaper,收割者
-TUT_MSG_TITLE,Tool Acquired,获得工具
-PROMPT_QUICK_CRAFT,Craft Bind,修复缚丝
-THIEF_CHARM_DESC,"Symbol worn to identify oneself to fellow thieves.&lt;br&gt;&lt;br&gt;Gain extra rosaries from defeated enemies, but lose some rosaries on taking damage.",盗贼间识别身份的标记。&lt;br&gt;&lt;br&gt;击败敌人获得额外念珠，但受伤会损失部分。
-SPOOL_EXTENDER_NAME,Spool Extender,储丝延展器
-UI_MSG_TITLE_EXTRASLOT_NAME,Vesticrest,蜕形纹章
+TUT_MSG_TITLE,Tool Acquired,获取的工具
+PROMPT_QUICK_CRAFT,Craft Bind,工艺绑定
+THIEF_CHARM_DESC,"Symbol worn to identify oneself to fellow thieves.&lt;br&gt;&lt;br&gt;Gain extra rosaries from defeated enemies, but lose some rosaries on taking damage.",符号是为了识别自己的盗贼。
+SPOOL_EXTENDER_NAME,Spool Extender,线轴扩展器
+UI_MSG_TITLE_EXTRASLOT_NAME,Vesticrest,Vesticrest
 CREST_TOOLMASTER_NAME,Architect,建筑师
-BELL_BIND_NAME,Warding Bell,护佑钟
-USE_ITEM_MSG_MEMORY,Cannot use items while in a memory.,忆境中无法使用物品
-QUICK_SLING_DESC,"Taut-drawing mechanism built from reed and bone, intended for mounting on the limb of a bug.&lt;br&gt;&lt;br&gt;Doubles the number of tools thrown.",骨苇制成的紧绷发射机构，可装配于虫肢。&lt;br&gt;&lt;br&gt;使投掷工具数量翻倍。
-COGWORK_FLIER_DESC,Winged cogwork companion that will seek nearby foes and attack.,机械齿轮构成的飞行伙伴，会自动攻击附近敌人。
-MULTIBIND_DESC,"Elaborate, etched Weaver spindle, usable only by wielders of Silk.&lt;br&gt;&lt;br&gt;Extends the act of binding, but increases its healing effect.",刻纹织者纺锤，仅限灵丝使用者操作。&lt;br&gt;&lt;br&gt;延长缚丝时间但增强治疗效果。
-CREST_SPELL_DESC,Cast the blade forward and empower Silk Skills with powerful runes.,投射利刃，用强力符文增强灵丝技能。
+BELL_BIND_NAME,Warding Bell,守望钟
+USE_ITEM_MSG_MEMORY,Cannot use items while in a memory.,在内存中无法使用项目。
+QUICK_SLING_DESC,"Taut-drawing mechanism built from reed and bone, intended for mounting on the limb of a bug.&lt;br&gt;&lt;br&gt;Doubles the number of tools thrown.",用芦苇和骨头制造的拉紧机制，旨在安装在一个虫子的肢体上。
+COGWORK_FLIER_DESC,Winged cogwork companion that will seek nearby foes and attack.,有翼的Cogwork伴侣将寻求附近的敌人和进攻。
+MULTIBIND_DESC,"Elaborate, etched Weaver spindle, usable only by wielders of Silk.&lt;br&gt;&lt;br&gt;Extends the act of binding, but increases its healing effect.",精心制作的，蚀刻的织布纺锤，仅可用于丝绸的效力。
+CREST_SPELL_DESC,Cast the blade forward and empower Silk Skills with powerful runes.,将刀片向前施放，并用强大的符文增强丝绸技能。
 UI_MSG_TITLE_EXTRASLOT_PREFIX_2,Expanded the,扩展了
 UI_MSG_TITLE_EXTRASLOT_PREFIX_1,Gained a,获得了
-UI_BUTTON_CHANGE_CREST,Change Crest,更换纹章
-SCUTTLEBRACE_NAME,Scuttlebrace,迅捷脊锁
-MAGGOT_CHARM_DESC,"Fragile band woven of reed and leaf, crafted to repel Muckmaggots.&lt;br&gt;&lt;br&gt;If broken, the wreath will be repaired while resting at a bench.",芦苇嫩枝编织的驱蛆环。&lt;br&gt;&lt;br&gt;破损后需在长椅休息时修复。
-POISON_POUCH_NAME,Pollip Pouch,花芯囊
-MAGGOT_CHARM_NAME,Wreath of Purity,净界花环
-SHELL_SATCHEL_NAME,Shell Satchel,壳囊
-UI_SOCKET_UNLOCK_BUTTON_DESC,Expand Crest,扩展纹章
-THIEF_CHARM_NAME,Thief&#8217;s Mark,窃者印记
-DUSTPILO_DESC,Fabric pouch packed with unstable powder.&lt;br&gt;&lt;br&gt;Explodes on impact with enemies or when ignited by its fuse.,装满不稳定粉末的织物囊。&lt;br&gt;&lt;br&gt;撞击敌人或引燃导火索时会爆炸。
-FLEA_BREW_NAME,Flea Brew,跳蚤秘酿
-MUSICIAN_CHARM_NAME,Spider Strings,蛛丝弦
-DEAD_MANS_PURSE_DESC,Discarded purse of a fallen pilgrim.&lt;br&gt;&lt;br&gt;Allows the bearer to retain some rosaries upon defeat.,殒命朝圣者遗落的钱包。&lt;br&gt;&lt;br&gt;使持有者战败时保留部分念珠。
-SPRINTMASTER_DESC,Experimental anklets of Weaver make.&lt;br&gt;&lt;br&gt;Draws upon the wearer&#8217;s own Silk to increase sprinting speed.,织者制作的实验性脚环。&lt;br&gt;&lt;br&gt;抽取使用者灵丝提升冲刺速度。
-QUICKBIND_NAME,Injector Band,注丝套针
-WHITE_RING_NAME,Weavelight,织光仪
-HARPOON_NAME,Longpin,长针
-CREST_REAPER_DESC,"Attack with heavy, arcing slashes and reap additional Silk from enemies.",挥舞重弧斩击，从敌人身上收割额外灵丝。
+UI_BUTTON_CHANGE_CREST,Change Crest,改变波峰
+SCUTTLEBRACE_NAME,Scuttlebrace,Scuttlebrace
+MAGGOT_CHARM_DESC,"Fragile band woven of reed and leaf, crafted to repel Muckmaggots.&lt;br&gt;&lt;br&gt;If broken, the wreath will be repaired while resting at a bench.",脆弱的乐队编织的芦苇和叶子，精心制作，以排斥muckmaggots。
+POISON_POUCH_NAME,Pollip Pouch,Pollip Pouch
+MAGGOT_CHARM_NAME,Wreath of Purity,纯度花圈
+SHELL_SATCHEL_NAME,Shell Satchel,外壳萨奇
+UI_SOCKET_UNLOCK_BUTTON_DESC,Expand Crest,扩大波峰
+THIEF_CHARM_NAME,Thief&#8217;s Mark,小偷的标记
+DUSTPILO_DESC,Fabric pouch packed with unstable powder.&lt;br&gt;&lt;br&gt;Explodes on impact with enemies or when ignited by its fuse.,布满不稳定粉末的织物袋。
+FLEA_BREW_NAME,Flea Brew,跳蚤酿造
+MUSICIAN_CHARM_NAME,Spider Strings,蜘蛛弦
+DEAD_MANS_PURSE_DESC,Discarded purse of a fallen pilgrim.&lt;br&gt;&lt;br&gt;Allows the bearer to retain some rosaries upon defeat.,丢弃的朝圣者的钱包。
+SPRINTMASTER_DESC,Experimental anklets of Weaver make.&lt;br&gt;&lt;br&gt;Draws upon the wearer&#8217;s own Silk to increase sprinting speed.,Weaver的实验性脚链。
+QUICKBIND_NAME,Injector Band,喷油器带
+WHITE_RING_NAME,Weavelight,Weavelight
+HARPOON_NAME,Longpin,朗文
+CREST_REAPER_DESC,"Attack with heavy, arcing slashes and reap additional Silk from enemies.",用猛烈的斜线攻击，并从敌人那里获得额外的丝绸。
 DAZZLE_BIND_NAME,Claw Mirror,爪镜
-QUICK_SLING_NAME,Quick Sling,速射索
-BELL_BIND_DESC,Holy bell inscribed with a hymn of protection.&lt;br&gt;&lt;br&gt;Shields the bearer as they bind their wounds.,刻有守护圣诗的圣钟。&lt;br&gt;&lt;br&gt;疗伤期间为持有者提供护盾。
-DAZZLE_BIND_DESC_DARK,Dark Mirror,黑色手镜
-CREST_WARRIOR_NAME,Beast,野兽
-FLEA_BREW_DESC_EMPTY,Empty flask which once contained an invigorating beverage.&lt;br&gt;&lt;br&gt;Acquire more Flea Brew to restore the tool.,曾装有活力饮品的空瓶。&lt;br&gt;&lt;br&gt;需获取更多跳蚤秘酿补充。
-PINSTRESS_DESC,"Emblem of the Order of the Pinstress, the old blademasters of Pharloom.&lt;br&gt;&lt;br&gt;Reduces charge time of Needle Strike.",纺络地区古针匠组织&#39;针姬教团&#39;的徽记。 &lt;br&gt;&lt;br&gt;缩短蓄力斩的蓄力时间。
-CURVE_CLAWS_UPG_DESC,Radial sharpbone used by skilled hunters to take down dangerous prey.,高阶猎手使用的放射状锐骨武器，用于猎杀危险猎物。
-DEAD_MANS_PURSE_NAME,Dead Bug&#8217;s Purse,亡虫囊
-EXTRACTOR_NAME_PICKUP_BLUE,Plasmium Collected,生质液已收集
-WISP_LANTERN_NAME,Wispfire Lantern,灵火提灯
-SPRINTMASTER_NAME,Silkspeed Anklets,丝速脚环
-EQUIP_BENCH_MSG,Equip Tools in the Crest menu&lt;br&gt;while resting at a bench.,在长椅休息时，于纹章界面装备工具。
-CREST_WITCH_NAME,Witch,巫妪
-CURVE_CLAWS_DESC,Arched sharpbone used by hunters to take down flying prey.,猎手使用的弧形锐骨武器，用于猎杀飞行目标。
-EQUIP_BENCH_MSG_RELOAD,Reload Tools while resting at a bench.,在长椅休息时装填工具。
-EQUIP_BENCH_MSG_CURSED_CREST,Cannot change Crest,无法更换纹章
-COMPASS_DESC,"Intricate tracking device, carved from shell.&lt;br&gt;&lt;br&gt;When equipped, the bearer&#8217;s location will be marked on their map.",甲壳雕刻的精密追踪装置&lt;br&gt;&lt;br&gt;装备后可在地图标记持有者位置。
-UI_MSG_EQUIP_CREST,"To change Crest, open the Crest screen of the Menu while resting at a bench.",要更换纹章，请在长椅休息时打开纹章界面。
-EXTRACTOR_NAME,Needle Phial,储液针管
-SCUTTLEBRACE_DESC,"Artificial spine that clasps tight around the shell.&lt;br&gt;&lt;br&gt;Enhances the wearer&#8217;s innate flexibility, allowing rapid retreat.",紧扣甲壳的金属脊柱。&lt;br&gt;&lt;br&gt;增强持有者灵活性，实现快速撤离。
-SNARE_NAME,Snare Setter,陷阱设置器
-LIGHTNING_ROD_DESC,Convertible orbs containing electricity.&lt;br&gt;&lt;br&gt;The vessels can be thrown as a bola for an explosive discharge or staked as a spear to release a column of energy.,可转换形态的带电球体。&lt;br&gt;&lt;br&gt;作为流星锤投掷引爆，或作为标枪固定释放能量柱。
-UI_BUTTON_UNEQUIP,Unequip Tool,卸下工具
-UI_BUTTON_UNEQUIP_SKILL,Unequip Skill,卸下技能
-SPOOL_EXTENDER_DESC,"Silk-storing tool of the Citadel, fashioned after an artefact of the Weavers.&lt;br&gt;&lt;br&gt;Allows the storing of additional Silk beyond one&#8217;s natural abilities.",圣堡仿织者遗器制作的储丝装置。&lt;br&gt;&lt;br&gt;可突破自然限制储存额外灵丝。
-BONE_NECKLACE_DESC,Crude trinket worn by collectors and crafters.&lt;br&gt;&lt;br&gt;Allows one to collect more shell shards from defeated creatures.,采集者与工匠佩戴的粗制饰品。&lt;br&gt;&lt;br&gt;击败敌人时可获取更多甲壳碎片。
-THIEF_CLAW_NAME,Snitch Pick,撬赃钩
-LIQUID_METER_TITLE,Reserve,储备
-WALLCLING_DESC,Gilded piton that allows one to hold in place while on a wall.,镀金岩钉，允许在墙面上固定位置。
-EXTRACTOR_DESC,"Tool designed to extract and store fluids.&lt;br&gt;&lt;br&gt;To pierce its target, the Needle Phial must first be charged to full tension.",设计用于提取储存液体的工具。&lt;br&gt;&lt;br&gt;需蓄满张力才能穿透目标。
-MAGNETITE_DICE_NAME,Magnetite Dice,磁石骰
-LAVA_CHARM_NAME,Magma Bell,熔岩钟
-FLINTSTONE_NAME,Flintslate,燧石板
-FLEA_CHARM_DESC,"Icon of the mythical mother flea, passed down from caravans of old. A symbol of protection and kinship.&lt;br&gt;&lt;br&gt;Decreases the cost of Silk Skills while health is full.",旅团传承的传说跳蚤之母圣像，象征庇护与亲缘。&lt;br&gt;&lt;br&gt;生命值全满时降低灵丝技能消耗。
-PIMPILO_NAME,Pimpillo,爆燃囊
-WHITE_RING_DESC,Gleaming apparatus of Weaver make. Its core emits a faint glow.&lt;br&gt;&lt;br&gt;Increases the speed of Silk regeneration.,织者制造的发光装置，核心散发微光。&lt;br&gt;&lt;br&gt;提升灵丝恢复速度。
-MOSSCREEP_TOOL_2_DESC,"Powerful amulet of protection formed from many Mossberries.&lt;br&gt;&lt;br&gt;As the bearer takes damage, the amulet weeps a green elixir that will form into Silk.",多重苔莓强化的护身符。&lt;br&gt;&lt;br&gt;持有者受伤时，护符会渗出可转化为灵丝的绿液。
-EQUIP_BENCH_MSG_CURSED_SKILL,Cannot equip Silk Skills,无法装备灵丝技能
+QUICK_SLING_NAME,Quick Sling,快速吊索
+BELL_BIND_DESC,Holy bell inscribed with a hymn of protection.&lt;br&gt;&lt;br&gt;Shields the bearer as they bind their wounds.,圣铃刻有保护的赞美诗。
+DAZZLE_BIND_DESC_DARK,Dark Mirror,深色镜子
+CREST_WARRIOR_NAME,Beast,兽
+FLEA_BREW_DESC_EMPTY,Empty flask which once contained an invigorating beverage.&lt;br&gt;&lt;br&gt;Acquire more Flea Brew to restore the tool.,曾经包含一种令人振奋的饮料的空烧瓶。
+PINSTRESS_DESC,"Emblem of the Order of the Pinstress, the old blademasters of Pharloom.&lt;br&gt;&lt;br&gt;Reduces charge time of Needle Strike.",饰饰的象征，旧的玻璃织机的旧刀片。
+CURVE_CLAWS_UPG_DESC,Radial sharpbone used by skilled hunters to take down dangerous prey.,熟练的猎人使用的径向锋利的骨头来击落危险的猎物。
+DEAD_MANS_PURSE_NAME,Dead Bug&#8217;s Purse,DEAD BUG＃8217; S钱包
+EXTRACTOR_NAME_PICKUP_BLUE,Plasmium Collected,收集的浆质
+WISP_LANTERN_NAME,Wispfire Lantern,小火灯笼
+SPRINTMASTER_NAME,Silkspeed Anklets,丝绸飞速脚链
+EQUIP_BENCH_MSG,Equip Tools in the Crest menu&lt;br&gt;while resting at a bench.,在Crest菜单中设置工具，并在长凳上休息时。
+CREST_WITCH_NAME,Witch,巫婆
+CURVE_CLAWS_DESC,Arched sharpbone used by hunters to take down flying prey.,猎人用拱形的尖锐骨头击落飞行猎物。
+EQUIP_BENCH_MSG_RELOAD,Reload Tools while resting at a bench.,在长凳上休息时重新加载工具。
+EQUIP_BENCH_MSG_CURSED_CREST,Cannot change Crest,无法改变波峰
+COMPASS_DESC,"Intricate tracking device, carved from shell.&lt;br&gt;&lt;br&gt;When equipped, the bearer&#8217;s location will be marked on their map.",复杂的跟踪设备，用外壳雕刻。
+UI_MSG_EQUIP_CREST,"To change Crest, open the Crest screen of the Menu while resting at a bench.",要更改波峰，请在长凳上休息时打开菜单的波峰屏幕。
+EXTRACTOR_NAME,Needle Phial,针头
+SCUTTLEBRACE_DESC,"Artificial spine that clasps tight around the shell.&lt;br&gt;&lt;br&gt;Enhances the wearer&#8217;s innate flexibility, allowing rapid retreat.",人造脊柱围绕壳围绕着外壳的脊柱。
+SNARE_NAME,Snare Setter,圈套固定器
+LIGHTNING_ROD_DESC,Convertible orbs containing electricity.&lt;br&gt;&lt;br&gt;The vessels can be thrown as a bola for an explosive discharge or staked as a spear to release a column of energy.,含有电力的可转换球体。
+UI_BUTTON_UNEQUIP,Unequip Tool,取消设备工具
+UI_BUTTON_UNEQUIP_SKILL,Unequip Skill,取消配备技能
+SPOOL_EXTENDER_DESC,"Silk-storing tool of the Citadel, fashioned after an artefact of the Weavers.&lt;br&gt;&lt;br&gt;Allows the storing of additional Silk beyond one&#8217;s natural abilities.",该城堡的丝绸存储工具以织布工的人工制作而设计。
+BONE_NECKLACE_DESC,Crude trinket worn by collectors and crafters.&lt;br&gt;&lt;br&gt;Allows one to collect more shell shards from defeated creatures.,收藏家和手工艺者穿着的粗饰品。
+THIEF_CLAW_NAME,Snitch Pick,小偷选
+LIQUID_METER_TITLE,Reserve,预订
+WALLCLING_DESC,Gilded piton that allows one to hold in place while on a wall.,镀金的皮顿，可以在墙上固定在适当的位置。
+EXTRACTOR_DESC,"Tool designed to extract and store fluids.&lt;br&gt;&lt;br&gt;To pierce its target, the Needle Phial must first be charged to full tension.",旨在提取和储存液体的工具。
+MAGNETITE_DICE_NAME,Magnetite Dice,磁铁矿骰子
+LAVA_CHARM_NAME,Magma Bell,岩浆钟
+FLINTSTONE_NAME,Flintslate,火石板
+FLEA_CHARM_DESC,"Icon of the mythical mother flea, passed down from caravans of old. A symbol of protection and kinship.&lt;br&gt;&lt;br&gt;Decreases the cost of Silk Skills while health is full.",神话般的母亲跳蚤的偶像，从古老的大篷车降下。保护和亲属关系的象征。
+PIMPILO_NAME,Pimpillo,皮米洛
+WHITE_RING_DESC,Gleaming apparatus of Weaver make. Its core emits a faint glow.&lt;br&gt;&lt;br&gt;Increases the speed of Silk regeneration.,Weaver Make的闪闪发光的设备。它的核心发出淡淡的光芒。
+MOSSCREEP_TOOL_2_DESC,"Powerful amulet of protection formed from many Mossberries.&lt;br&gt;&lt;br&gt;As the bearer takes damage, the amulet weeps a green elixir that will form into Silk.",由许多苔藓形成的强大保护护身符。
+EQUIP_BENCH_MSG_CURSED_SKILL,Cannot equip Silk Skills,无法配备丝绸技能
 UI_BUTTON_EQUIP_SKILL,Equip Skill,装备技能
-EXTRACTOR_NAME_PICKUP_BLUEBLOOD,Bile Collected,酸液已收集
-BARBED_WIRE_NAME,Barbed Bracelet,棘刺手环
-TUT_MSG_DESC,Equip tools for aid in combat or exploration.,装备工具以辅助战斗或探索。
-WEIGHTED_ANKLET_DESC,Heavy band favoured by those with an unsteady step.&lt;br&gt;&lt;br&gt;The wearer will recoil less when striking foes and will not be flung as far when taking damage.,步履不稳者偏好的重环。&lt;br&gt;&lt;br&gt;攻击和受击时不易后退。
-LONGNEEDLE_DESC,Talisman fashioned from the talon of a large predator.&lt;br&gt;&lt;br&gt;Increases the range of needle attacks.,大型掠食者利爪制成的护符。&lt;br&gt;&lt;br&gt;增加织针攻击范围。
-FLEA_BREW_DESC_EMPTY_BROKEN,Shattered flask which once contained an invigorating beverage.&lt;br&gt;&lt;br&gt;Acquire more Flea Brew to restore the tool.,曾装有活力饮品的破碎瓶。&lt;br&gt;&lt;br&gt;需获取更多跳蚤秘酿补充。
-SHAKRA_RING_NAME,Throwing Ring,投掷环
-SILKSHOT_DESC_WEAVER,"Ancient weapon of the Weavers, repaired to its original form.&lt;br&gt;&lt;br&gt;Uses shell canisters and the wielder&#8217;s own Silk to fire.",修复至原始形态的织者古兵器。&lt;br&gt;&lt;br&gt;需消耗甲壳罐与使用者的灵丝发射。
-STRAIGHT_PIN_NAME,Straight Pin,直针
-CREST_TOOLMASTER_DESC,"Spin the needle as a screw, shredding foes. Spend Silk to rapidly craft new tools.",旋转织针撕裂敌人。消耗灵丝快速制作新工具。
-REVENGE_CRYSTAL_NAME,Memory Crystal,记忆晶石
-TRI_PIN_DESC,"Flat, layered weapon, crafted to be thrown in a set.",分层扁平武器，可成套投掷。
-UI_USE_SCUTTLE,Scuttle,蛛行
+EXTRACTOR_NAME_PICKUP_BLUEBLOOD,Bile Collected,胆汁收集
+BARBED_WIRE_NAME,Barbed Bracelet,带刺的手镯
+TUT_MSG_DESC,Equip tools for aid in combat or exploration.,设备辅助战斗或探索的工具。
+WEIGHTED_ANKLET_DESC,Heavy band favoured by those with an unsteady step.&lt;br&gt;&lt;br&gt;The wearer will recoil less when striking foes and will not be flung as far when taking damage.,重型乐队受到那些不稳定步骤的人的青睐。
+LONGNEEDLE_DESC,Talisman fashioned from the talon of a large predator.&lt;br&gt;&lt;br&gt;Increases the range of needle attacks.,塔利斯曼（Talisman）是由大捕食者的爪子制成的。
+FLEA_BREW_DESC_EMPTY_BROKEN,Shattered flask which once contained an invigorating beverage.&lt;br&gt;&lt;br&gt;Acquire more Flea Brew to restore the tool.,破碎的烧瓶曾经包含一种令人振奋的饮料。
+SHAKRA_RING_NAME,Throwing Ring,投掷戒指
+SILKSHOT_DESC_WEAVER,"Ancient weapon of the Weavers, repaired to its original form.&lt;br&gt;&lt;br&gt;Uses shell canisters and the wielder&#8217;s own Silk to fire.",织布工的古老武器修复到其原始形式。
+STRAIGHT_PIN_NAME,Straight Pin,直销
+CREST_TOOLMASTER_DESC,"Spin the needle as a screw, shredding foes. Spend Silk to rapidly craft new tools.",将针头旋转为螺钉，切碎的敌人。花丝绸快速制作新工具。
+REVENGE_CRYSTAL_NAME,Memory Crystal,内存晶体
+TRI_PIN_DESC,"Flat, layered weapon, crafted to be thrown in a set.",平坦，分层的武器，制作成一套。
+UI_USE_SCUTTLE,Scuttle,砍伐
