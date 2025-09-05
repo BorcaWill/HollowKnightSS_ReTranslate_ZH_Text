@@ -1,0 +1,23 @@
+﻿<entries>
+<entry name="MASK_MAKER_UNMASK_TALK_04">&lt;hpage&gt;我观察了这片土地的虫。他们一心爬向救赎，却不懂这意味着什么。&lt;page&gt;是啊，但被你们高等族群使唤的不都这样。&lt;page&gt;我们凡虫不是没反抗过。当年被织者忽悠着，居然还真成了点事。&lt;hpage&gt;你说圣堡？虽然荒废了，还是能感觉到它的用途：既是教堂又是牢笼。&lt;page&gt;是啊。你祖辈造的这怪物，用狡猾心思织成网，让母亲陷入沉眠，自己却在外面称王。</entry>
+<entry name="MASK_MAKER_UNMASK_DELIVERY">&lt;hpage&gt;匠师，我从钟心镇送来漆料，够你用很久。&lt;page&gt;啊呀，古老者，这怎么合适。侍奉我们凡虫可不是你们族群的作风。&lt;hpage&gt;我和同族不一样。看够了他们统治下的苦难，自然不会同流合污。&lt;page&gt;不知您的同族会怎么想……但还是多谢漆料。纺络的新面孔会喜欢的。</entry>
+<entry name="MASK_MAKER_REPEAT1_ACT3">直到洞窟崩塌，雕刻都不能停！</entry>
+<entry name="MASK_MAKER_UNMASK_REPEAT_ACT3">聊够了吧，古老者。契约还在，我要继续刻面甲，直到大地崩塌。&lt;hpage&gt;好吧，匠师。要是有办法，我会保护好这片土地。</entry>
+<entry name="MASK_MAKER_UNMASK_MEET">啊呀，古老者，你们这一族最清楚，不戴面甲交谈太失礼了。&lt;hpage&gt;我就是想和清醒的你聊聊，别见怪。&lt;page&gt;好吧。不过我倒是不奇怪你会来。连我这都能感觉到那位的躁动，想必就是因为你。&lt;page&gt;所以你打算要去她算账？找我们伟大却又衰败的女王？&lt;hpage&gt;迟早要见，但我得先积蓄力量。&lt;page&gt;哈！早猜到了！你们古族从来都是窝里斗。&lt;page&gt;要是你赢了，我只求能继续刻面甲。无论王国结局如何，我的活都不能停。</entry>
+<entry name="MASK_MAKER_UNMASK_PREVIOUSLY_MET_ACT3">又来了古老者？我感觉到了你和苍白女王争斗……不过看来情况不太妙。&lt;page&gt;我猜事情变得复杂了？还是说你早料到会这样？&lt;hpage&gt;我给了她致命一击，可她临死挣扎要让整个王国陪葬。&lt;page&gt;哈！一点都不意外！你们古族争权夺利，我们小虫子活该被碾碎。&lt;hpage&gt;我想要自由，匠师。既为了我也为了你们。或许是有些天真，但这不是我要的结局。</entry>
+<entry name="MASK_MAKER_REPEAT1">所有生灵都该有张脸，有机会存在！只要我还没倒下，就会给无面者造脸。</entry>
+<entry name="MASK_MAKER_REPEAT2_ACT3">不论死活，都得有一张脸。这是根本。</entry>
+<entry name="MASK_MAKER_DELIVERY">&lt;hpage&gt;匠师，我从钟心镇送来漆料，够你用很久。&lt;page&gt;好！好！用来封存，用来保护。让纺络的新面孔闪闪发亮。</entry>
+<entry name="MASK_MAKER_POST">收下报酬吧客人！要用掉还是收着都行！</entry>
+<entry name="MASK_MAKER_MEET">欢迎！尊贵的客人。可你已经有面甲了，已经有脸了。我的刻刀只为无面者服务。</entry>
+<entry name="MASK_MAKER_REPEAT3">雕刻！雕刻！必须继续雕刻面甲。</entry>
+<entry name="MASK_MAKER_UNMASK_PEAK">见过山顶上那位了吗？&lt;page&gt;你那些多足的先祖对她十分信服，甚至在这么险的山峰上修了屋子打造机器。&lt;hpage&gt;我去拜访过了，也受到了她的青睐，得了这身御寒的绒毛。&lt;page&gt;连这个都送你……真是下了血本。她把宝押在你身上了。&lt;page&gt;没想到她这么反对苍白之主，恐怕她也看出纺络情况不对，有大事要发生了。</entry>
+<entry name="MASK_MAKER_UNMASK_MEET_ACT3">啊呀，古老者，你们这一族最清楚，不戴面甲交谈太失礼了。&lt;hpage&gt;我就是想和清醒的你聊聊，别见怪。&lt;page&gt;好吧。不过我倒是不奇怪你会来。我感觉到、听到了你和苍白女王争斗……不过看来情况不太妙。&lt;page&gt;我猜事情变得复杂了？还是说你早料到会这样？&lt;hpage&gt;我给了她致命一击，可她临死挣扎要让整个王国陪葬。&lt;page&gt;哈！一点都不意外！你们古族争权夺利，我们小虫子活该被碾碎。&lt;hpage&gt;我想要自由，匠师。既为了我也为了你们。或许是有些天真，但这不是我要的结局。</entry>
+<entry name="MASK_MAKER_MEET_ACT3">迟了！太迟了！你已经有面甲了，已经有脸了。我的刻刀只为无面者服务。</entry>
+<entry name="MASK_MAKER_POST_UNMASK">古老者，请收下这点酬劳。抱着晃荡的漆罐爬这么高不容易。</entry>
+<entry name="MASK_MAKER_RELATIONSHIP">你这张脸不错。不是我的手艺，也不是纺络的手艺。至少现在不是。&lt;page&gt;但更深处，有渊源。和古时候那些多足管事的一样。&lt;page&gt;好了！干活！干活！需要更多面甲！</entry>
+<entry name="MASK_MAKER_UNMASK_TALK_03">&lt;hpage&gt;匠师好眼力。在我身上看到什么了？&lt;page&gt;你的面甲……上面清清楚楚。守望者，猎手，甚至君主——就算你不认最后这个。&lt;page&gt;挺复杂的一张脸，但在我看来还没定型。&lt;hpage&gt;如果是过渡状态，那我早已接受。这面甲已陪我度过了不知多少辈子的时间。&lt;page&gt;是啊。不过你们古族生长发育不合常理，我们虫子的几辈子可没法衡量你的年纪。&lt;page&gt;说不定你还能再长大呢……</entry>
+<entry name="MASK_MAKER_REPEAT3_ACT3">虽然世界在哀嚎！但面甲还得继续刻。</entry>
+<entry name="MASK_MAKER_UNMASK_REPEAT">聊够了吧，古老者。我的使命可不让休息。&lt;hpage&gt;好吧，匠师。告辞了。</entry>
+<entry name="MASK_MAKER_REPEAT2">要存在，就得有张脸。这是根本。</entry>
+</entries>

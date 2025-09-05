@@ -1,0 +1,34 @@
+﻿<entries>
+<entry name="ARCHITECT_AFTER_SHRINE">&lt;hpage&gt;大师，我已拜访上方圣像。你们的知识独特，源自机枢之心。需要我专注投入才能掌握。&lt;page&gt;红姑娘是首个融合我等记忆的血肉之躯。这种行为，按我族逻辑本应不-不-不可行。&lt;page&gt;不过您精通各式武具，确实与机械造诣契-契-合，因此决定开放思维秘藏。&lt;hpage&gt;你们的技艺令我叹服。对这份知识，我感激不尽。</entry>
+<entry name="CONFESSIONAL_START_BROKEN">说……忏悔……</entry>
+<entry name="ARCHITECT_WEAVER_SHOOT">红姑娘，你身上有件特殊遗物。这残器，是织者造物？&lt;hpage&gt;应该是。织者的旧工坊遗物，在圣堡外的腐臭洞窟里发现的。&lt;hpage&gt;看这构造应该是丝刃兵器。若不是时间有限，我倒想尝试修复。&lt;page&gt;建筑师技艺大多继承自初代织者子嗣。他们为永恒圣堡的器-器-具设下典范。&lt;page&gt;如果您有要求，我可以将它重铸，但成品恐怕会带有我的独-独-独特烙印。</entry>
+<entry name="ARCHITECT_SHOP_DESC_SILKSHOT">初代子嗣的精巧造物。我可修-修-复此武具，但会留下我的工造印记。</entry>
+<entry name="ARCHITECT_SHOP_TALK_REPEAT">红姑娘。需要服-服-服务？我将创造，如指-指-指令所示。为永恒圣堡。</entry>
+<entry name="CONFESSIONAL_START">说吧。你的忏悔将被聆听。</entry>
+<entry name="LARGE_COG_WORK_SONG">唔。唔唔唔唔。你弄的响动。像圣歌。让咱想起老家。想起小时候。&lt;page&gt;这些回忆让干活揪心。咱得继续干。朋友，求你别弄这些声了。&lt;page&gt;求你了……别再……</entry>
+<entry name="ARCHITECT_WILL_LEAVE">为红姑娘效-效-力的时光……临别前必须坦-坦-白。我的齿轮渐-渐缓，臂膀无力。终结将至，突然但确-确-定……真好。&lt;hpage&gt;即便如此，大师的技艺也并未退步。您造的器具堪称完美。&lt;hpage&gt;您逝去后会怎么样，有后继者接任？&lt;page&gt;没有。锻造建筑师的技艺……早已失-失-失传。我是最后一位。核心尚能使圣歌存续，但再无工匠维缮新建。&lt;page&gt;荒-荒-谬……&#8221;为永恒圣堡&#8221;的指-指-令仍在。但无工匠何谈永恒？错-错-误？终局？错谬……真好？</entry>
+<entry name="LARGE_COG_WORK_MEET">唔。唔唔唔。谁？咱看不清……看不清……&lt;hpage&gt;别慌，大块头。我不是你的敌人。&lt;page&gt;唔唔？唔唔！看清你了！这么干净鲜活……肯定是从上层来的！咱终于等到！咱完工了！你是来接咱上去的！上去！唔唔！&lt;hpage&gt;你误会了，我不是圣堡居民，只是旅者。但也不是你的敌人。&lt;page&gt;唔。唔唔唔唔。旅……旅者？咱大错特错。宽恕咱吧，上边的大人们！咱痴心妄想！咱当然还没完工！加把劲！咱得加把劲！</entry>
+<entry name="ARCHITECT_SHOP_TALK_REPEAT_ACT3">红姑娘。此刻仍需要服-服-服务？职责已尽，但如果您需要，仍可制-制造……</entry>
+<entry name="ARCHITECT_SHOP_DESC_KEY">如果红姑娘能证-证-明精通我等器械，我将献上钥匙，用以开启上方圣堂库房。</entry>
+<entry name="ARCHITECT_MELODY">&lt;hpage&gt;大师，我想要你这一族保管的旋律，那是登顶圣堡的钥匙。你可愿意传授？&lt;page&gt;我们的旋律？确-确-曾存在！但是声纹……已遗失……&lt;page&gt;长-长-久劳役使我记忆缺损。许多往事……都已模糊……&lt;page&gt;但您仍可-可-可以聆听。核心顶端有一奏鸣构造，几近完成……启动即可重现圣歌。</entry>
+<entry name="ARCHITECT_MELODY_RETURN">您仍要攀-攀-登伟大核心？路上可见历代建筑师的神工创造，包括我的拙作。&lt;hpage&gt;我有许多地方要去，但若是需要，我会登顶获取旋律。</entry>
+<entry name="LARGE_COG_WORK_CITADEL">&lt;hpage&gt;请问你对头顶的圣堡了解多少？为了上去这么煞费苦心。&lt;page&gt;唔唔唔唔！圣堡！神迹之地！亮堂圣洁！清水管够！空气清新能望见穹顶！&lt;page&gt;想着圣堡，咱就干得最卖力！唔唔唔唔！</entry>
+<entry name="CONFESSIONAL_END">你已供认重罪，须以苦役净化。&lt;page&gt;返回岗位持续劳作，禁食禁饮直至新周期始。&lt;page&gt;承永恒纺络之恩，愿你永不疲惫。劳作，方得救赎。</entry>
+<entry name="LARGE_COG_WORK_TOGETHER">唔。唔唔唔！好，朋友，好！咱一起干，更虔诚！活干得更快！&lt;page&gt;来！咱们一起拼命干，让上边看看咱多卖力！</entry>
+<entry name="ARCHITECT_MELODY_GAINED">&lt;page&gt;怎么回事，红姑娘？即便身处此地，我也感-感-感知到它的运转……莫非你已攀上我们的核-核-核心，唤醒了我族先辈的歌声？  &lt;hpage&gt;正是如此，大师。这段攀登本非寻常虫类所能企及，所幸这片土地赋予的技艺助我登上了顶端。  &lt;hpage&gt;那旋律与歌声……皆是值得聆听见证的瑰宝。即便在此衰微之际，其中匠心仍熠熠生辉。  &lt;page&gt;勤勉卓绝……永垂不朽……红姑娘，你已见证我族-族-族昔日的荣光。建筑师们迸发的智慧，我们曾创造的伟业何等壮丽……</entry>
+<entry name="ARCHITECT_MEET_ACT3">&lt;hpage&gt;阁下，你似乎是圣堡最后的工匠，但是要与我为敌么？这里的构造体对我很有敌意。&lt;page&gt;红衣虫？我是制-制-造者。敌人。不是。建筑师。只是建筑师。建造-自动化，并非选择。是本性-指-指-指令牢笼。&lt;page&gt;您为何在此，是寻-寻求建筑师协助？您有织者血脉，是，初代子嗣。稀-稀-稀有种？但又似乎不是。&lt;hpage&gt;你眼光很独到，我确实有织者血脉，但只有一半。&lt;page&gt;那依红姑娘要-要-要求，遵循指令，为纺络初代子嗣，为永恒圣堡，我将效劳。为您制-制-造。</entry>
+<entry name="ARCHITECT_MEET">&lt;hpage&gt;阁下，你似乎是圣堡最后的工匠，但是要与我为敌么？这里的构造体对我很有敌意。&lt;page&gt;红衣虫？我是制-制-造者。敌人。不是。建筑师。只是建筑师。建造-自动化，并非选择。是本性-指-指-指令牢笼。&lt;page&gt;您有织者血脉，是，初代子嗣。稀-稀-稀有种？但又似乎不是。&lt;hpage&gt;你眼光很独到，我确实有织者血脉，但只有一半。&lt;page&gt;那依红姑娘要-要-要求，遵循指令，为纺络初代子嗣，为永恒圣堡，我将效劳。为您制-制-造。</entry>
+<entry name="ARCHITECT_SHOP_TITLE">建筑师-13</entry>
+<entry name="LARGE_COG_WORK_WORK">唔唔唔。越使劲干，就越早离开。上边的大人们看着咱呢。使劲干，使劲干，就能上去。唔唔。&lt;hpage&gt;先生，恐怕你早被主人遗忘了。为何不休息？这苦役正在摧残你的甲壳。&lt;page&gt;唔唔？唔唔唔。你说怪话。咱不能歇。咱干活，圣堡呼吸，上边唱歌，这才对劲。&lt;page&gt;等咱干够活，大人们会看见……唔唔……会看见，就给咱圣赐……</entry>
+<entry name="ARCHITECT_SHOP_DESC_TOOL_KIT">我的工具。可以用于改进您自己的。更硬，更利。</entry>
+<entry name="ARCHITECT_SHOP_DESC_SCUTTLEBRACE">柔性甲壳义肢。能提升织者机动性，便于闪避。</entry>
+<entry name="CONFESSIONAL_END_BROKEN">你……罪……净化....&lt;page&gt;返回……劳作……周期始....&lt;page&gt;...纺络……永不……救赎。</entry>
+<entry name="ARCHITECT_SHOP_DESC_COGWORK_SAW">您偏爱这类机轮刃？我可基-基-据此改良。加回收装置。强化储能。</entry>
+<entry name="ARCHITECT_SHOP_DESC_KEY_REQUIRE">再收集{0}件工具以证明资质。</entry>
+<entry name="LARGE_COG_WORK_REPEAT">唔唔唔唔。咱不能多说了，朋友。上边看着呢。咱得接着干。</entry>
+<entry name="AUTO_SHRINE_DOOR_INSPECT">一扇锁住的门，刻有建筑师徽记。</entry>
+<entry name="ARCHITECT_SHOP_DESC_SHARDPOUCH">原材料，随身携带。有-有备无患。</entry>
+<entry name="ARCHITECT_SHOP_DESC_KEY_REQUIRE_SINGLE">再收集1件工具以证明资质。</entry>
+<entry name="ARCHITECT_COG_HEART">您携带的心-心-脏残片，您是怎么找到如此珍贵造物的？&lt;hpage&gt;它们散落在圣堡各处，似乎是被刻意安置。虽然被拆解，却有妥善保管。&lt;page&gt;这心脏构造精妙，出自我的先辈之手，为机枢骑士所铸造。&lt;page&gt;我能在其中看到先辈才华，如今却已失-失-传。我无法复刻这份神工。&lt;hpage&gt;那曾经承载这颗心的骑士？我想了解详情。&lt;page&gt;光辉教团，机枢戍卫。他们曾经威仪赫赫，掌管圣职。&lt;page&gt;远在核心铸-铸-造之前，戍卫就远征墙外，强掳众虫效忠圣堡。&lt;page&gt;如果将此心-心-脏重新装入戍卫甲中，它会为苏醒而感激？还是为圣堡衰颓哀伤？&lt;hpage&gt;假以时日，大师，或许我能知晓……</entry>
+<entry name="ARCHITECT_SHOP_DESC_BROLLYSPIKE">金属齿环，轻便锐利。可编入您的红色披风？作为暗器。</entry>
+</entries>

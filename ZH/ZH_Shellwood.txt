@@ -1,0 +1,25 @@
+﻿<entries>
+<entry name="WOOD_WITCH_CURSE_ACCEPTED">&lt;hpage&gt;好吧。这最终仪式……需要我做什么？&lt;page&gt;诞生……之时。献出……甲壳。宿主……终仪。&lt;page&gt;诞辰……已至。</entry>
+<entry name="SETH_GUARDIAN_TALK_REPEAT">你可以在此处休息，但记住，越界意味着面对我的兵刃。</entry>
+<entry name="WOOD_WITCH_CURSE_OFFER">时刻……诞生之时将至。花苞啼哭。终仪可启。&lt;page&gt;白面红袍。古老强虫。诞生之时已至，此刻助我终仪。</entry>
+<entry name="WOOD_WITCH_FLOWER_QUEST_COMPLETE_1">花……花芯。集齐。所需皆备。</entry>
+<entry name="WOOD_WITCH_FLOWER_QUEST_DECLINE">&lt;hpage&gt;很遗憾，我有要事在身，没法帮忙。&lt;page&gt;拒绝。不可。诞生之时将至。仪式必启。</entry>
+<entry name="WOOD_WITCH_FLOWER_QUEST_ACCEPT">&lt;hpage&gt;若你能分享只是，我愿意帮忙。哪里能找到花芯？&lt;page&gt;花……花芯。树林间，对。&lt;page&gt;寻找紫花。芯……在其中。&lt;page&gt;诞生之时将至。带来花芯，共享力量。</entry>
+<entry name="WOOD_WITCH_FLOWER_QUEST_COMPLETE_3">红袍虫。重生之时将至。&lt;page&gt;初仪完成。准备。迎接诞生。&lt;page&gt;收下……仪式残渣。</entry>
+<entry name="WOOD_WITCH_FLOWER_QUEST_KEEPITEMS">呃……仪式。初仪必启。需要花芯。</entry>
+<entry name="WOOD_WITCH_CURSE_DECLINED">&lt;hpage&gt;我现在无法帮助你，或许会有其他旅者伸出援手。&lt;page&gt;无虫……曾有许多……如今无虫。终仪……诞生之时将至……</entry>
+<entry name="WOOD_WITCH_MANDRAKE_ASK">虫。红袍虫。远旅者。你带来了……花苞。&lt;page&gt;它在呼唤。呼唤仪式。献上吧。</entry>
+<entry name="SETH_GUARDIAN_DECLINE">那请就此止步，不必打破这份和平。</entry>
+<entry name="WOOD_WITCH_MANDRAKE_ACCEPT">花苞……孱弱。新生。需要滋养。&lt;page&gt;滋……滋养。得到滋养。</entry>
+<entry name="WOOD_WITCH_FLOWER_QUEST_ACCEPTED">寻找紫花。内有……珍贵花芯。&lt;page&gt;诞生之时将至。带来花芯，共享力量。</entry>
+<entry name="WOOD_WITCH_FLOWER_QUEST_REOFFER">只剩你。无虫来此。&lt;page&gt; 仪式需要花芯。带来此处。</entry>
+<entry name="SETH_GUARDIAN_OFFER">挑战守卫者？</entry>
+<entry name="WOOD_WITCH_FLOWER_QUEST_COMPLETE_2">初始仪式。花芯仪式。初仪可启。</entry>
+<entry name="WOOD_WITCH_FLOWER_QUEST_CANCOMPLETE">珍贵花芯……交付。为了诞生，为了仪式，它们必须流血……</entry>
+<entry name="WOOD_WITCH_FLOWER_QUEST_OFFER">……诞生之时将至。现在，花芯仪式。&lt;page&gt;虫。只剩你。无虫来此。&lt;page&gt;仪式需要花芯。带来此处。</entry>
+<entry name="WOOD_WITCH_MEET">嘘……甲壳。白面甲，红袍子。&lt;page&gt;虫。是活虫。&lt;hpage&gt;我算是半虫，但你倒是截然不同。若吵醒你的长眠，我道歉。&lt;page&gt;长眠。苏醒时分已至。&lt;page&gt;生长。诞生之时。诞生之时将至。&lt;page&gt;听着，诞生之时将至。</entry>
+<entry name="WOOD_WITCH_MANDRAKE_DECLINE">花苞……必须献上。它在呼唤……呼唤仪式。</entry>
+<entry name="WOOD_WITCH_REPEAT">时刻将至……诞生之时将至。</entry>
+<entry name="SETH_GUARDIAN_MEET">止步，陌生的虫。我奉命永远守护后方圣所。&lt;page&gt;想要过去，先问过我的兵器。</entry>
+<entry name="SETH_GUARDIAN_TALK1">你可以在此处休息，只要不越界，我就不是你的敌人。&lt;hpage&gt;那就说说这处圣所吧。这深林边缘的洞窟似乎早已被遗忘。&lt;page&gt;事物或许会被被隐藏，但不会被遗忘。最初之种记得这处圣所，而她永恒存在。&lt;page&gt;我是最后一位守卫者。很遗憾，至今已有无数试图越界的亡魂。</entry>
+</entries>

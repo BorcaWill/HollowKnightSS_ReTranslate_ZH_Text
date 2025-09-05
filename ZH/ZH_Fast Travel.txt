@@ -1,0 +1,25 @@
+﻿<entries>
+<entry name="STATION_NAME_SHELLWOOD">甲木林</entry>
+<entry name="STATION_NAME_DOCKS">深坞</entry>
+<entry name="STATION_NAME_SHADOW">腐汁泽</entry>
+<entry name="TUBE_NAME_HANG">高庭</entry>
+<entry name="TUBE_LIST_TITLE">圣脉枢管</entry>
+<entry name="TUBE_NAME_SONG">圣咏殿</entry>
+<entry name="TUBE_NAME_HUB">终界站</entry>
+<entry name="STATION_NAME_BONEFOREST_EAST">远野</entry>
+<entry name="STATION_NAME_WEAVE">织巢</entry>
+<entry name="MAP_LIST_TITLE">钟道站</entry>
+<entry name="STATION_NAME_CITADEL">圣堡钟道</entry>
+<entry name="TUBE_NAME_CITYBELLWAY">圣堡钟道</entry>
+<entry name="STATION_NAME_BELLTOWN">钟心镇</entry>
+<entry name="STATION_NAME_BONETOWN">骸底镇</entry>
+<entry name="PAY_TOLL_MSG">投入念珠？</entry>
+<entry name="TUBE_NAME_ENCLAVE">始源钟殿</entry>
+<entry name="STATION_NAME_PEAK">罪石牢狱</entry>
+<entry name="STATION_NAME_AQUEDUCT">腐殖渠</entry>
+<entry name="TUBE_NAME_UNDER">圣堡工厂</entry>
+<entry name="STATION_NAME_BONE">髓骨洞窟</entry>
+<entry name="STATION_NAME_CORAL_TOWER">蚀阶</entry>
+<entry name="STATION_NAME_GREYMOOR">灰沼</entry>
+<entry name="TUBE_NAME_ARBORIUM">忆廊</entry>
+</entries>

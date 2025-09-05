@@ -1,0 +1,7 @@
+﻿<entries>
+<entry name="OK">确定</entry>
+<entry name="SAVE_FAILED_DESC">请再次尝试保存。如果问题仍未解决，请访问 teamcherry.com.au/help 获取技术支持。</entry>
+<entry name="SAVE_CORRUPTED_TITLE">无法读取存档文件。</entry>
+<entry name="SAVE_CORRUPTED_DESC">您可以通过下方选项尝试恢复之前的自动存档。</entry>
+<entry name="SAVE_FAILED_TITLE">无法保存进度。</entry>
+</entries>

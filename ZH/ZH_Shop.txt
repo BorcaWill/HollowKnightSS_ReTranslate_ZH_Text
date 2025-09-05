@@ -1,0 +1,11 @@
+﻿<entries>
+<entry name="THUNTER_ITEM_BLASTEDLANDS">蚀阶</entry>
+<entry name="THUNTER_ITEM_FIELDLANDS">远野地区</entry>
+<entry name="THUNTER_ITEM_MUCKLANDS">腐沼地区</entry>
+<entry name="TITLE_COURIERS_QUESTS">送货员</entry>
+<entry name="THUNTER_ITEM_PEAKLANDS">费耶山</entry>
+<entry name="THUNTER_ITEMS_TITLE">跳蚤线索</entry>
+<entry name="THUNTER_ITEM_CITADEL">圣堡</entry>
+<entry name="THUNTER_ITEM_MARROWLANDS">骸骨地区</entry>
+<entry name="THUNTER_ITEM_MIDLANDS">中部地区</entry>
+</entries>

@@ -1,0 +1,37 @@
+﻿<entries>
+<entry name="HH_BARTENDER_NECTAR_PROMPT">购买陈年蜜露？</entry>
+<entry name="HH_BARTENDER_GREET_ACT3">噢，旅行者！您没事吧？外头刚遭了灾，能见到还活着的虫子真让我宽心。&lt;hpage&gt;酒保先生，劝你最好待在屋内。这新的诅咒连我的甲壳都扛不住。&lt;page&gt;您说的对，您要乐意也可以留下。喝几盏蜜露压压惊……不过看这地动山摇的架势，怕得喝光我的存货才够压惊的。</entry>
+<entry name="HH_BARTENDER_CURSED">嚯，您看着不太对劲啊，小姐。光靠我的蜜露，可治不了您这毛病。&lt;hpage&gt;我的甲壳里钻入了寄生物，它的蠕动使我不太舒服。&lt;hpage&gt;若不是体质特殊，我可能早被啃噬干净了。&lt;page&gt;啊，别把这种危险的玩意带到我这来！赶紧去沼泽的顶部，那里有一位老医生！她躲在一口钟里。&lt;page&gt;虽说她开的药往往比疾病本身的危害还大，但您这状况值得赌一把。</entry>
+<entry name="HH_BARTENDER_NECTAR_OFFER">&lt;hpage&gt;酒保先生，我在找储存多年的蜜露。你这儿可有存货？&lt;page&gt;嘴巴越来越刁了，小姐？我这应该还剩几瓶，但价钱可不便宜。&lt;page&gt;我地窖里的存货可是纺络最后的陈酿。喝完之后，再也没有虫子能享受到此等蜜酿咯。</entry>
+<entry name="HH_BARTENDER_DRINK_DECLINED">&lt;hpage&gt;改日吧。我这副躯壳生来特殊，少有饥渴之时。&lt;page&gt;这样吗？蜜露随时管够，想来一盏就招呼我一声。</entry>
+<entry name="HH_BARTENDER_NECTAR_REOFFER">&lt;page&gt;还惦记着陈年蜜露？&lt;page&gt;别看我现在出的价高，之前路过的阔绰顾客给得更多呢！</entry>
+<entry name="HH_BARTENDER_OFFER_REPEAT">真不打算帮我收拾房顶上的麻烦？酬劳保证让您满意。</entry>
+<entry name="HH_BARTENDER_OFFER_QUEST">旅行者，本不该劳烦您，但有件事非得您这样的利落角色才能办。&lt;hpage&gt;虽然我还有自己的事要去做，但请说吧，先生。&lt;page&gt;您看到房顶上那群腐囊虫了吗？它们快把我这儿当成自己的窝了！最近胆子越来越肥，已经开始攻击过路的朝圣者了。&lt;hpage&gt;你是想直接把它们杀光？看你这身强健的躯壳，办这事应该不费劲吧？&lt;page&gt;要这么简单就好了。杀完一茬又来一茬，全怪我这酒馆太暖和，招虫子。&lt;page&gt;得想个一劳永逸的办法——扎个巨型稻草人！保准吓得它们再不敢靠近！</entry>
+<entry name="HH_PATRON_LEFT_TALK_1">能找着这酒馆，真算撞大运了！&lt;page&gt;这段攀登比我预想的还要艰难，但我这副老甲壳里仍然残存着些许活力。如今，狠狠灌上几盏蜜露，更是精神倍增！</entry>
+<entry name="HH_BARTENDER_REPEAT">旅行者，来盏蜜露暖暖身子？这地方湿气重，而我的蜜露最能驱寒。</entry>
+<entry name="HH_PATRON_RIGHT_TALK_1">嘿……小姐！我这破甲壳疼得我直不起腰，你的倒鲜亮得像是刚破卵而出！&lt;page&gt;在这种鬼地方你怎么保养的？有啥秘诀能透露不？&lt;hpage&gt;没有什么秘诀，在这种地方只能靠自己，无论靠的是运气还是智慧。</entry>
+<entry name="HH_BARTENDER_NECTAR_DECLINE">&lt;hpage&gt;酒保先生，眼下我拿不出这么多念珠。&lt;page&gt;没关系，那来盏便宜货？出发前给自己壮壮胆。</entry>
+<entry name="HH_BARTENDER_BELLHARTHAUNTED">&lt;hpage&gt;我路过了一个位于古老钟脉里的小镇，就在这片沼泽旁边，那里的居民全被凶恶的丝线缠绕着。&lt;page&gt;啊……纺络的诅咒把那儿的虫子紧紧束缚，可怕得很。那镇上很久就没有音讯传出来过了。&lt;hpage&gt;酒保先生，我建议你提醒客人们，若是要走钟脉边的小道，务必离那地方远点。&lt;page&gt;没问题，旅行者。不过话说回来，如今这世道哪还有安全的路哟。</entry>
+<entry name="HH_BARTENDER_CURSED_REPEAT">小姐，您最好赶紧去看医生！就在沼泽顶部的钟脉附近。&lt;page&gt;虽然她的治疗方法很是邪乎，但您这身子骨可拖不起。</entry>
+<entry name="HH_PATRON_LEFT_TALK_REPEAT">我可能得多喝点才能鼓足勇气，继续上路了。但我能感觉到，圣堡离我更近了……它在顶上呼唤我呢。</entry>
+<entry name="HH_BARTENDER_QUEST_COMPLETE">&lt;hpage&gt;酒保先生，这些是你要的破毛皮。希望足够帮你制作稻草人。&lt;page&gt;够了够了！等我腾出手就去扎稻草人。&lt;page&gt;运气好的话，待你下次路过时，房顶应该已经清静了。衷心感谢你，旅者！</entry>
+<entry name="HH_BARTENDER_QUEST_ACTIVE">要收集腐囊虫的破毛皮，房顶那些小崽子可不够用。去水丘旁边找成年腐囊虫，它们身上有更多的货。&lt;page&gt;当然，你得用点&#8220;尖锐&#8221;的手段，才能让它们乖乖交出毛皮……</entry>
+<entry name="HH_BARTENDER_NECTAR_GOT">小姐，您回来啦！底下动静不小……没出什么岔子吧？&lt;hpage&gt;&lt;hpage&gt;先生，你家地窖闹蚂蚁，怎么不提前知会？&lt;page&gt;哎！您这身手……小小蚂蚁肯定不在话下嘛！是吧？&lt;page&gt;啊哈！我看您也得到了战利品，这笔交易对咱们双方都算得上圆满！&lt;page&gt;小姐，好好享受这瓶蜜露吧。这滋味普通的朝圣者可尝不着。</entry>
+<entry name="HH_BARTENDER_DECLINE_QUEST">唉，理解理解。你毕竟有要事在身，我再想想办法吧。</entry>
+<entry name="HH_BARTENDER_QUEST_COMPLETE_2">酬劳的话，我这有个东西，您应该能用得上——一个多余的制作匣。&lt;page&gt;本来这是要留给别人的，但那位怕是已经回不来了。</entry>
+<entry name="HH_BARTENDER_QUEST_COMPLETE_3">&lt;hpage&gt;多谢先生。这东西对我很有帮助，我的工具将更加锋锐。</entry>
+<entry name="HH_PATRON_RIGHT_TALK_REPEAT">现在疼就疼点吧，等我到达圣堡，这一切都不是问题了。据说所有的痛苦都会在迈入巨扉圣门后烟消云散……</entry>
+<entry name="HH_BARTENDER_NECTAR_ACCEPT">好嘞，成交。陈酿在地窖最底层。&lt;page&gt;我这副甲壳现在僵硬了不少，不方便上上下下的。劳烦您自个儿去取。我相信您是不会多拿的，对吧？</entry>
+<entry name="HH_BARTENDER_RUMOUR_1">如今能来到我这儿的，大多是足够强大的朝圣者……剩下的都被纺络的诅咒害成游魂了。&lt;page&gt;我有时候会想……是他们自己残存的意识在支撑行走呢，还是别的什么鬼东西在作祟……？</entry>
+<entry name="HH_BARTENDER_RUMOUR_2">这片沼泽上方的钟心镇，当年可是个了不得的地方。位于整个中部地区的腹地，被称为朝圣之路的&#8220;心脏&#8221;。&lt;page&gt;如今全垮了……那儿的钟脉里爬满脏东西。纺络早没安全地界啦。</entry>
+<entry name="HH_BARTENDER_RUMOUR_3">小姐，去过上头那个养殖场没？可怕的地方。早先是搞正经蟑螂肉养殖的——为了喂饱我们这些沼泽虫，好让我们认真工作……&lt;page&gt;那鬼地方早被丝咒侵占了。现在，养的蟑螂全都跑出来撒野。</entry>
+<entry name="HH_BARTENDER_QUEST_CANCOMPLETE">旅行者，你回来啦？破毛皮收集得怎么样？屋顶上叽叽喳喳吵个没完，我的老顾客们都要跑光了！</entry>
+<entry name="HH_BARTENDER_DRINK_PROMPT">要喝点什么吗？</entry>
+<entry name="HH_BARTENDER_QUEST_DECLINEPELTS">嗯……不打算交给我？虽然不知道原因，但求您发发善心，再考虑考虑。</entry>
+<entry name="HH_BARTENDER_NECTAR_PAID">准备去取陈年蜜露了吗？您可为它付了不少念珠，我想您肯定也急着将它收入囊中。&lt;page&gt;陈酿在地窖的底层，地窖门给您开着，麻烦您手脚麻利点。</entry>
+<entry name="HH_BARTENDER_GREET">哈！贵客临门。想来盏蜜露，还是歇个脚，或者两样都要？&lt;hpage&gt;这地方真是不错。这湿漉漉的平原上，最缺你这里暖烘烘的炉火。&lt;page&gt;是啊，这地界爬上来可不容易。早先只有朝圣者路过，如今世道古怪，连您这副稀罕甲壳都到处晃悠。&lt;page&gt;前阵子有个老战士在我这儿闹腾得欢，这几天顶层客房又住进个小姑娘。&lt;page&gt;那姑娘正想找您这样的利落角色，有空不妨上楼瞧瞧？</entry>
+<entry name="HH_BARTENDER_ACCEPT_QUEST">好极了！让那群臭腐囊虫见识见识，什么叫吓破胆！哈！&lt;page&gt;我需要腐囊虫身上的破毛皮作为材料。劳烦您宰些腐囊虫，取一些它们的破毛皮来。剩下的交给我！</entry>
+<entry name="HH_BARTENDER_QUEST_ACTIVE_2">赶紧把破毛皮弄来吧，越快越好。不能再让它们杀害我的潜在客户们了。&lt;page&gt;本来生意就不算好，收拾虫尸还费劲！</entry>
+<entry name="HH_BARTENDER_REPEAT_ACT3">旅行者，要来喝一盏吗？反正大伙都快完蛋了，今朝有蜜今朝醉噢。</entry>
+<entry name="HH_BARTENDER_OFFER_QUEST_WISHWALL">&lt;hpage&gt;酒保先生，我看见钟心镇祈愿墙上有你的委托。所为何事？&lt;page&gt;啊！太好了！可算找着行家了！&lt;page&gt;您看到房顶上那群腐囊虫了吗？它们快把我这儿当成自己的窝了！最近胆子越来越肥，已经开始攻击过路的朝圣者了。&lt;hpage&gt;你是想直接把它们杀光？看你这身强健的甲壳，办这事应该不费劲吧？&lt;page&gt;要这么简单就好了。杀完一茬又来一茬，全怪我这酒馆太暖和，招虫子。&lt;page&gt;得想个一劳永逸的办法——扎个巨型稻草人！保准吓得它们再不敢靠近！&lt;page&gt;我需要腐囊虫身上的破毛皮作为材料。劳烦您宰些腐囊虫，取一些它们的破毛皮来。剩下的交给我！</entry>
+</entries>

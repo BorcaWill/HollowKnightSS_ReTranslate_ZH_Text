@@ -1,0 +1,26 @@
+﻿<entries>
+<entry name="CREST_UPGRADE_MEET_PT2">&lt;page&gt;不是，也并非因为罪行囚禁。我叫伊娃，是……有点复杂，是织者后裔但又不完全是……&lt;hpage&gt;真奇妙。这番描述同样适用于我。&lt;page&gt;你也是织者后裔？……但又不是？我能感知你的织者血统，但你既不同于他们，也不同于我，一个流动的混合体？你究竟是什么？&lt;page&gt;请靠近些，女士，方便我感知你的本质。</entry>
+<entry name="CREST_UPGRADE_PRE_REPEAT_ADDITIONAL">女士，我的感知再度震颤。您已远远超过凡虫界限。&lt;page&gt;请允许我再次深入感知，才好仔细说明</entry>
+<entry name="CREST_UPGRADE_MEET_ACT3">女士？你还活着，真是太好了……我早已感受到冲突的爆发，苍白之心熊熊燃烧，而后是突如其来的黑暗深渊。&lt;hpage&gt;抱歉，伊娃。我本希望斩杀君主，几乎就要达成目标，但情况变得……复杂了。如今整个纺络都濒临倾覆。&lt;page&gt;但我能从你身上感受到，女士。你仍未屈服于绝望，是否意味着尚存一线希望？&lt;hpage&gt;……希望渺茫。但确实，或许仍有办法化解这场灾难。我将用残存之力追寻这个目标。&lt;page&gt;那么请允许我继续尽力协助你……虽只是微薄之力，但我必倾心奉献。</entry>
+<entry name="CREST_UPGRADE_POST_ADDITIONAL_AVAILABLE">不可思议……你的本质异于凡虫。流动，嬗变，真是奇妙，是我前所未见的存在。&lt;page&gt;以我的力量，或许可以助你更上一层。</entry>
+<entry name="CREST_UPGRADE_TALK_SNARE">&lt;hpage&gt;伊娃，我在寻找织者制造的陷阱装置。你知道在哪么？&lt;page&gt;有点印象。您可以去青苔与巢穴交界处搜寻，母亲们曾在那制造工具。虽是些小玩意，却是为了更大的图谋。&lt;page&gt;我还记得她们制作时的思绪，那份绝望与饥渴，又一次争夺自由的徒劳尝试。当然，终归失败。</entry>
+<entry name="CARETAKER_SNARE_READY">敲钟者，你这一路可够折腾！祈愿、救虫，连我那些沉默的同族都让你说动了！&lt;page&gt;陷阱已在上方布好，我们的力量都缠在丝线上。看着简陋，但威力足够……连神都能制住。&lt;hpage&gt;你们一族对我多次相助，我必将不负所托。&lt;page&gt;那就好，敲钟者，拿出真本事。把那苍白之神引出来，先削弱她，再逼到陷阱上方。&lt;page&gt;触碰陷阱就会激活丝线，但只有你的织针之乐能彻底唤醒术式。时机一到，你自然明白。</entry>
+<entry name="CREST_UPGRADE_PRE_RETURNED">&lt;page&gt;女士，请允许我深入感知，才好仔细说明……</entry>
+<entry name="CREST_UPGRADE_POST">不可思议……你的本质异于凡虫。流动，嬗变，真是奇妙，是我前所未见的存在。&lt;page&gt;如果旅途中你再度进化，请回来找我。以我的力量，或许可以助你更上一层。&lt;hpage&gt;多谢，伊娃。若我本质确实再度进化，我会回来找你。</entry>
+<entry name="CARETAKER_SNARE_TALK1">&lt;hpage&gt;我曾见过你的同族。你们一族专门兜售力量，而我正要掐灭这力量的源头。&lt;hpage&gt;事成之后，这力量真空的世界真能让你们感到高兴？&lt;page&gt;哈……陷阱上现在全是家族徽记，我们也躲那苍白之神半辈子了。&lt;page&gt;要是现在因为公然反抗栽了……这种憋屈结局谁受得了？&lt;page&gt;好了！我活儿干完了。该你大显身手了！敲钟者，你可一定要赢啊，都指望着你呢！</entry>
+<entry name="CREST_UPGRADE_PRE">&lt;hpage&gt;伊娃，你能洞见本质？这等技艺远超虫类。&lt;page&gt;自然是有代价的。我需透过灵魂印记窥视生灵。&lt;hpage&gt;你是指纹章？那象征虫民全部存在与无形枷锁的标记？&lt;page&gt;纹章？对，织者用的古称，试图以简单词汇描述深邃之物。&lt;page&gt;等等，你的本质……莫非……&lt;page&gt;女士，请允许我深入感知，才好仔细说明……</entry>
+<entry name="CREST_UPGRADE_PROMPT">允许洞察？</entry>
+<entry name="CREST_UPGRADE_REPEAT_ACT3">女士，纺络时日无多。若你能进一步突破自身极限，请务必回到我身边。&lt;page&gt;我拥有的任何力量，都将为你所用。&lt;hpage&gt;感激不尽，伊娃。若真如你所言突破极限，我定会回来。</entry>
+<entry name="CREST_UPGRADE_ACCEPT_DIALOGUE">与伊娃联结？</entry>
+<entry name="CREST_UPGRADE_MEET_CURSED">退后，扭曲的寄生物！即便寄居他者躯壳也藏不住贪婪本性。&lt;page&gt;休想玷污此地，更别妄图吞噬我的灵魂。滚开！</entry>
+<entry name="CREST_UPGRADE_FIRST_ALL">女士……不可思议……你的本质异于凡虫。流动，嬗变，真是奇妙，是我前所未见的存在。&lt;page&gt;无羁者啊，虽然相交尚浅，但我仍想提出一个自私请求。&lt;hpage&gt;你帮了我很多，伊娃。你想要什么？&lt;page&gt;请您将我的灵魂与记忆缚于您的壳中，就像您其他生物所做的那样。&lt;page&gt;虽然称不上是纹章，但或许能为您献上最后一份微薄馈赠。&lt;hpage&gt;你想被我吞噬？你要知道，那意味着独立意识将不复存在。&lt;page&gt;我明白，但自愿如此。能与无羁者合而为一……是我昔日渴求的解脱，尽管岁月让我几乎遗忘。&lt;page&gt;亲爱的女士，您愿意成全我吗？</entry>
+<entry name="CREST_UPGRADE_ALL">女士，您这具躯壳中存在万千可能，是真正无拘无束的存在。能助您成长，是我的荣幸。&lt;page&gt;最后，请允许我提出自私的请求。&lt;hpage&gt;你帮了我很多，伊娃。你想要什么？&lt;page&gt;请您将我的灵魂与记忆缚于您的壳中，就像您其他生物所做的那样。&lt;page&gt;虽然称不上是纹章，但或许能为您献上最后一份微薄馈赠。&lt;hpage&gt;你想被我吞噬？你要知道，那意味着独立意识将不复存在。&lt;page&gt;我明白，但自愿如此。能与无羁者合而为一……是我昔日渴求的解脱，尽管岁月让我几乎遗忘。&lt;page&gt;亲爱的女士，您愿意成全我吗？</entry>
+<entry name="CREST_UPGRADE_MEET">谁在那儿？是来解救我的？还是来取我性命的？&lt;hpage&gt;我名为大黄蜂，只是一名旅者，无意取你性命。&lt;hpage&gt;你为何被囚于织者遗迹？你曾是他们的敌人？</entry>
+<entry name="CREST_UPGRADE_PRE_REPEAT">女士，我的感知在震颤。你已远超凡虫界限。&lt;page&gt;请允许我再次深入感知，才好仔细说明……</entry>
+<entry name="CREST_UPGRADE_TALK_PURPOSE">&lt;hpage&gt;伊娃，你为何会被困在这里？&lt;page&gt;女士误会了。这囚笼也是我的躯壳，与其中的形体并无差异。&lt;page&gt;我诞生于这里，离开意味着消亡，虽然有时也渴求这平淡结局。&lt;page&gt;我很特殊，母亲们承受着族群诅咒，生育子嗣近乎不可能。&lt;hpage&gt;我很了解这诅咒，伊娃。因为我也是受害者，更是突破禁忌的产物。&lt;hpage&gt;想必你也是对抗这残酷枷锁的尝试？&lt;page&gt;是失败的尝试。符文与甲壳铸就的生命，只能靠囚笼维系。我虽能模仿织者，但终究不是织者。&lt;page&gt;久而久之，这份差异使我们渐行渐远。</entry>
+<entry name="CREST_UPGRADE_ACCEPT">蒙您恩典，我终于能挣脱宿命。&lt;hpage&gt;我欣然接受与你的联结，伊娃。你不必再承受永恒的孤寂。</entry>
+<entry name="CREST_UPGRADE_MEET_OVERBLUE">站住！我能感知到你体内流淌的禁忌之血，那以粗鄙之形生长并重塑世界的秽物。&lt;page&gt;无论你是否自愿沾染此血，凡受其侵蚀者皆不得踏入这里。速速离开！</entry>
+<entry name="CREST_UPGRADE_REPEAT">女士，如果你的本质再度进化，请回来找我。以我的力量，或许能助你更上一层。&lt;hpage&gt;若我本质确实再度进化，我会回来找你。</entry>
+<entry name="CREST_UPGRADE_REOFFER">女士，可愿重新考虑我的请求？让我融入你璀璨魂灵？&lt;page&gt;我明白这是个自私的请求，若您拒绝我也绝无怨言。</entry>
+<entry name="CREST_UPGRADE_DECLINE">&lt;hpage&gt;抱歉，伊娃。我不能答应你，至少现在不行。&lt;hpage&gt;你的心智强大而奇异，联结恐怕会危及我的存在。&lt;page&gt;我明白，女士。希望您能改变心意，我会永远在此等候。</entry>
+</entries>
