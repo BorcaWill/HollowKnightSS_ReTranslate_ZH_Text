@@ -1,0 +1,2 @@
+# HollowKnightSilkSong_ReTranslate_ZH_Text
+试图重新制作空洞骑士丝之歌的汉化包，在第一时间拯救简中玩家于古蜂小女子之中。主要使用MT和GenAI，辅以人工校对。
