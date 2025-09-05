@@ -12,10 +12,10 @@
 """
 
 # 1. 批量导出csv
-python3 converter.py export
+# python3 converter.py export
 
 # 2. 批量英译中
 # python3 MT.py
 
-# 3. 批量导入txt
-# python3 converter.py import
+# 3. 批量把csv文件夹内的所有csv转换为txt
+python3 converter.py import
