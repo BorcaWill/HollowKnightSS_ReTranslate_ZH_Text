@@ -1,48 +1,48 @@
 ﻿<entries>
-<entry name="TRADERS_QUEST_OFFER">&lt;hpage&gt;外头的蟑螂为何要圈养？此等凶兽关起来有什么好处？&lt;page=S&gt;我们这些沼地的虫子总得吃饭吧？淤秽蟑螂繁殖得贼快。虽然壳硬肉糙，破开都费劲，但我们也没得挑嘛。&lt;page=S&gt;吃惯了也倒还行。内脏最香，但这种精贵部位我们早八百年没尝过了。&lt;page=L&gt;哈！日子苦啊！瞧班金这体格，已经饿得瘦骨伶仃了！&lt;page=L&gt;是不是很可怜我们啊，小姐？要不用你那根烧火棍帮我们开开荤？去宰几只蟑螂，把内脏取来，我们会给你个公道价！</entry>
-<entry name="GRUBFARMER_DELIVERY">&lt;hpage&gt;先生，我应钟心镇送货员之请，带来了一枚女王之卵。路途虽险，但卵内的生物尚且还活着。&lt;page&gt;咝——！何等殊荣！竟然由主人亲自护送这样宝贵的包裹！奴才我早就觉得这些送货员无能了……&lt;hpage&gt;你与他们有过联系？这倒是让我惊讶。不知道你遁入这片黑暗后，还与哪些虫往来过……&lt;page&gt;咝——奴才的低语声能传得很远，主人您无需担心我的行踪。奴才所为……皆为效忠于您。&lt;page&gt;现在，恳请您……将小女王……交给我！</entry>
-<entry name="TRADERS_TALK_GENERIC_2">&lt;hpage&gt;外头那些虫兽与其饲主都遭受丝咒侵蚀。二位未被沾染，实属侥幸。&lt;page=L&gt;丝咒？早研究透啦！班金和我可是哲学大师！&lt;page=L&gt;信仰过头的才会中招！全是虔诚惹的祸！&lt;page=S&gt;对！但如果不够虔诚，兴许也会中招！&lt;page=L&gt;要我说，最安全的办法就是别去瞎琢磨！哈！</entry>
-<entry name="GRUBFARMER_GROWING_ACT3">只要主子您还在黑灾肆虐之地穿行，咝——奴才便会辛勤劳作，为主人进行培育。为主人脱胎换骨的承诺……咝——奴才至死方休！</entry>
-<entry name="TRADERS_TALK_GENERIC_1">&lt;page=S&gt;传说在圣堡逼我们捡拾掉落的丝线之前，沼地也曾盛产新鲜美食。&lt;page=S&gt;听着多美啊，小姐。一天到晚地吃，不用担心饿肚子。&lt;page=L&gt;哈！班金，你是刚破卵的吗？净做白日梦！&lt;page=L&gt;现在我们只能靠养蟑螂混口饭吃。这活危险，伙食差，但我们从不抱怨。&lt;page=L&gt;你看吧，越来越多的监管者都染上怪病。但往好处想，对我们来说，肉倒是更加管够了！哈！</entry>
-<entry name="TRADERS_TALK_REPEAT">&lt;page=L&gt;我俩在这儿好得很，小姐。差不多该动身了吧？&lt;page=S&gt;对，赶紧走！另外，呃……多谢帮忙。</entry>
-<entry name="TRADERS_PINS_PROMPT">购买钢棘？</entry>
-<entry name="GRUBFARMER_POPPED">咝——您看起来饥饿难耐了，主人。食物还未养成，请您息怒。奴才我继续努力……因为我永远是您的仆从。</entry>
-<entry name="GRUBFARMER_MEET_3_ACT3">咝——！您来收服奴才了！奴才是您的，卑微的仆从！&lt;hpage&gt;我无意当你的主人。若清除那些黑暗之物帮助了你，仅是机缘巧合。告辞。&lt;page&gt;告辞……？不行不行……咝——强者当纳弱者，弱者理应侍奉！奴才归您了，主人您必须庇护我！&lt;page&gt;快瞧奴才为您建的巢穴！专为恭迎您的到来！我强大的主人！&lt;page&gt;您外出狩猎时，奴才将为您培育……一些好东西。但奴才我需要一些时间。等您回来，就能得到我培育的成果……</entry>
-<entry name="TRADERS_TALK_REFUSE_GIVE">&lt;page=S&gt;啧……怎么磨磨蹭蹭的？你想私吞内脏？克鲁尔，她反悔啦！&lt;page=L&gt;哈，承诺不就是易碎。虽然其他东西也挺易碎的。小姐，要不重新掂量下你这贪心值不值当？</entry>
-<entry name="TRADERS_PINS_DECLINE">&lt;page=S&gt;喂！你是身上没念珠，还是舍不得花？&lt;page=L&gt;小姐，现在可不是抠门的时候！不买这些钢棘，你就只能继续病着了！</entry>
-<entry name="GRUBFARMER_MEET_3">咝——！您来收服奴才了！奴才是您的，卑微的仆从！&lt;hpage&gt;我无意成为你的主人。若杀掉这些虫兽帮助了你，仅是机缘巧合。告辞。&lt;page&gt;告辞？不行不行……咝——强者接纳弱者，弱者应当侍奉！奴才归您，主人您必须保护我！&lt;page&gt;看奴才我建的巢穴！专为恭迎主人的到来！强大的主人！&lt;page&gt;您外出狩猎时，奴才将为您培育……一些好东西。但奴才我需要一些时间。等您回来，就能得到我培育的成果……</entry>
-<entry name="PRINCE_CELL_INSPECT">带有简易锁具的囚笼。</entry>
-<entry name="GRUBFARMER_MEET_1">咝——！我看见了。奴才我看见您的手段了！</entry>
-<entry name="GRUBFARM_MIMIC_REMEET_PRE">&lt;hpage&gt;我想再跟你谈谈。现身吧。</entry>
-<entry name="TRADERS_PINS_OFFER">&lt;hpage&gt;二位，我受雅纳碧医生所托来到此处。她需要一些钢棘来完成一场重要的手术。&lt;page=L&gt;啊呀！班金快看，她病恹恹的！壳里缠着怪东西，手术是要给自己做的吧！&lt;page=S&gt;惨是惨，但咱的废料也是辛辛苦苦收集来的。想要就得掏钱！&lt;page=L&gt;唉！班金说得对，小姐。您虽然是病患，但我们不做慈善。&lt;page=L&gt;只要念珠够，钢棘有的是！</entry>
-<entry name="GRUBFARMER_MEET_2">咝——您真强悍，主人！身形虽小，杀伐果决。还有这味道——古老的气息！</entry>
-<entry name="PRINCE_CELL_REPEAT">别管我了，小虫子。我已认命。&lt;hpage&gt;悉听尊便。</entry>
-<entry name="GRUBFARMER_NEEDOLIN">咝——！此等丝弦天籁，主人，这真是神迹……&lt;hpage&gt;这项技艺所有虫子皆可习得。你若愿意，也能精通。&lt;page&gt;不……仆从必须为主人培育食物。但这天籁之音……实在是令我感到抚慰……</entry>
-<entry name="GRUBFARMER_DELIVERY_POST_SETUP">大功告成。巢穴已扩建完毕，小女王已经开始她的劳作。&lt;page&gt;现在奴才我可以为您培育更多的食物了！您对我满意吗，我的主人？&lt;hpage&gt;你工作勤勉，也从未对我起过任何歹意。若能保持如此，我便没有不满的理由。&lt;page&gt;咝——！奴才一定继续勤恳工作！因为我永远是您忠诚的仆从！</entry>
-<entry name="GRUBFARMER_OPENED1">咝——！主人，奴才培育的食物可还合您心意？请享用……变得更强大。&lt;page&gt;这就是奴才我的侍奉之道。您外出狩猎时，奴才准备食物。永远为主人效劳……&lt;hpage&gt;先生，若你乐于此道便请继续，但请不要称我为主人。我并非你的主人。&lt;page&gt;咝——可您就是……我的主人。您强大，我弱小……我永远是您的仆从……</entry>
-<entry name="TRADERS_QUEST_COMPLETE">&lt;page=S&gt;这味儿！够冲！我这辈子没见过这么多蟑螂内脏！&lt;page=L&gt;班金老伙计，稳住！这些内脏还得切洗炖煮，你的活还多着呢。&lt;page=S&gt;包在我身上，克鲁尔！我们能吃上圣堡级别的宴席啦！&lt;page=L&gt;小姐您呢？要赏脸和我们共进大餐不？&lt;hpage&gt;恕不奉陪，我得继续前行了。而且此等美味给我享用，实属浪费。&lt;page=L&gt;正合我意！俩虫享用正好，仨就嫌多！哈！&lt;page=L&gt;但我希望这工具能让您记住我俩。这是当年我还在驯蟑螂时亲手制作的武器，希望您用得顺手。</entry>
-<entry name="GRUBFARM_MIMIC_GIVE_POST">我要拿走。啊……我的奖赏。给我。</entry>
-<entry name="GRUBFARMER_DELIVERY_POST_DELIVERY">咝——这是……主人亲自护送过来的……我们的巢穴可以扩建了！</entry>
-<entry name="PRINCE_CELL_TALK_ACT3">让我安安静静待在这里吧。这个王国即将倾塌，我应当待在这里，坦然接受一切。&lt;page&gt;在囚笼中死去……也算是我这副甲壳注定的命数了，这片诅咒之地亦是如此。&lt;hpage&gt;如你所愿。</entry>
-<entry name="GRUBFARM_MIMIC_MEET">我能感知到你，藏起来的那位。</entry>
-<entry name="TRADERS_PINS_REPEAT">&lt;page=L&gt;又一笔公道买卖，哈。这些钢棘锋利如初，基本还没开始生锈。快去找您那位医生治病去吧！</entry>
-<entry name="TRADERS_QUEST_ACTIVE_REPEAT">&lt;page=L&gt;小姐，我俩还等着您许诺的蟑螂内脏呢。耐着性子等，但也不太耐烦了，懂我意思吗？&lt;page=S&gt;淤秽蟑螂到处都是，找一只来宰了，破开外壳，把内脏取来。唔——我都流口水了！</entry>
-<entry name="GRUBFARM_MIMIC_GIVE_DENY">给我。拿错了。咝——救救我。</entry>
-<entry name="GRUBFARM_MIMIC_MEET_PRE">&lt;hpage&gt;我能感知到你，隐匿于黑暗之中的那位。现身吧。</entry>
-<entry name="TRADERS_QUEST_REFUSE">&lt;page=L&gt;小姐，你真要拒绝我们吗？无妨！继续慢慢饿死呗，哈！哈！</entry>
-<entry name="TRADERS_QUEST_CANCOMPLETE">&lt;page=L&gt;噢，你身上有股好香的味道！小姐是来兑现承诺的吧？</entry>
-<entry name="GRUBFARM_MIMIC_GRUB">咝——食物……交出来。我要拿走。</entry>
-<entry name="TRADERS_PINS_REOFFER">&lt;page=L&gt;要不再考虑考虑买钢棘的事？小姐，您的健康可比几颗念珠金贵！</entry>
-<entry name="GRUBFARM_MIMIC_GIVE">是的，快给我！</entry>
-<entry name="TRADERS_QUEST_REOFFER">&lt;page=L&gt;小姐，要不用你那根烧火棍帮我们开开荤？去宰几只蟑螂，把它们美味的内脏取来，我们会给你个公道价！</entry>
-<entry name="GRUBFARMER_RETURN">咝——主人，您在召唤奴才我吗？奴才遵命……因您比我更强大。采集之事可以暂缓。</entry>
-<entry name="TRADERS_QUEST_ACCEPT">&lt;page=L&gt;哈！小姐，您可不知自个儿揽了个多大的麻烦。&lt;page=L&gt;算了，麻溜开工吧。淤秽蟑螂到处都是，找几只宰了，把它们内脏取来。简单得很！</entry>
-<entry name="GRUBFARM_MIMIC_NOGRUB">不对。什么都没有。走开。</entry>
-<entry name="PRINCE_CELL_TALK">让我安安静静待在这里吧，旅行者。与其毫无意义地反抗这王国降下的残酷，不如选择接受它。&lt;page&gt;于囚笼钟腐朽，遗忘。总好过丝咒缠身，沦为纺络万千痴愚之一。&lt;hpage&gt;如你所愿。</entry>
-<entry name="GRUBFARMER_TENDING">咝——培育食物需要精细耐心。请容奴才我在您的庇护下劳作……</entry>
-<entry name="GRUBFARM_MIMIC_REMEET">再次现身吧，我们聊聊。</entry>
-<entry name="GRUBFARMER_GROWING">咝——奴才应当伺候主人。奴才我会培育食物。您狩猎时，奴才劳作……永不停歇……</entry>
-<entry name="TRADERS_PINS_ACCEPT">&lt;page=S&gt;交易愉快，小姐。我们卖的绝对都是上等废料！我敢打包票！&lt;page=S&gt;希望这些钢棘能助你甲壳康复！</entry>
-<entry name="GRUBFARMER_MEET_ACT_3">咝——！主人归巢，奴才拜伏！有您的护佑，奴才何惧那肆虐的黑灾！&lt;page&gt;天地在这恐怖攫握中战栗不休！咝——唯有强大者得以生存……以及附庸强者的忠仆……&lt;hpage&gt;我无法久留此地庇护你，先生。我此行是为了斩断此间黑灾的锁锢。各自珍重吧。&lt;page&gt;咝——奴才听到的岂止主人的言语，更识得您胸膛激荡的夙愿——必当达成！奴才唯有殚精竭虑……至死不渝！&lt;page&gt;</entry>
-<entry name="TRADERS_MEET">&lt;page=L&gt;嘿，满脚泥污闯进来作甚？还带着根脏兮兮的烧火棍？嗯？&lt;page=S&gt;就是，来这儿干啥？我们可没干坏事，不像外头那群蟑螂看守者那样疯癫！&lt;page=L&gt;她是来宰咱们的，班金！老伙计，咱们要完犊子啦！哈哈！&lt;hpage&gt;二位，我无意加害你们。针刃只斩挡路之虫。&lt;page&gt;&lt;page=L&gt;当真？外头的监管者可不爱放生面孔过路。小姐，你那烧火棍可要派上大用场咯！</entry>
+<entry name="TRADERS_QUEST_OFFER">＆lt; hpage＆gt;外面的蟑螂，为什么要保留在笔中？它们似乎是笼子或驯服的危险生物。他们是野生的快速育种者，他们是糟糕的。坚硬的贝壳和坚硬的肉，如果您甚至可以打开裂缝，但是可以选择ain＆＃8217; t ain ain＆＃8217; t chosy。胆量是最好的一点，但是它们是一个选择，我们已经有了很长的时间。Benj＆＃8217; n在这里浪费在我们面前，可怜的wretch！您如何充分利用扑克？去偷猎其中一些蟑螂，给我们一些美味的胆量。那里是公平贸易waitin＆＃8217;为你。</entry>
+<entry name="GRUBFARMER_DELIVERY">＆lt; hpage＆gt;先生，我应贝哈特（Bellhart）的快递员的要求带来了一个女王的鸡蛋。这是一次危险的旅程，但是里面的生物使它在这里活着。SSSSSUBLIME如何！认为我亲爱的小姐的压力将是交付珍贵包装的人！我担心那些虚弱的快递员的能力...＆lt; hpage＆gt;知道您与他们相对应，这让我感到惊讶。我必须想知道您还去哪里，以及在您匆匆陷入黑暗之后，您还会和谁说话……＆lt; page＆gt; ssss。我的窃窃私语SSS走得更远，情妇。您不必担心自己的comingss和goingss-ss。我所做的...在您的SSSSS服务中。</entry>
+<entry name="TRADERS_TALK_GENERIC_2">＆lt; hpage＆gt;外面的野兽及其大师都被这片土地所困扰。哦，我们已经解决了所有问题。当我们对它弯腰时，我和我是一对正确的哲学家。这一切都是由太虔诚而引起的！＆lt; page = s＆gt;是的！或者也许不是Bein＆＃8217;足够虔诚！哈哈！</entry>
+<entry name="GRUBFARMER_GROWING_ACT3">当您在黑色卫生的世界中进行SSS茎时，我会成长的Morsss-Ssels。因为我的小姐效果会变成什么...我会辛苦劳作，永远努力...</entry>
+<entry name="TRADERS_TALK_GENERIC_1">＆lt; page = s＆gt; it＆＃8217;说，摩尔人过去曾种植新鲜食物的摩尔人，这是返回的途径，这使我们对Cithin of Catchin＆＃8217;他们的堕落＆＃8217;线程。总是吃＆＃8217；肚皮？＆lt; page = l＆gt; har har！你喜欢孵化，benj＆＃8217; n！所以给了幻想！＆lt; page = l＆gt;现在breedin＆＃8217;蟑螂使我们脱离了Starvin＆＃8217;。危险的工作，而不是最好的饮食，但我们会抱怨＆＃8217;。只为我们意味着更多的肉。！！</entry>
+<entry name="TRADERS_TALK_REPEAT">＆lt; page = l＆gt;我们在这里都很好，小姐。内容，喜欢。p＆＃8217; RAPS是时候该走了，是的，是吗？而且，嗯，感谢您在那里的帮助。</entry>
+<entry name="TRADERS_PINS_PROMPT">购买钢刺？</entry>
+<entry name="GRUBFARMER_POPPED">SSSS。你的饥饿背叛了你，你的死者。杂物还没有长大，但不要让它生气。我会长一个...因为我是您的SSS-SSSLAVE。</entry>
+<entry name="GRUBFARMER_MEET_3_ACT3">SSSS！你来要求我，我是你的。我是您谦虚的SSS-SSSLAVE！如果我削减那些黑人群众有助于您，那只是偶然的。告别。不... SSS-Strong声称弱者，而弱者必须SSS-SSSEVER！我是你的情妇，你是你的情妇，你会保护我！为我的情妇的到来做好准备。我强大的Missssss-surs！但是工作时间。返回我SSSS-SOON，您可能会拥有我的成长...</entry>
+<entry name="TRADERS_TALK_REFUSE_GIVE">＆lt; page = s＆gt; wh ...为什么要延迟？您饲养＆＃8217;他们为自己胆小吗？在这里，她的Goin＆＃8217;回到她的诺言！＆lt; page = l＆gt; har。承诺很容易折断。但是，那么，其他许多事情。您如何重新考虑您在那里的贪婪，Missy？</entry>
+<entry name="TRADERS_PINS_DECLINE">＆lt; page = s＆gt; oi！你有珠子吗？或者您只是不想要＆＃8217;与＆＃8216; em分开？＆lt; page = l＆gt;几乎没有时间成为苦难，米西。您将成为Livin＆＃8217;生病，直到您从我们那里购买这些刺为止。</entry>
+<entry name="GRUBFARMER_MEET_3">SSSS！你来要求我，我是你的。我是您谦虚的SSS-SSSLAVE！如果我对这些生物的杀害有助于您，那只是偶然的。告别。不... SSS-Strong声称弱者，而弱者必须SSS-SSSEVER！我是你的情妇，你是你的情妇，你会保护我！为我的情妇的到来做好准备。我强大的Missssss-surs！但是工作时间。返回我SSSS-SOON，您可能会拥有我的成长...</entry>
+<entry name="PRINCE_CELL_INSPECT">一个简单锁的笼子。</entry>
+<entry name="GRUBFARMER_MEET_1">SSSS！我看见你。我ssss-saw你做了什么！</entry>
+<entry name="GRUBFARM_MIMIC_REMEET_PRE">＆lt; hpage＆gt;我会再次讲话。展示自己。</entry>
+<entry name="TRADERS_PINS_OFFER">＆lt; hpage＆gt;好虫子，我在这里应Yarnaby医生的要求。她需要锻造钢的刺，以进行至关重要的操作。查看＆＃8216; er，benj＆＃8217; n。她都喜欢她！用Somethin紧紧地盘绕＆＃8217;诡异的。我认为这是她自己的操作！如果她想要＆＃8217;我们一定要gettin＆＃8217;付款！＆lt; page = l＆gt;啊！＆＃8216; fraid the Little One说得真实，Missy。您可能是Ailin＆＃8217;但是我们可以提供＆＃8217;慈善。＆lt; page = l＆gt; we＆＃8217; re stockin＆＃8217;您需要的刺。您只好准备与一些珠子分开！</entry>
+<entry name="GRUBFARMER_MEET_2">坚强，你是想象的！SSS-SSMALL，但如此致命。和你的sscent！悠久！</entry>
+<entry name="PRINCE_CELL_REPEAT">留下来，错误。我接受我的位置。</entry>
+<entry name="GRUBFARMER_NEEDOLIN">SSSS！这样的SSSS声音，从空气中拔出并抓住您的丝绸！一个奇迹，我的错过的压力...＆lt; hpage＆gt;这是任何人都可以学习的技能。如果您关心的话，您可以自己掌握这种声音。但是sssound ...是如此的sssssssing ...</entry>
+<entry name="GRUBFARMER_DELIVERY_POST_SETUP">完成了。我们的Nessst更大，小皇后开始了她的辛劳。＆lt; page＆gt;现在我可以为您而成长！您是在我的小姐身上与我联系吗？如果仍然如此，我将没有理由不满意。那我的工作将继续！因为我曾经是您虔诚的SSS-SSSSLAVE！</entry>
+<entry name="GRUBFARMER_OPENED1">SSSS！情妇，我值得莫尔斯·塞斯尔（Morsss-Sssel）吗？您必须consss-cums ... conssss-sum，并成为sss-stronger。当您狩猎时，我会准备Morsssels。总是，为我的强大的Misssss效果准备它们的准备...您是SSSS-Strong，我很虚弱。总是SSS，您的ssss-slave ...</entry>
+<entry name="TRADERS_QUEST_COMPLETE">＆lt; page = s＆gt;那个气味！S＆＃8217;压倒性！我从来没有一次看到如此多的蟑螂肠！这些胆量仍然需要Cuttin＆＃8217;和Cleanin＆＃8217;和Stewin＆＃8217;。您的工作很开心。我们将要吃掉＆＃8217;就像他们很快在城堡里做到了！您将加入＆＃8217;我们为这顿精美的饭菜吗？我必须继续前进，我担心我的味道浪费在我身上。同样多。两个可以唱歌，但是三＆＃8217太多了，是吗？har har！＆lt; page = l＆gt;尽管如此，也许这个工具足以让您＆＃8216;成员吗？我自己的Makin＆＃8217;从我曾经与Muckacrecrees Meself吵架的时候。我敢打赌，您会从中得到一些很好的利用。</entry>
+<entry name="GRUBFARM_MIMIC_GIVE_POST">拿。啊，我的回报。给他们。</entry>
+<entry name="GRUBFARMER_DELIVERY_POST_DELIVERY">有了THISSS ... SSSO由情妇送达...我们的NESSSST可以扩展！</entry>
+<entry name="PRINCE_CELL_TALK_ACT3">离开我。这个王国的崩溃已经到来。更好的是，我待在这里接受它。</entry>
+<entry name="GRUBFARM_MIMIC_MEET">我能感觉到你。隐。</entry>
+<entry name="TRADERS_PINS_REPEAT">＆lt; page = l＆gt; har。这些刺是锋利的，它们几乎没有开始生锈。最好是gettin＆＃8217;返回您的文档以使自己整理好了，是吗？</entry>
+<entry name="TRADERS_QUEST_ACTIVE_REPEAT">＆lt; page = l＆gt; we＆＃8217; re now Waitin＆＃8217;在他们身上，您向我们答应我们的胆量，Missy。耐心，但不要太耐心，你得到了我？切下一个，伸到外壳内，拉出美味的胆量！嗯！</entry>
+<entry name="GRUBFARM_MIMIC_GIVE_DENY">给他们。错了。SSSSOMEONE，SSSSSAVE我。</entry>
+<entry name="GRUBFARM_MIMIC_MEET_PRE">＆lt; hpage＆gt;我可以在那里感知到你，隐藏在黑暗中。展示自己。</entry>
+<entry name="TRADERS_QUEST_REFUSE">＆lt; page = l＆gt;拒绝我们，你，小姐吗？没关系。我们将回到慢慢饿死，哈哈！</entry>
+<entry name="TRADERS_QUEST_CANCOMPLETE">＆lt; page = l＆gt;哦，有人带有美味的气味！来给我们您承诺的，Missy？</entry>
+<entry name="GRUBFARM_MIMIC_GRUB">Morssssss。给他们。拿。</entry>
+<entry name="TRADERS_PINS_REOFFER">＆lt; page = l＆gt; thinkin＆＃8217;认真对待刺，小姐？当然，您的健康状况不及几个珠子！</entry>
+<entry name="GRUBFARM_MIMIC_GIVE">是的，在这里给它！</entry>
+<entry name="TRADERS_QUEST_REOFFER">＆lt; page = l＆gt;如何很好地使用扑克，然后，米西？去偷猎其中一些蟑螂，给我们一些美味的胆量吗？那里是公平贸易waitin＆＃8217;对于你！</entry>
+<entry name="GRUBFARMER_RETURN">怀疑，您呼吁您的SSSS-SLAVE吗？我服从...因为你是ssss-stronger。我的聚会可以等待。</entry>
+<entry name="TRADERS_QUEST_ACCEPT">＆lt; page = l＆gt; har。我认为您不知道您刚刚向自己保证，Missy。沿这些古老的道路到处都有糟糕的地方。只需找到一些，然后拔出了胆量即可。像罪一样容易！</entry>
+<entry name="GRUBFARM_MIMIC_NOGRUB">不对。没有什么。去。</entry>
+<entry name="PRINCE_CELL_TALK">离开我，旅行者。更好的是，我接受这个王国的残酷性，而不是无助于对它的无助。＆＃8216;这比束缚伪装的许多脆弱的思想的困扰。</entry>
+<entry name="GRUBFARMER_TENDING">倾向于Morss-Ssels是一个微妙的Tasssk，需要耐心等待。小姐，让我为你辛苦，在你精致的保护下...</entry>
+<entry name="GRUBFARM_MIMIC_REMEET">再次显示。说自己。</entry>
+<entry name="GRUBFARMER_GROWING">SS奴隶必须养活他的情妇。我会成长。当你狩猎时，我正在工作...总是SSSS ...</entry>
+<entry name="TRADERS_PINS_ACCEPT">＆lt; page = s＆gt; s＆＃8217;愉快的doin＆＃8217;MA＆＃8217; AM。它仅是最好的废料，我们是Sellin＆＃8217;。承诺！他们所有的脊椎都可以完成工作！</entry>
+<entry name="GRUBFARMER_MEET_ACT_3">SSSS！我的女子哈斯回到了我身边！Under her protection, I have no fear of the ssslithering black sssss-sstringss!&lt;page&gt;How the world trembles in their terrible grassssp!在这种情况下，只有强大的ssssurvive……以及那些忠于他们的人……＆lt; hpage＆gt;我不能留在这里以保护你先生，但我知道我的目的是把这片土地剪掉没有黑线。同时，您应该担心自己的安全。小姐，我听到的远不止你的话。我听到您的真实表演，在您体内脉动。看到他们见面，我将继续为您辛苦辛苦...总是SSSSS。</entry>
+<entry name="TRADERS_MEET">＆lt; page = l＆gt; oi，为什么您来这里，全部treadin＆＃8217;泥？带有讨厌的外观＆＃8217;扑克旁边？eh？＆lt; page = s＆gt;是的，为什么您comin＆＃8217;在这里？我们完成了Nothin＆＃8217;错误的。我们都像他们一样扭曲了Roachkeepers！S＆＃8217; blimmin＆＃8217;老伴侣为我们结束！har har！我只削减那些禁止我的道路的人。好吧，他们的守护者在ain ain＆＃8217; t倾向于让陌生人经过，所以您将成为Makin＆＃8217;米西（Missy）很好地利用了yer扑克。</entry>
 </entries>

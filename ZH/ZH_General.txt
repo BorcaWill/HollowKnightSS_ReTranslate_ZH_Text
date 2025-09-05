@@ -1,19 +1,19 @@
 ﻿<entries>
-<entry name="DEMO_END_MESSAGE">试玩版体验结束，感谢您的游玩！</entry>
-<entry name="GAME_TITLE">Hollow Knight: Silksong</entry>
-<entry name="PROLOGUE_EXCERPT_02">赞美你以信仰与劳役编织的片刻安宁，</entry>
-<entry name="ACT_3_SUPER">第三幕</entry>
-<entry name="SAVE_WARNING">本游戏在某些情况下会自动存档。&lt;br&gt;如果屏幕上出现此标志，请不要强行关闭游戏。</entry>
+<entry name="DEMO_END_MESSAGE">感谢您播放演示。</entry>
+<entry name="GAME_TITLE">空心骑士：丝绸</entry>
+<entry name="PROLOGUE_EXCERPT_02">他们看到了您的和平，信仰与辛劳编织，</entry>
+<entry name="ACT_3_SUPER">行为3</entry>
+<entry name="SAVE_WARNING">该游戏会在某些方面自动保存数据。＆lt; br＆gt;在显示此符号时，请不要关闭软件。</entry>
 <entry name="HORNET_NAME">大黄蜂</entry>
-<entry name="ACT_2_SUPER">第二幕</entry>
-<entry name="CONTROL_PROMPT">强烈建议使用游戏手柄</entry>
-<entry name="ACT_2_NAME">圣歌城堡</entry>
-<entry name="PROLOGUE_EXCERPT_AUTHOR">——摘自《纺络谬世录》 指挥家罗米诺 著</entry>
-<entry name="ACT_1_SUPER">第一幕</entry>
-<entry name="PROLOGUE_EXCERPT_03">谁又记得你沉睡于桎梏中的野兽之心？</entry>
-<entry name="PROLOGUE_EXCERPT_01">虫豸皆敬仰你纤弱的神迹之美，</entry>
-<entry name="ACT_1_NAME">纺络</entry>
+<entry name="ACT_2_SUPER">法案2</entry>
+<entry name="CONTROL_PROMPT">强烈建议使用控制器</entry>
+<entry name="ACT_2_NAME">歌曲城堡</entry>
+<entry name="PROLOGUE_EXCERPT_AUTHOR">- 源自pharloom＆＃8217;由Romino指挥</entry>
+<entry name="ACT_1_SUPER">法案1</entry>
+<entry name="PROLOGUE_EXCERPT_03">他们忘记了您的心，沉睡和奴役，</entry>
+<entry name="PROLOGUE_EXCERPT_01">他们看到了你的美丽，如此脆弱，很好，</entry>
+<entry name="ACT_1_NAME">涉及</entry>
 <entry name="ACT_3_NAME">深渊</entry>
-<entry name="PROLOGUE_EXCERPT_04">待你醒来，挣裂千丝缠茧——</entry>
-<entry name="PROLOGUE_EXCERPT_05">本性昭然，众生骇见。</entry>
+<entry name="PROLOGUE_EXCERPT_04">当你醒来时，他们会看到你的真相，</entry>
+<entry name="PROLOGUE_EXCERPT_05">野兽的自然裸露。</entry>
 </entries>

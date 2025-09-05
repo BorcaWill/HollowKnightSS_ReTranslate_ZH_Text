@@ -1,11 +1,11 @@
 ﻿<entries>
-<entry name="GATE_PILGRIM_REMEET_NO_SHRINES">圣堡在召唤，姊妹！我们只有一步之遥了。只需群钟赐福，巨扉圣门定将开启。&lt;hpage&gt;我会敲响那些巨钟。幸运的话，你们无需久候。</entry>
-<entry name="GATE_PILGRIM_REPEAT_NO_SHRINES">只有朝圣途中的圣钟可开启此门！&lt;page&gt;恳求您，旅行者。令众钟苏醒，我们方可越过这最终的门槛。</entry>
-<entry name="GATE_PILGRIM_REMEET_GOT_SHRINES">啊……巨门！圣钟皆已苏醒！眼下我们只需奏响音乐，使其共鸣！&lt;hpage&gt;我最近习得以灵丝拨弦成曲的技艺，但仍有些生疏。&lt;page&gt;噢！无需顾虑，姊妹！至诚则灵，凡乐皆美！为我们奏响音乐，圣钟必将回应！演奏吧，我们将为你歌唱！</entry>
-<entry name="GATE_PILGRIM_REMEET_SHRINES">啊……巨扉圣门！圣钟皆已苏醒！&lt;page&gt;恳求您，姊妹。奏乐咏唱，我们定将跟随你。呼唤圣途钟声，开启此门！</entry>
-<entry name="GATE_PILGRIM_REPEAT_SHRINES">恳求您，姊妹。勿再拖延！为我们奏乐，呼唤圣途钟声，开启巨扉圣门！</entry>
-<entry name="GATE_PILGRIM_MEET">巨门啊……巨门！通往圣堡的巨扉圣门近在眼前！&lt;page&gt;咫尺之遥！门后的尊者啊，求您垂怜！开启通路，容我等卑微朝圣者遁入圣光……&lt;hpage&gt;看来没有守门者回应答你的祈愿。我也想进入圣堡，你可知道开门的办法？&lt;page&gt;唉……兵刃伤不了分毫，也不见锁孔。只有朝圣途中的圣钟可开启此门！</entry>
-<entry name="GATE_PILGRIM_MEET_NO_SHRINES">&lt;hpage&gt;朝圣者，我途中遇到过多座此类巨钟，也知晓唤醒方法。请告知余下的位置，我这就去寻找未鸣之钟。&lt;page&gt;姊妹？这是何等伟大的侍奉！您对同伴的馈赠真是慷慨！&lt;page&gt;我会悉数告知神殿方位，将我们听闻的消息原封不动地告诉你……</entry>
-<entry name="GATE_PILGRIM_MEET_ALT">巨门啊……巨门！圣堡巨扉圣门近在眼前！&lt;page&gt;门后的尊者啊，求您垂怜！开启通路，容我等卑微朝圣者遁入圣光……&lt;hpage&gt;看来没有守门者回应你的祈愿。但开启这道门对我也有好处，你可知道开门的办法？&lt;page&gt;唉……兵刃伤不了分毫，也不见锁孔。只有朝圣途中的圣钟可开启此门！</entry>
-<entry name="GATE_PILGRIM_MEET_SHRINES">&lt;hpage&gt;上行途中，我已敲响诸多钟殿内的巨钟，但此门仍然紧闭。还需要怎样的仪式吗？&lt;page&gt;巨钟皆已鸣响？那这神圣门槛便可跨越！最终仪式简单，唯有真诚演奏的音乐，方能使钟声共鸣，引导大门降下。&lt;page&gt;必须由你来引领我们，姊妹！是你带来了这份恩典。演奏或歌唱吧，我们定将跟随你。</entry>
+<entry name="GATE_PILGRIM_REMEET_NO_SHRINES">城堡正在打电话给我们，姐姐！我们站得很近。我们只需要那些钟声的祝福就可以看到大门开放。幸运的是，您不会等待很长时间。</entry>
+<entry name="GATE_PILGRIM_REPEAT_NO_SHRINES">只有大道路的圣铃才能打开路！</entry>
+<entry name="GATE_PILGRIM_REMEET_GOT_SHRINES">啊...大门！铃铛醒了！一直沿着路径。现在，我们只需要音乐就可以看到它们的调整！＆lt; hpage＆gt;最近，我已经学习了通过丝绸丝绸制作歌曲的艺术，尽管我承认这是一项应有更多练习的技能。哦！毫无疑问，姐姐！真诚地玩。任何音乐都足够甜！为我们效力，钟声肯定会响起！玩，我们会唱歌！</entry>
+<entry name="GATE_PILGRIM_REMEET_SHRINES">啊...大门！铃铛醒了！＆lt; page＆gt;我们求你，姐姐。玩或唱歌，我们将跟随。呼唤路径的铃铛，看到大门打开！</entry>
+<entry name="GATE_PILGRIM_REPEAT_SHRINES">我们求你，姐姐。不再延迟！为我们效力。呼唤路径的钟声，看看大门打开！</entry>
+<entry name="GATE_PILGRIM_MEET">大门...大门！哦，通往城堡的大门站在我们面前！大门，我们求你求你！打开道路，让我们贫穷，微不足道的小朝圣者爬到光明中……＆lt; hpage＆gt;我看到没有看门人注意你的请求，朝圣者，尽管我也寻求进入城堡。您是否听说过打开此门户的手段？没有钥匙的孔。他们说，这是铃铛！圣洁的道路上的道路！</entry>
+<entry name="GATE_PILGRIM_MEET_NO_SHRINES">＆lt; hpage＆gt;我已经通过了几个这样的铃铛，朝圣者。我知道如何看到他们醒来。告诉我您对他们的位置的了解，我将寻找仍然保持沉默的人。这是您愿意执行的强大服务！您将赠送给同胞的奇妙礼物。＆lt; page＆gt;急切地，我会告诉你神社及其位置，正如我们听到他们所说的...</entry>
+<entry name="GATE_PILGRIM_MEET_ALT">大门...大门！哦，通往城堡的大门站在我们面前！大门，我们求你求你！打开道路，让我们贫穷，微不足道的小朝圣者爬到光明中……＆lt; hpage＆gt;我看到没有看门人注意您的恳求，朝圣者，尽管我也会从它的开放中受益。您是否听说过一种通过的手段？没有钥匙的孔。他们说，这是铃铛！圣洁的道路上的道路！</entry>
+<entry name="GATE_PILGRIM_MEET_SHRINES">＆lt; hpage＆gt;在我的旅程中，我经过了许多在旧神社中的大铃铛。我每个人都醒了，但这大门仍然保持关闭。看到我们超越超越？然后，现在可能会越过这个神圣的阈值，因为最终任务很简单！只有音乐，播放公平而真实。音乐应贴上钟声，然后看到大门下降。你，谁带来了这个祝福！玩或唱歌，我们将跟随。</entry>
 </entries>
